@@ -1,26 +1,26 @@
 # Silky Restaurant-Quality Hummus
-- **Prep Time**: 15 minutes (plus 15-20 min to soften canned chickpeas, or overnight soak + 1 hr cook for dried)
+- **Prep Time**: 15 minutes (plus 15-20 min to soften tinned chickpeas, or overnight soak + 1 hr cook for dried)
 - **Process Time**: 5-8 minutes
-- **Total Time**: ~30 minutes (canned)
-- **Yield**: ~2.5 cups (6-8 servings as a dip)
+- **Total Time**: ~30 minutes (tinned)
+- **Yield**: ~600ml (6-8 servings as a dip)
 - **Difficulty**: Easy
 - **Type**: Appetizer / Dip / Plant-Based
 - **Source**: Developed June 2026 — technique based on the Israeli-style method (overcook chickpeas + whip tahini base before adding chickpeas)
 
 ### Why This Works
 Two techniques make the difference between gritty and silky:
-1. **Overcook the chickpeas with baking soda** so the skins float free and the beans fall apart.
+1. **Overcook the chickpeas with bicarbonate of soda** so the skins float free and the beans fall apart.
 2. **Whip the tahini with lemon and ice water FIRST** — before the chickpeas ever go in — to build a creamy emulsified base.
 
 ### Ingredients
-- [ ] **Garbanzo beans / chickpeas** (1 can or ~1.5 cups cooked) - *Location: pantry*
-- [ ] **Tahini** (½ cup) - *Location: pantry/fridge*
-- [ ] **Lemon** (1, juiced, ~3 Tbsp) - *Location: fridge*
+- [ ] **Chickpeas** (1 × 400g tin or ~255g cooked) - *Location: pantry*
+- [ ] **Tahini** (120g) - *Location: pantry/fridge*
+- [ ] **Lemon** (1, juiced, ~3 tbsp) - *Location: fridge*
 - [ ] **Garlic** (1-2 cloves, grated or minced) - *Location: pantry*
 - [ ] **Ground cumin** (½ tsp) - *Location: spice rack*
 - [ ] **Salt** (¾ tsp, to taste) - *Location: pantry*
-- [ ] **Baking soda** (¼ tsp, for softening chickpeas) - *Location: pantry*
-- [ ] **Ice water** (2-4 Tbsp) - *Location: tap + ice*
+- [ ] **Bicarbonate of soda** (¼ tsp, for softening chickpeas) - *Location: pantry*
+- [ ] **Ice water** (2-4 tbsp) - *Location: tap + ice*
 
 #### To Finish
 - [ ] **Good olive oil** (for drizzling) - *Location: pantry*
@@ -37,9 +37,9 @@ Two techniques make the difference between gritty and silky:
 ### Instructions
 
 #### 1. Soften the Chickpeas
-1. Drain the chickpeas. Put them in a pot with water + ¼ tsp baking soda.
+1. Drain the chickpeas. Put them in a pot with water + ¼ tsp bicarbonate of soda.
 2. Simmer 15-20 minutes until they're mushy and the skins start floating free. (For dried: soak overnight, then cook ~1 hr until very soft.)
-3. The baking soda breaks down the skins — this is the single biggest texture upgrade.
+3. The bicarbonate of soda breaks down the skins — this is the single biggest texture upgrade.
 
 #### 2. Remove the Skins (~80% is plenty)
 1. Drain into a bowl of cold water.
@@ -54,7 +54,7 @@ Two techniques make the difference between gritty and silky:
 #### 4. Whip the Tahini Base (the key step)
 1. In the food processor: tahini + lemon-garlic juice + salt + cumin.
 2. Run it — **it will seize up thick and pasty. This is supposed to happen.**
-3. With the processor running, drizzle in ice water 1 Tbsp at a time until it turns pale, smooth, and creamy (~2-4 Tbsp). Cold water helps it emulsify lighter and fluffier.
+3. With the processor running, drizzle in ice water 1 tbsp at a time until it turns pale, smooth, and creamy (~2-4 tbsp). Cold water helps it emulsify lighter and fluffier.
 
 #### 5. Add the Chickpeas
 1. Add the warm, softened, de-skinned chickpeas.
