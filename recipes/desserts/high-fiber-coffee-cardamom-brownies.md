@@ -14,33 +14,33 @@
 ## Ingredients
 
 **Chocolate Base:**
-- [ ] **Unsalted butter** (¾ cup / 170g, plus more for greasing) - *Location: check refrigerator*
-- [ ] **Semi-sweet chocolate** (7 oz / 200g, chunks or chips) - *Location: check pantry*
+- [ ] **Unsalted butter** (170g, plus more for greasing) - *Location: check refrigerator*
+- [ ] **Dark (semi-sweet) chocolate** (200g, chunks or chips) - *Location: check pantry*
 - [ ] **Instant espresso granules** (4½ tsp) - *Location: check pantry*
 - [ ] **Vanilla extract** (1 tsp) - *Location: check pantry*
 - [ ] **Ground green cardamom** (¼ tsp, from 6-9 pods freshly ground) - *Location: check pantry or spice aisle*
 - [ ] **Ground cinnamon** (½ tsp) - *Location: check pantry*
 - [ ] **Fine sea salt** (½ tsp) - *Location: check pantry*
-- [ ] **Unsweetened cocoa powder** (4 tbsp) - *Location: check pantry*
-- [ ] **Date paste or date syrup** (½ cup total: ¼ cup base + 3-4 tbsp additional) - *Location: check pantry*
-- [ ] **Black bean purée** (½ cup / 120g, completely smooth) - *Location: make from canned black beans*
+- [ ] **Unsweetened cocoa powder** (20g) - *Location: check pantry*
+- [ ] **Date paste or date syrup** (120ml total: 60ml base + 3-4 tbsp additional; about 150g total if using paste [½ cup total: ¼ cup base + 3-4 tbsp additional]) - *Location: check pantry* <!-- CHECK -->
+- [ ] **Black bean purée** (120g, completely smooth) - *Location: make from tinned black beans*
 - [ ] **Ground flaxseed** (1 tbsp) - *Location: check pantry or refrigerator*
 - [ ] **Warm water** (3-4 tbsp, altitude-adjusted) - *Location: tap*
-- [ ] **Molasses** (2 tsp) - *Location: check pantry*
+- [ ] **Black treacle** (2 tsp [molasses]) - *Location: check pantry* <!-- CHECK -->
 
 **Egg + Sugar:**
 - [ ] **Large eggs** (4, altitude-adjusted from 3) - *Location: check refrigerator*
-- [ ] **Granulated sugar** (6 tbsp / 75g, altitude-adjusted from 4 tbsp) - *Location: check pantry*
+- [ ] **Caster sugar** (75g, altitude-adjusted from 50g) - *Location: check pantry*
 
 **Dry Mix:**
-- [ ] **Rye flour** (⅓ cup / 45g) - *Location: check pantry*
+- [ ] **Rye flour** (45g) - *Location: check pantry*
 - [ ] **Wheat germ** (1 tbsp) - *Location: check pantry*
-- [ ] **Pistachios** (⅓ cup, to be finely ground) - *Location: check pantry*
+- [ ] **Pistachios** (40g, to be finely ground) - *Location: check pantry*
 - [ ] **Rolled oats** (2 tbsp, to be finely ground with pistachios) - *Location: check pantry*
 
 ## Equipment
-- [ ] **8-inch square baking pan**
-- [ ] **Parchment paper** (with overhang on 2 sides)
+- [ ] **20cm square baking tin**
+- [ ] **Baking paper** (with overhang on 2 sides)
 - [ ] **Food processor** (for black beans, pistachios, oats)
 - [ ] **Stand mixer or hand mixer** (for eggs + sugar)
 - [ ] **Medium pot or microwave-safe bowl** (for melting chocolate)
@@ -51,13 +51,13 @@
 ## Instructions
 
 ### Step 1: Prep (5 min)
-1. Preheat oven to **370°F** (altitude-adjusted from 350°F)
-2. Grease 8-inch square pan with butter
-3. Line with parchment paper with overhang on 2 sides
-4. Lightly butter the parchment
+1. Preheat oven to **190°C / 170°C fan / gas 5** (altitude-adjusted from 180°C / 160°C fan / gas 4)
+2. Grease 20cm square tin with butter
+3. Line with baking paper with overhang on 2 sides
+4. Lightly butter the baking paper
 
 ### Step 2: Prepare Ingredients (10 min)
-5. **Black beans**: Drain and rinse canned black beans, purée in food processor until completely smooth (no chunks!)
+5. **Black beans**: Drain and rinse tinned black beans, purée in food processor until completely smooth (no chunks!)
 6. **Pistachios + oats**: Grind together in food processor to fine meal (stop before they become paste)
 7. **Dry mix**: Combine rye flour, wheat germ, ground pistachios, ground oats in bowl
 8. Set aside
@@ -69,13 +69,13 @@
 12. Whisk in: all date paste/syrup
 13. Whisk in: black bean purée (should be completely smooth)
 14. Whisk in: ground flaxseed
-15. Whisk in: molasses
+15. Whisk in: black treacle
 16. Whisk in: **3 tbsp warm water** to start (have extra ready)
 17. Mixture should be smooth, glossy, and warm (not hot)
 18. Set aside to cool slightly
 
 ### Step 4: Mix Eggs + Sugar (1 min)
-19. In bowl, combine: 4 eggs + 6 tbsp sugar
+19. In bowl, combine: 4 eggs + 75g sugar
 20. **Whisk together just until combined** (~30 seconds)
 21. No need to aerate - we want dense, fudgy texture (not cake-like)
 22. Mixture will be uniform yellow color
@@ -95,9 +95,9 @@
 30. Do NOT overmix!
 
 ### Step 7: Bake (50-55 min at altitude)
-31. Pour batter into prepared pan
+31. Pour batter into prepared tin
 32. Spread evenly with spatula
-33. Bake at **370°F** on middle rack
+33. Bake at **190°C / 170°C fan / gas 5** on middle rack
 34. Check at **45 minutes** (dense batter takes longer than typical brownies)
 35. **Doneness test**: Insert toothpick in center
     - Should have **moist, fudgy crumbs** (NOT clean, NOT wet batter)
@@ -106,25 +106,25 @@
 37. **Total bake time: 50-55 minutes** (tested at 5,280 ft altitude)
 
 ### Step 8: Cool & Cut (60+ min)
-38. Remove from oven and cool in pan on wire rack
+38. Remove from oven and cool in tin on wire rack
 39. Cool **at least 1 hour** (preferably 2 hours for cleanest cuts)
-40. Use parchment overhang to lift brownies out of pan
+40. Use baking paper overhang to lift brownies out of tin
 41. Cut into 9 squares with sharp knife
 42. Wipe knife clean between cuts for neat edges
 
 ## Notes
 
 **Altitude Adjustments (5,280 feet):**
-- Increased oven temp: 350°F → 370°F (faster crust formation)
+- Increased oven temp: 180°C / 160°C fan / gas 4 → 190°C / 170°C fan / gas 5 (faster crust formation)
 - Increased eggs: 3 → 4 (more structure and moisture)
 - Increased water: 1 tbsp → 3-4 tbsp (combat evaporation)
-- Increased sugar: 4 tbsp → 6 tbsp (helps structure and sweetness balance)
-- **Bake time: 50-55 minutes at 370°F** (TESTED: Dense batter needs much longer than expected. Check at 45 min, then every 3-4 min until toothpick has moist crumbs)
+- Increased sugar: 50g → 75g (helps structure and sweetness balance)
+- **Bake time: 50-55 minutes at 190°C / 170°C fan / gas 5** (TESTED: Dense batter needs much longer than expected. Check at 45 min, then every 3-4 min until toothpick has moist crumbs)
 
 **Flavor Profile:**
 - Persian pastry inspiration: pistachios + cardamom + coffee
 - Extra cocoa brings intensity and balances date sweetness
-- Molasses adds depth without extra sugar
+- Black treacle adds depth without extra sugar
 - Black beans invisible in flavor, add moisture and fiber
 
 **Texture Engineering:**
@@ -135,23 +135,23 @@
 - Goal: Fudgy, not cakey or dense
 
 **Fiber Breakdown (~3.4-3.6g per brownie):**
-- Black beans: ~7.5g per pan
-- Rye flour: ~5g per pan
-- Date paste: ~3-4g per pan
-- Cocoa (4 tbsp): ~6g per pan
-- Pistachios: ~4g per pan
-- Flaxseed: ~2.8g per pan
-- Rolled oats: ~1.3g per pan
-- Wheat germ: ~1g per pan
-- **Total: ~31-32g fiber per pan (9 brownies)**
+- Black beans: ~7.5g per tin
+- Rye flour: ~5g per tin
+- Date paste: ~3-4g per tin
+- Cocoa (20g): ~6g per tin
+- Pistachios: ~4g per tin
+- Flaxseed: ~2.8g per tin
+- Rolled oats: ~1.3g per tin
+- Wheat germ: ~1g per tin
+- **Total: ~31-32g fiber per tin (9 brownies)**
 
 **✅ Tested Results (5,280 ft altitude):**
-- **Bake time**: 53 minutes at 370°F (much longer than estimated 35-40 min)
+- **Bake time**: 53 minutes at 190°C / 170°C fan / gas 5 (much longer than estimated 35-40 min)
 - **Texture**: Soft and luscious
   - **IMPORTANT**: First batch whipped eggs 3-4 min → too cake-y/fluffy (tester feedback)
   - **UPDATED**: Recipe now uses just-whisked eggs (no whipping) for traditional fudgy brownie texture
   - For more fudgy texture: Skip egg whipping, just whisk to combine (~30 sec)
-- **Sweetness**: Not super sweet (6 tbsp sugar good, could bump to 7-8 for sweeter preference)
+- **Sweetness**: Not super sweet (75g sugar good, could bump to 90-100g for sweeter preference)
 - **Coffee flavor**: Not directly detectable but adds depth
 - **Cardamom**: Comes through nicely, well-balanced spicing
 - **Bean flavor**: Completely undetectable - SUCCESS
@@ -161,13 +161,13 @@
 **Storage:**
 - Room temp: 2-3 days in airtight container
 - Refrigerated: 5-7 days (will firm up, still delicious)
-- Frozen: 3 months (wrap individually in plastic wrap, then foil)
+- Frozen: 3 months (wrap individually in cling film, then foil)
 
 **Tips:**
 - Grind cardamom fresh from pods for boldest flavor (mortar & pestle or rolling pin)
 - Black bean purée must be completely smooth or you'll have chunks in brownies
 - Don't overgrind pistachios - stop at fine meal, not paste/butter
-- Sugar reduction is aggressive - dates + molasses provide sweetness
+- Sugar reduction is aggressive - dates + black treacle provide sweetness
 - Extra egg and water are critical at altitude
 - Toothpick should have moist crumbs, NOT be clean (key to fudgy texture)
 
@@ -177,7 +177,7 @@
 - **Top not setting after 35 min**: Bake 5 more minutes
 - **Edges browning too fast**: Cover edges with foil strip
 - **Too dense/gummy**: Likely overbaked or needed more liquid
-- **Not sweet enough**: Increase sugar to 8 tbsp next time
+- **Not sweet enough**: Increase sugar to 100g next time
 - **Bean flavor detectable**: Make sure beans are rinsed well and purée is smooth
 
 **Experimental Recipe Notes:**

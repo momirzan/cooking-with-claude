@@ -1,4 +1,4 @@
-# Basque-Style Pumpkin Cheesecake (6-inch)
+# Basque-Style Pumpkin Cheesecake (15cm)
 
 Burnt-top seasonal cheesecake with fresh pumpkin - no crust, ultra-creamy.
 
@@ -10,28 +10,28 @@ Burnt-top seasonal cheesecake with fresh pumpkin - no crust, ultra-creamy.
 
 | Item | Amount |
 |------|--------|
-| Cream cheese (room temp) | 380g (13.5 oz / 1½ packages) |
-| Granulated sugar | 150g (¾ cup) |
-| Pumpkin puree (thick, drained) | 110g (½ cup) |
-| Heavy cream | 75g (⅓ cup) |
+| Cream cheese (room temp) | 380g |
+| Caster sugar | 150g |
+| Pumpkin purée (thick, drained) | 110g |
+| Double cream | 75ml |
 | Large eggs | 2 whole |
 | Egg yolk | 1 |
-| All-purpose flour | 12g (1 Tbsp) |
+| Plain flour | 12g |
 | Vanilla extract | 1½ tsp |
-| Pumpkin pie spice | 1¼ tsp |
+| Pumpkin pie spice (or UK mixed spice) [pumpkin pie spice] | 1¼ tsp | <!-- CHECK -->
 | Kosher salt | ¼ tsp |
 
 ## Instructions
 
 ### Step 1: Roast Pumpkin (if using fresh) - Do 1-2 days ahead
 1. Cut small sugar pumpkin in half, scoop seeds
-2. Roast cut-side down at 375°F for 45-60 minutes until soft
-3. Puree and **drain in cheesecloth 30-60 minutes** - must be thick!
+2. Roast cut-side down at 190°C / 170°C fan / gas 5 for 45-60 minutes until soft
+3. Puree and **drain in muslin 30-60 minutes** - must be thick!
 
-### Step 2: Prep Pan (10 minutes)
-4. Preheat oven to 475°F
-5. Crumple 2 sheets parchment paper, unfold (creates signature wrinkled look)
-6. Line 6-inch springform pan with cross pattern
+### Step 2: Prep Tin (10 minutes)
+4. Preheat oven to 240°C / 220°C fan / gas 9
+5. Crumple 2 sheets baking paper, unfold (creates signature wrinkled look)
+6. Line 15cm springform tin with cross pattern
 7. Let excess hang over edges
 
 ### Step 3: Make Batter (10 minutes)
@@ -39,8 +39,8 @@ Burnt-top seasonal cheesecake with fresh pumpkin - no crust, ultra-creamy.
 8. Add all ingredients: cream cheese, sugar, pumpkin, cream, eggs, yolk, vanilla, flour, spices, salt
 9. Blend on high 3-4 minutes until completely smooth
 
-### Step 4: Bake (28-35 minutes at 475°F)
-10. Pour batter into prepared pan
+### Step 4: Bake (28-35 minutes at 240°C / 220°C fan / gas 9)
+10. Pour batter into prepared tin
 11. Bake until:
     - Top is deeply browned (almost burnt - this is correct!)
     - Center still jiggly like Jell-O
@@ -58,9 +58,9 @@ Burnt-top seasonal cheesecake with fresh pumpkin - no crust, ultra-creamy.
 ## Notes
 
 - **No sour cream**: Authentic La Viña style - extra cream cheese makes it richer
-- **High heat essential**: 475°F creates signature burnt caramelized top
+- **High heat essential**: 240°C / 220°C fan / gas 9 creates signature burnt caramelized top
 - **Jiggly center**: Very important - sets as it cools
-- **Wrinkled parchment**: Iconic Basque aesthetic
+- **Wrinkled baking paper**: Iconic Basque aesthetic
 - **Deflation normal**: Part of the rustic charm
 - **Best next day**: Flavors meld after overnight refrigeration
 - **Pumpkin drainage critical**: Too-wet puree = watery cheesecake

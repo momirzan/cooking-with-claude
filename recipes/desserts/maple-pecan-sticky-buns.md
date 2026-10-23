@@ -11,26 +11,26 @@
 
 **Dough:**
 - [ ] **Active dry yeast** (2 tsp)
-- [ ] **Buttermilk** (1 cup, warmed to 100°F)
-- [ ] **Granulated sugar** (2 Tbsp)
-- [ ] **All-purpose flour** (4¼ cups, plus more as needed)
+- [ ] **Buttermilk** (240ml, warmed to 38°C)
+- [ ] **Caster sugar** (2 tbsp)
+- [ ] **Plain flour** (530g, plus more as needed)
 - [ ] **Kosher salt** (1¼ tsp)
-- [ ] **Unsalted butter** (8 Tbsp, softened, cut into pieces)
+- [ ] **Unsalted butter** (115g, softened, cut into pieces)
 - [ ] **Large eggs** (3, lightly beaten)
 
 **Topping:**
-- [ ] **Maple syrup** (½ cup)
-- [ ] **Light brown sugar** (½ cup packed)
-- [ ] **Unsalted butter** (6 Tbsp)
+- [ ] **Maple syrup** (120ml)
+- [ ] **Light brown soft sugar** (110g)
+- [ ] **Unsalted butter** (90g)
 - [ ] **Kosher salt** (½ tsp)
-- [ ] **Toasted chopped pecans** (2 cups)
+- [ ] **Toasted chopped pecans** (240g)
 
 **Filling:**
-- [ ] **Light brown sugar** (⅔ cup packed)
-- [ ] **Ground cinnamon** (1 Tbsp)
+- [ ] **Light brown soft sugar** (145g)
+- [ ] **Ground cinnamon** (1 tbsp)
 - [ ] **Ground cardamom** (1 tsp)
 - [ ] **Kosher salt** (¼ tsp)
-- [ ] **Unsalted butter** (6 Tbsp, very soft)
+- [ ] **Unsalted butter** (90g, very soft)
 
 ### Make-Ahead Timeline
 
@@ -42,36 +42,36 @@
    - Refrigerate (1+ hours or overnight)
 
 2. **Assemble rolls**:
-   - Make topping: Cook maple syrup mixture, pour in pan, add pecans
+   - Make topping: Cook maple syrup mixture, pour in tin, add pecans
    - Make filling: Mix sugar and spices
    - Roll dough, spread butter, add filling
-   - Cut into 12 pieces, place in pan
+   - Cut into 12 pieces, place in tin
    - Cover and refrigerate until baking day
 
 #### Day 2 (Baking Day):
 3. **Rise and bake**:
    - Remove from fridge, let rise 1-2 hours until puffy
-   - Bake at 350°F for 30-35 minutes
+   - Bake at 180°C / 160°C fan / gas 4 for 30-35 minutes
    - Cool 5 minutes, flip onto serving tray
    - Serve warm
 
 ### Key Techniques
 
 **Dough Success:**
-- Buttermilk should be exactly 100°F for yeast
+- Buttermilk should be exactly 38°C for yeast
 - Dough is ready when billowy and clearing sides of bowl
-- Add flour gradually if too sticky (up to 4 Tbsp extra)
+- Add flour gradually if too sticky (up to 30g extra)
 
 **Assembly Tips:**
-- Roll dough to ¼-inch thickness (12x16 rectangle)
-- Leave 1 inch unbuttered edge for sealing
+- Roll dough to 5mm thickness (30 × 40cm rectangle)
+- Leave 2.5cm unbuttered edge for sealing
 - Use dental floss for clean cuts (slide under, cross over, pull)
 
 **The Flip:**
 - Must flip within 5 minutes or caramel hardens
 - Run knife around edges first
 - Place tray on top, flip decisively
-- If caramel sticks, warm pan briefly
+- If caramel sticks, warm tin briefly
 
 ### Storage & Notes
 - **Fresh**: Best served warm day of baking

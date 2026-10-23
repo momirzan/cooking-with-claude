@@ -19,15 +19,15 @@ This recipe is adapted from Kierin Baldwin, one of the great pie makers in New Y
 ## Ingredients
 
 ### For the Filling
-- [ ] **Unsalted butter** (2 Tbsp)
-- [ ] **Apples** (2.5 lbs, peeled, cored, cut into wedges - about 5 large Honeycrisps)
+- [ ] **Unsalted butter** (30g)
+- [ ] **Apples** (1.1kg, peeled, cored, cut into wedges - about 5 large Honeycrisps)
 - [ ] **Ground allspice** (1/4 tsp)
 - [ ] **Ground cinnamon** (1/2 tsp)
 - [ ] **Kosher salt** (1/4 tsp)
-- [ ] **Sugar** (3/4 cup + 1 Tbsp, divided)
-- [ ] **All-purpose flour** (2 Tbsp)
-- [ ] **Cornstarch** (2 tsp)
-- [ ] **Apple cider vinegar** (1 Tbsp)
+- [ ] **Caster sugar** (150g + 1 tbsp, divided)
+- [ ] **Plain flour** (2 tbsp)
+- [ ] **Cornflour** (2 tsp)
+- [ ] **Apple cider vinegar** (1 tbsp)
 
 ### For Assembly
 - [ ] **All-purpose pie dough** (1 recipe - see all-purpose-pie-dough.md)
@@ -35,8 +35,8 @@ This recipe is adapted from Kierin Baldwin, one of the great pie makers in New Y
 
 ## Equipment
 
-- [ ] Large skillet
-- [ ] 9-inch pie plate
+- [ ] Large frying pan
+- [ ] 23cm pie dish
 - [ ] Rolling pin
 - [ ] Large baking sheet
 - [ ] Wire cooling rack
@@ -44,21 +44,21 @@ This recipe is adapted from Kierin Baldwin, one of the great pie makers in New Y
 ## Instructions
 
 ### Step 1: Cook the Apples
-Melt butter in a large skillet set over medium-high heat and add apples to the pan. Stir to coat fruit with butter and cook, stirring occasionally.
+Melt butter in a large frying pan set over medium-high heat and add apples to the pan. Stir to coat fruit with butter and cook, stirring occasionally.
 
 ### Step 2: Add Sugar and Spices
-Meanwhile, whisk together the spices, salt and 3/4 cup sugar, and sprinkle this over the pan, stirring to combine. Lower heat and cook until apples have started to soften, approximately 5 to 7 minutes.
+Meanwhile, whisk together the spices, salt and 150g sugar, and sprinkle this over the pan, stirring to combine. Lower heat and cook until apples have started to soften, approximately 5 to 7 minutes.
 
 ### Step 3: Thicken the Filling
-Sprinkle the flour and cornstarch over the apples and continue to cook, stirring occasionally, another 3 to 5 minutes. Remove pan from heat, add cider vinegar, stir and scrape fruit mixture into a bowl and allow to cool completely.
+Sprinkle the flour and cornflour over the apples and continue to cook, stirring occasionally, another 3 to 5 minutes. Remove pan from heat, add cider vinegar, stir and scrape fruit mixture into a bowl and allow to cool completely.
 
-**Tip**: The fruit mixture will cool faster if spread out on a rimmed baking sheet.
+**Tip**: The fruit mixture will cool faster if spread out on a rimmed baking tray.
 
 ### Step 4: Prepare the Oven and Bottom Crust
-Place a large baking sheet on the middle rack of oven and preheat to 425°F. Remove one disc of dough from the refrigerator and, using a pin, roll it out on a lightly floured surface until it is roughly 12 inches in diameter.
+Place a large baking sheet on the middle rack of oven and preheat to 220°C / 200°C fan / gas 7. Remove one disc of dough from the refrigerator and, using a pin, roll it out on a lightly floured surface until it is roughly 30cm in diameter.
 
-### Step 5: Line the Pie Plate
-Fit this crust into a 9-inch pie plate, trimming it to leave a 1/2-inch overhang. Place this plate, with the dough, in the freezer. Roll out the remaining dough on a lightly floured surface until it is roughly 10 or 11 inches in diameter.
+### Step 5: Line the Pie Dish
+Fit this crust into a 23cm pie dish, trimming it to leave a 1cm overhang. Place this dish, with the dough, in the freezer. Roll out the remaining dough on a lightly floured surface until it is roughly 25 or 28cm in diameter.
 
 ### Step 6: Fill the Pie
 Remove pie crust from freezer and put the cooled pie filling into it. Cover with remaining dough.
@@ -70,7 +70,7 @@ Press the edges together, trim the excess, then crimp the edges with the tines o
 Lightly brush the top of the pie with egg wash and sprinkle with remaining tablespoon of sugar.
 
 ### Step 9: Bake
-Place pie in oven and bake on hot baking sheet for 20 minutes, then reduce temperature to 375°F. Continue to cook until the interior is bubbling and the crust is golden brown, about 30 to 40 minutes more.
+Place pie in oven and bake on hot baking sheet for 20 minutes, then reduce temperature to 190°C / 170°C fan / gas 5. Continue to cook until the interior is bubbling and the crust is golden brown, about 30 to 40 minutes more.
 
 ### Step 10: Cool
 Remove and allow to cool on a windowsill or kitchen rack, about two hours.
@@ -83,8 +83,8 @@ Remove and allow to cool on a windowsill or kitchen rack, about two hours.
 | T-3 hours | Preheat oven, prep apples |
 | T-2.5 hours | Cook filling, let cool completely |
 | T-1.5 hours | Roll dough, assemble pie |
-| T-1.25 hours | Bake at 425°F for 20 min |
-| T-1 hour | Reduce to 375°F, bake 30-40 min more |
+| T-1.25 hours | Bake at 220°C / 200°C fan / gas 7 for 20 min |
+| T-1 hour | Reduce to 190°C / 170°C fan / gas 5, bake 30-40 min more |
 | T-0 | Remove, cool 2 hours before serving/transporting |
 
 ## Notes & Tips
@@ -107,7 +107,7 @@ Best for pie (hold their shape, balance of sweet/tart):
 
 - **Room temperature**: 2 days loosely covered
 - **Refrigerator**: Up to 5 days
-- **Reheat**: 10 min at 350°F to refresh crust
+- **Reheat**: 10 min at 180°C / 160°C fan / gas 4 to refresh crust
 
 ---
 

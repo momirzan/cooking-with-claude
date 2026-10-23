@@ -3,29 +3,29 @@
 - **Cook Time**: 5 minutes
 - **Chill Time**: 2-4 hours
 - **Total Time**: 2.5-4.5 hours
-- **Yield**: ~2 lbs fudge (24-36 pieces)
+- **Yield**: ~900g fudge (24-36 pieces)
 - **Difficulty**: Easy
 - **Type**: Holiday Dessert / Gift
 - **Source**: Family Recipe
 
 ### Ingredients
-- [ ] **Sweetened condensed milk** (1 can, 14 oz) - *Location: pantry*
-- [ ] **Chocolate chips or chopped chocolate** (2 cups, ~12 oz) - *Location: pantry*
-- [ ] **Butter** (2 tbsp) - *Location: refrigerator*
+- [ ] **Sweetened condensed milk** (1 × 397g tin) - *Location: pantry*
+- [ ] **Chocolate chips or chopped chocolate** (~340g) - *Location: pantry*
+- [ ] **Butter** (30g) - *Location: refrigerator*
 - [ ] **Vanilla extract** (1 tsp) - *Location: pantry*
 - [ ] **Salt** (pinch) - *Location: pantry*
 - [ ] **Optional: Chopped nuts** (walnuts, pecans) - *Location: pantry*
 
 ### Equipment
-- [ ] **8x8 or 9x9 baking pan**
-- [ ] **Parchment paper**
+- [ ] **20cm or 23cm square baking tin**
+- [ ] **Baking paper**
 - [ ] **Medium saucepan or double boiler**
 - [ ] **Spatula**
 
 ### Instructions
 
-#### 1. Prepare Pan
-Line baking pan with parchment paper, leaving overhang for easy removal
+#### 1. Prepare Tin
+Line baking tin with baking paper, leaving overhang for easy removal
 
 #### 2. Melt Chocolate Mixture
 1. Combine chocolate chips, condensed milk, and butter in saucepan
@@ -36,20 +36,20 @@ Line baking pan with parchment paper, leaving overhang for easy removal
 #### 3. Finish the Fudge
 1. Stir in vanilla and salt
 2. Fold in nuts if using
-3. Pour into prepared pan
+3. Pour into prepared tin
 4. Smooth top with spatula
-5. Optional: Tap pan on counter to release air bubbles
+5. Optional: Tap tin on counter to release air bubbles
 
 #### 4. Chill and Cut
 1. Refrigerate until firm (2-4 hours)
-2. Lift from pan using parchment overhang
+2. Lift from tin using baking paper overhang
 3. Cut into squares
 4. Store in airtight container
 
 ### Notes
 
 **Chocolate Choice:**
-- Semi-sweet chips = classic sweetness
+- Dark (semi-sweet) chocolate chips = classic sweetness
 - Dark chocolate = less sweet, more intense
 - Milk chocolate = sweeter, creamier
 - Mix varieties for complexity

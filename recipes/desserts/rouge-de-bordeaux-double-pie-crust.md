@@ -22,11 +22,11 @@ For flaky, deep, flavorful, deep amber crusts.
 
 | Amount | Ingredient |
 |--------|------------|
-| 2 cups + 2 Tbsp | Rouge de Bordeaux Flour |
+| 265g [2 cups + 2 Tbsp] | Rouge de Bordeaux Flour | <!-- CHECK -->
 | 1 tsp | Sugar (can be omitted) |
 | 1/2 tsp | Salt |
-| 3/4 cup | Butter, cold |
-| 8-10 Tbsp | Ice water or milk |
+| 170g | Butter, cold |
+| 120-150ml | Ice water or milk |
 
 ### Blend Alternatives
 
@@ -34,7 +34,7 @@ See [flour cheat sheet](../../ingredients/dry-storage-flour-cheat-sheet.md) for 
 
 - 100% Rouge
 - 70/30 Rouge/Sonora
-- 70/30 Rouge/AP
+- 70/30 Rouge/plain flour
 
 ---
 
@@ -42,7 +42,7 @@ See [flour cheat sheet](../../ingredients/dry-storage-flour-cheat-sheet.md) for 
 
 1. **Mix dry ingredients:** Mix together flour, sugar and salt.
 
-2. **Cut in butter:** Cut butter into 1/2 inch cubes, add to the flour mix. Using fingers, squish each butter cube, until no cubes remain and butter resembles flakes.
+2. **Cut in butter:** Cut butter into 1cm cubes, add to the flour mix. Using fingers, squish each butter cube, until no cubes remain and butter resembles flakes.
 
 3. **Add liquid:** Add cold water or milk, mix to combine until dough forms.
 
@@ -56,7 +56,7 @@ See [flour cheat sheet](../../ingredients/dry-storage-flour-cheat-sheet.md) for 
 
 8. **Final roll and divide:** Roll dough into a rectangle 2 times as long as it is wide, divide dough into 2 equal portions.
 
-9. **Shape and chill:** Shape into a disk, wrap in plastic wrap tightly, and place in the fridge for 2 hours.
+9. **Shape and chill:** Shape into a disk, wrap in cling film tightly, and place in the fridge for 2 hours.
 
 10. **Before rolling:** Let dough sit out at room temperature for 30 minutes before rolling into crust.
 

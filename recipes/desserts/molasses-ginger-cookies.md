@@ -11,66 +11,66 @@
 ### Ingredients
 
 **Wet Ingredients:**
-- [ ] **Neutral oil OR softened vegan butter** (⅓ cup) - *Location: pantry or refrigerator*
-- [ ] **Dark brown sugar** (⅓ cup) - *Location: pantry*
-- [ ] **Molasses** (¼ cup) - *Location: pantry*
+- [ ] **Neutral oil OR softened vegan butter** (80ml oil / 75g vegan butter) - *Location: pantry or refrigerator*
+- [ ] **Dark brown soft sugar** (75g) - *Location: pantry*
+- [ ] **Black treacle** (60ml [molasses, ¼ cup]) - *Location: pantry* <!-- CHECK -->
 - [ ] **Egg** (1 large, lightly beaten; use ~¾ of egg if dough seems too wet) - *Location: refrigerator*
 - [ ] **Vanilla extract** (1 tsp) - *Location: pantry*
 
 **Dry Ingredients:**
-- [ ] **All-purpose flour** (1 cup) - *Location: pantry*
-  - *Optional: swap up to ¼ cup flour for rye flour for deeper flavor*
+- [ ] **Plain flour** (125g) - *Location: pantry*
+  - *Optional: swap up to 30g of the flour for rye flour for deeper flavor*
 - [ ] **Ground ginger** (1 tsp) - *Location: pantry spice drawer*
 - [ ] **Ground cinnamon** (½ tsp) - *Location: pantry spice drawer*
 - [ ] **Ground nutmeg** (⅛ tsp) - *Location: pantry spice drawer*
 - [ ] **Ground cloves** (⅛ tsp) - *Location: pantry spice drawer*
-- [ ] **Baking soda** (½ tsp) - *Location: pantry*
+- [ ] **Bicarbonate of soda** (½ tsp) - *Location: pantry*
 - [ ] **Salt** (pinch) - *Location: pantry*
 
 **For Decorating - Simple Glaze:**
-- [ ] **Powdered sugar** (1 cup) - *Location: pantry*
+- [ ] **Icing sugar** (120g) - *Location: pantry*
 - [ ] **Plant milk** (1-2 tbsp) - *Location: refrigerator*
 - [ ] **Vanilla extract** (½ tsp) - *Location: pantry*
 - [ ] **Lemon** (optional, small squeeze for brightness) - *Location: refrigerator*
 - [ ] **Food coloring** (optional) - *Location: pantry*
 
 **Alternative: Vegan Royal Icing:**
-- [ ] **Powdered sugar** (1 cup) - *Location: pantry*
-- [ ] **Aquafaba** (1 tbsp) - *Location: liquid from canned chickpeas*
+- [ ] **Icing sugar** (120g) - *Location: pantry*
+- [ ] **Aquafaba** (1 tbsp) - *Location: liquid from tinned chickpeas*
 - [ ] **Lemon juice** (¼ tsp) - *Location: refrigerator*
 
 ### Equipment
 - [ ] **Medium mixing bowls** (2)
 - [ ] **Whisk**
 - [ ] **Spatula**
-- [ ] **Plastic wrap**
+- [ ] **Cling film**
 - [ ] **Baking sheet**
-- [ ] **Parchment paper**
+- [ ] **Baking paper**
 - [ ] **Cookie scoop or tablespoon**
 - [ ] **Wire cooling rack**
 
 ### Instructions
 
 #### Step 1: Make the Wet Mix (2 min)
-1. In a medium bowl, whisk together oil (or butter), brown sugar, molasses, egg, and vanilla
+1. In a medium bowl, whisk together oil (or butter), brown sugar, black treacle, egg, and vanilla
 2. Whisk until glossy and fully combined
 
 #### Step 2: Whisk Dry Ingredients (2 min)
-3. In a separate bowl, combine flour, ground ginger, cinnamon, nutmeg, cloves, baking soda, and salt
+3. In a separate bowl, combine flour, ground ginger, cinnamon, nutmeg, cloves, bicarbonate of soda, and salt
 4. Whisk to distribute spices evenly
 
 #### Step 3: Combine Wet + Dry (3 min)
 5. Add dry ingredients to wet mixture
 6. Fold gently with spatula until no dry streaks remain
-7. **If dough is very soft**: Add 1-3 tbsp flour (AP or rye), 1 tbsp at a time, until dough becomes softly scoopable
+7. **If dough is very soft**: Add 1-3 tbsp flour (plain or rye), 1 tbsp at a time, until dough becomes softly scoopable
 
 #### Step 4: Chill the Dough (30 min - 48 hours)
-8. Cover dough with plastic wrap pressed directly onto surface
+8. Cover dough with cling film pressed directly onto surface
 9. Refrigerate at least 30 minutes and up to 48 hours
 
 #### Step 5: Bake (8-10 min)
-10. Preheat oven to **350°F (175°C)**
-11. Line baking sheet with parchment paper
+10. Preheat oven to **180°C / 160°C fan / gas 4**
+11. Line baking sheet with baking paper
 12. Scoop 1-1.5 tbsp portions of dough and roll into smooth balls
 13. Place on sheet with space to spread
 14. Gently press tops to slightly flatten
@@ -78,8 +78,8 @@
 16. Cool 5 minutes on tray, then transfer to wire rack to cool completely before icing
 
 #### Step 6: Decorate (1-6 hours later)
-17. **For Simple Glaze**: Whisk together powdered sugar, plant milk, vanilla, and optional lemon until smooth
-18. **For Vegan Royal Icing**: Whisk together powdered sugar, aquafaba, and lemon juice until smooth and thick
+17. **For Simple Glaze**: Whisk together icing sugar, plant milk, vanilla, and optional lemon until smooth
+18. **For Vegan Royal Icing**: Whisk together icing sugar, aquafaba, and lemon juice until smooth and thick
 19. Decorate cookies once fully cooled (1-6 hours after baking)
 20. Add food coloring if desired
 
@@ -96,8 +96,8 @@
 - Save remaining egg for egg wash on other recipes
 
 **Flavor Variation:**
-- Rye flour option adds deeper, earthier molasses flavor
-- Can substitute up to ¼ cup AP flour with rye (not more or cookies may be dense)
+- Rye flour option adds deeper, earthier black treacle flavor
+- Can substitute up to 30g plain flour with rye (not more or cookies may be dense)
 
 **Make-Ahead:**
 - **Dough**: Can be chilled up to 48 hours before baking
@@ -122,6 +122,6 @@
 - **Cookies too hard**: Overbaked - reduce time by 1-2 minutes next batch
 - **Tops too cracked**: Normal for ginger cookies, embrace the rustic look!
 - **Icing too thick**: Add more liquid 1 tsp at a time
-- **Icing too thin**: Add more powdered sugar 1 tbsp at a time
+- **Icing too thin**: Add more icing sugar 1 tbsp at a time
 
 ---
