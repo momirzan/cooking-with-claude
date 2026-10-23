@@ -41,9 +41,9 @@ See full home-scale recipe in [recipe-database.md](./recipe-database.md)
 ### Commercial Production Specs
 
 #### Batch Sizing
-- **Home batch**: ~2 cups (649g peppers)
-- **Small commercial batch (3x)**: ~6 cups (1,947g / ~4.3 lbs peppers)
-- **Large commercial batch (6x)**: ~12 cups (3,894g / ~8.6 lbs peppers)
+- **Home batch**: ~480ml (649g peppers)
+- **Small commercial batch (3x)**: ~1.4 litres (1,947g peppers)
+- **Large commercial batch (6x)**: ~2.9 litres (3,894g peppers)
 
 **Scaling ratios** (multiply home recipe by):
 - 3x batch: All ingredients × 3
@@ -56,15 +56,15 @@ See full home-scale recipe in [recipe-database.md](./recipe-database.md)
 #### Shelf Life & Storage
 - **Refrigerated**: 1 week in sealed container
 - **Frozen**: 2 months in portioned containers
-- **Commercial packaging**: 8 oz jars for retail, 16 oz containers for kitchen use
+- **Commercial packaging**: 225g jars for retail, 450g containers for kitchen use
 
 #### Labeling Requirements (Retail Deli)
 - Product name: "Red Pepper Miso Paste"
-- Ingredients list: Red bell peppers, onions, shallots, white miso (soybeans, rice, salt, koji culture), garlic, rice wine vinegar, olive oil, nutritional yeast, smoked paprika, salt
+- Ingredients list: Red peppers, onions, shallots, white miso (soybeans, rice, salt, koji culture), garlic, rice wine vinegar, olive oil, nutritional yeast, smoked paprika, salt
 - Allergens: **Contains: Soy**
 - Storage: "Keep refrigerated. Use within 7 days of opening."
 - Made date & use-by date
-- Weight: Net Wt 8 oz (227g)
+- Weight: Net Wt 227g
 
 ---
 
@@ -73,7 +73,7 @@ See full home-scale recipe in [recipe-database.md](./recipe-database.md)
 #### 1. Leek & Basil Sandwich (Vegan)
 **Component role**: Primary spread/flavor base
 
-**Usage per sandwich**: ~2-3 Tbsp
+**Usage per sandwich**: ~2-3 tbsp
 
 **Other components needed**:
 - Leeks (preparation TBD)
@@ -99,17 +99,17 @@ See full home-scale recipe in [recipe-database.md](./recipe-database.md)
 ### Retail Deli Counter Strategy
 
 #### Pricing
-- **Cost per batch** (home-scale 2 cups): ~$8-10 (estimate ingredients)
-- **Retail price** (8 oz jar): $8-12 (market dependent)
+- **Cost per batch** (home-scale 480ml): ~$8-10 (estimate ingredients)
+- **Retail price** (225g jar): $8-12 (market dependent)
 - **Margin**: ~60-70%
 
 #### Packaging Options
-- 8 oz glass jars (retail single-serve)
-- 16 oz containers (bulk for power users)
-- Sample cups (1 oz) for tasting
+- 225g glass jars (retail single-serve)
+- 450g containers (bulk for power users)
+- Sample cups (30g) for tasting
 
 #### Marketing Copy
-*"Slow-cooked red peppers caramelized with miso for deep umami flavor. Spread on sandwiches, stir into soups, or mix with warm water for instant broth. Vegan. Low-oil. Made in-house."*
+*"Slow-cooked red peppers caramelized with miso for deep umami flavor. Spread on sandwiches, stir into soups, or mix with warm water for instant stock. Vegan. Low-oil. Made in-house."*
 
 #### Cross-selling Opportunities
 - Pair with fresh bread from bakery
@@ -126,16 +126,16 @@ See full home-scale recipe in [recipe-database.md](./recipe-database.md)
 ### Production Notes & Tips
 
 #### Equipment Needed (Large Batches)
-- Heavy-bottomed pan or Dutch oven (6+ quart capacity for 3x batch)
+- Heavy-bottomed pan or Dutch oven (lidded casserole) (5.7+ litre capacity for 3x batch)
 - Two pans recommended for 6x batch
-- Food processor (12+ cup capacity)
+- Food processor (2.8+ litre capacity)
 - Portioning containers or jars
 - Labels
 
 #### Common Issues & Solutions
 - **Catching/burning**: Add water splashes more frequently in larger batches
 - **Uneven caramelization**: Stir more often, ensure even heat distribution
-- **Too thick**: Add warm water or vegetable broth during processing
+- **Too thick**: Add warm water or vegetable stock during processing
 - **Too thin**: Simmer longer uncovered to reduce moisture
 
 #### Prep Efficiency Tips
@@ -265,7 +265,7 @@ See full recipe in [recipe-database.md](./recipe-database.md) - Double batch ver
 - [ ] Test with different apple varieties for flavor variation
 
 **Retail potential:**
-- Frozen soup base in quart containers
+- Frozen soup base in 1-litre containers
 - "Soup kit": Frozen base + fresh kale/onion garnish + instructions
 - Seasonal offering (October-March)
 - Cross-sell with crusty bread from bakery
@@ -277,7 +277,7 @@ See full recipe in [recipe-database.md](./recipe-database.md) - Double batch ver
 **Status**: Testing phase
 **Category**: Baked goods, Bread service
 **Serving size**: 4 rolls (scales easily)
-**Timeline**: Prep 15 min • Rise 1 hr • Bake 18-20 min at 375°F
+**Timeline**: Prep 15 min • Rise 1 hr • Bake 18-20 min at 190°C / 170°C fan / gas 5
 **Total time**: ~1 hr 45 min
 
 #### Recipe Overview
@@ -286,15 +286,15 @@ Tender dinner rolls with subtle maple sweetness and nutty wheat germ. Buttermilk
 #### Ingredients (4 rolls)
 
 **Dough:**
-- 1 cup (120g) all-purpose flour
-- 2 Tbsp (15g) toasted wheat germ
+- 120g plain flour
+- 15g toasted wheat germ
 - ¼ tsp salt
-- ⅛ tsp baking soda (balances buttermilk acidity)
+- ⅛ tsp bicarbonate of soda (balances buttermilk acidity)
 - ¾ tsp active dry yeast (≈¼ packet)
-- 2 tsp (10g) pure maple syrup
-- ⅓ cup minus 1 tsp (≈75ml) warm cultured reduced-fat buttermilk (no warmer than 100°F)
-- 1 Tbsp (14g) unsalted butter, melted (+ more for brushing)
-- 1 small egg, beaten — use ½ (≈1 Tbsp) for dough, save rest for egg wash
+- 2 tsp pure maple syrup
+- 75ml warm cultured reduced-fat buttermilk (no warmer than 38°C)
+- 14g unsalted butter, melted (+ more for brushing)
+- 1 small egg, beaten — use ½ (≈1 tbsp) for dough, save rest for egg wash
 
 **Topping:**
 - 1-2 tsp toasted wheat germ (for sprinkling)
@@ -309,17 +309,17 @@ Tender dinner rolls with subtle maple sweetness and nutty wheat germ. Buttermilk
 
 1. **Activate yeast**: Combine warm buttermilk and maple syrup in small bowl. Sprinkle yeast on top and let sit 5-10 min until foamy.
 
-2. **Mix dough**: In medium bowl, whisk flour, wheat germ, salt, and baking soda. Add yeast mixture, melted butter, and half the beaten egg. Stir until shaggy dough forms.
+2. **Mix dough**: In medium bowl, whisk flour, wheat germ, salt, and bicarbonate of soda. Add yeast mixture, melted butter, and half the beaten egg. Stir until shaggy dough forms.
 
 3. **Knead**: Knead 5-7 min by hand or 4-5 min in mixer until smooth and slightly tacky. Add 1-2 tsp flour if sticky or a few drops warm buttermilk if stiff.
 
 4. **First rise**: Place in lightly oiled bowl, cover, and let rise in warm spot until doubled — about 1 hour.
 
-5. **Shape**: Punch down dough and divide into 4 pieces. Shape each into smooth ball and arrange in greased 6-inch round or small loaf pan.
+5. **Shape**: Punch down dough and divide into 4 pieces. Shape each into smooth ball and arrange in greased 15cm round tin or small loaf tin.
 
 6. **Second rise**: Cover and let rise 25-30 min until puffy.
 
-7. **Topping & bake**: Brush tops with reserved egg or melted butter, then sprinkle wheat germ evenly over each roll. Bake at 375°F for 18-20 min, until golden and internal temp reads 190°F.
+7. **Topping & bake**: Brush tops with reserved egg or melted butter, then sprinkle wheat germ evenly over each roll. Bake at 190°C / 170°C fan / gas 5 for 18-20 min, until golden and internal temp reads 88°C.
 
 8. **Glaze & finish**: Mix maple syrup and melted butter for glaze. Brush onto hot rolls right after baking and sprinkle lightly with flaky salt. Cool 10 min before serving warm.
 
@@ -343,7 +343,7 @@ Tender dinner rolls with subtle maple sweetness and nutty wheat germ. Buttermilk
 
 **Storage & service:**
 - Best served warm from oven
-- Can be reheated (5 min at 350°F)
+- Can be reheated (5 min at 180°C / 160°C fan / gas 4)
 - Consider par-baking for quick finish during service
 
 **Customer appeal factors:**
@@ -356,10 +356,10 @@ Tender dinner rolls with subtle maple sweetness and nutty wheat germ. Buttermilk
 - **Trial 1 (2025-10-29)**: Dough didn't rise enough, resulting in slightly chewy texture
   - Possible fixes:
     - Extend first rise beyond 1 hour (watch for true doubling in size, not just time)
-    - Ensure warm rising environment (75-80°F ideal)
+    - Ensure warm rising environment (24-27°C ideal)
     - Check yeast freshness/activation
     - Consider slightly more yeast for more reliable rise
-    - Ensure buttermilk isn't too warm (>100°F can kill yeast)
+    - Ensure buttermilk isn't too warm (>38°C can kill yeast)
 
 **Next steps:**
 - [ ] Test larger batch (12-16 rolls)
@@ -367,7 +367,7 @@ Tender dinner rolls with subtle maple sweetness and nutty wheat germ. Buttermilk
 - [ ] Test par-bake and reheat method
 - [ ] Get customer feedback on flavor profile
 - [ ] Develop compound butter pairings
-- [ ] Test with different flours (whole wheat ratio?)
+- [ ] Test with different flours (wholemeal ratio?)
 
 ---
 

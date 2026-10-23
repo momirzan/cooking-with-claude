@@ -18,7 +18,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Autumn Pear Royale (Martini-Style)](cocktails/autumn-pear-royale.md) - Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider
 
 ### 🥗 Appetizers
-- [Beet + Goat Cheese Phyllo Tartlets](appetizers/beet-goat-cheese-phyllo-tartlets.md) - Elegant individual tartlets perfect for parties
+- [Beetroot + Goat Cheese Phyllo Tartlets](appetizers/beet-goat-cheese-phyllo-tartlets.md) - Elegant individual tartlets perfect for parties
 - [Silky Restaurant-Quality Hummus](appetizers/silky-hummus.md) - Overcooked, skinned chickpeas + whipped tahini base for ultra-smooth hummus
 - [Smoky Christmas Lima Dip](appetizers/christmas-lima-dip.md) - Cold, buttery heirloom-bean dip with miso and smoked paprika
 
@@ -32,7 +32,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Crispy Sesame-Peanut Noodles with Roasted Broccoli](mains/crispy-sesame-peanut-noodles.md) - Pan-crisped noodles with peanut sauce
 - [From-Scratch Udon with Mushroom Dashi](mains/from-scratch-udon-with-mushroom-dashi.md) - Weekend-project vegan noodles and broth
 - [Gourmet Grilled Cheese with Roasted Tomatoes](mains/grilled-cheese.md) - Two cheddars, roasted heirloom tomatoes
-- [Green Linguine with Kale, Arugula, Miso & Edamame](mains/green-linguine.md) - High-protein pasta with blended green sauce
+- [Green Linguine with Kale, Rocket, Miso & Edamame](mains/green-linguine.md) - High-protein pasta with blended green sauce
 - [Mediterranean Baked Orzo with Roasted Vegetables](mains/mediterranean-baked-orzo-with-roasted-vegetables.md) - One-pan baked orzo
 - [MEGA Mexican Bowl Feast](mains/mega-mexican-bowl-feast.md) - Build-your-own bowls with soyrizo rice and toppings
 - [Mirin-Miso-Gochujang Roasted Tofu](mains/mirin-miso-gochujang-tofu.md) - Umami-bomb roasted tofu with a five-sauce marinade
@@ -43,7 +43,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Sous Vide Roast Beef](mains/sous-vide-roast-beef.md) - Perfect medium-rare roast beef every time
 - [Spiced Chickpea Stew with Coconut and Greens](mains/spiced-chickpea-stew-with-coconut-and-greens.md) - Warming one-pot stew
 - [Spicy Mushroom Lasagna (Make-Ahead)](mains/spicy-mushroom-lasagna-make-ahead.md) - Crowd-pleasing lasagna with complex mushroom flavors
-- [Vegan Dan Dan Noodles with Eggplant](mains/vegan-dan-dan-noodles-with-eggplant.md) - Rich Sichuan-inspired noodles with tahini-chile sauce
+- [Vegan Dan Dan Noodles with Aubergine](mains/vegan-dan-dan-noodles-with-eggplant.md) - Rich Sichuan-inspired noodles with tahini-chile sauce
 
 ### 🥘 Sides
 - [Green Romesco and Couscous Salad with Beans](sides/green-romesco-salad.md) - Nutritious salad with herb-based romesco
@@ -68,7 +68,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Au Jus (For Roast Beef Sandwiches)](sauces-condiments/au-jus-for-roast-beef-sandwiches.md) - Rich beef drippings sauce
 - [Basil Pesto (Classic Genovese-style)](sauces-condiments/basil-pesto.md) - By-weight ratio that scales to any amount of basil
 - [Classic Peking-Style Plum Sauce](sauces-condiments/plum-sauce.md) - Sweet-tart-umami glaze
-- [Goat Cheese + Beet Dip](sauces-condiments/goat-cheese-beet-dip.md) - Vibrant party dip
+- [Goat Cheese + Beetroot Dip](sauces-condiments/goat-cheese-beet-dip.md) - Vibrant party dip
 - [Green Chili Bean Sauce](sauces-condiments/green-chili-bean-sauce.md) - Batch-freezer condiment
 - [Horseradish Crème Fraîche](sauces-condiments/horseradish-crème-fraîche.md) - Creamy, spicy condiment
 - [Mushroom Duxelles](sauces-condiments/mushroom-duxelles.md) - Concentrated mushroom paste
@@ -82,7 +82,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 ### 🍞 Breads & Rolls
 - [Quick Altitude Pizza Dough](breads-rolls/quick-altitude-pizza-dough.md) - Fast-rise semolina dough for high altitude
 - [Herby Olive Oil Croutons](breads-rolls/herby-olive-oil-croutons.md) - Homemade salad croutons from stale bread
-- [Thin Crust Pizza Dough (Two 18")](breads-rolls/thin-crust-pizza-dough-18-inch.md) - Large thin crust pizzas with altitude notes
+- [Thin Crust Pizza Dough (Two 46cm)](breads-rolls/thin-crust-pizza-dough-18-inch.md) - Large thin crust pizzas with altitude notes
 - [Parker House Rolls (Small Batch)](breads-rolls/parker-house-rolls.md) - Classic buttery folded rolls
 - [Pumpkin Parker House Rolls (Small Batch)](breads-rolls/pumpkin-parker-house-rolls.md) - Autumn twist on classic rolls
 - [Rosemary Labneh Pull-Apart Rolls](breads-rolls/rosemary-labneh-pull-apart-rolls-small-batch-4-rolls.md) - Intensely herby rolls with tangy labneh
@@ -93,7 +93,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 ### 🍰 Desserts
 - [All-Purpose Pie Dough](desserts/all-purpose-pie-dough.md) - Reliable butter pie crust
 - [Apple Pie](desserts/apple-pie.md) - Classic double-crust apple pie
-- [Basque-Style Pumpkin Cheesecake (6-inch)](desserts/basque-pumpkin-cheesecake.md) - Burnt-top seasonal cheesecake
+- [Basque-Style Pumpkin Cheesecake (15cm)](desserts/basque-pumpkin-cheesecake.md) - Burnt-top seasonal cheesecake
 - [Christmas Fudge](desserts/christmas-fudge.md) - Family holiday tradition
 - [Cream Cheese Brownies](desserts/cream-cheese-brownies.md) - Fudgy brownies with a cream cheese swirl
 - [Fantasy Fudge (Jet Puffed Marshmallow)](desserts/fantasy-fudge-jet-puffed-marshmallow.md) - Classic marshmallow fudge

@@ -58,11 +58,11 @@
 - Spaghetti with jarred sauce
 - Stir-fry with frozen vegetables
 - Pancakes from mix
-- Tacos with ground meat
+- Tacos with mince
 - Baked chicken breasts
 
 ### 30 Minutes
-- Chicken and rice skillet
+- Chicken and rice in a frying pan
 - Homemade mac and cheese
 - Meatball subs
 - Beef and vegetable stir-fry
@@ -75,7 +75,7 @@
 - **Rice dishes**: Rice + protein + vegetables + seasonings  
 - **Egg dishes**: Scrambled, fried, omelets with various mix-ins
 - **Sandwich varieties**: Different breads + proteins + vegetables
-- **Soup combinations**: Broth + vegetables + protein + grains
+- **Soup combinations**: Stock + vegetables + protein + grains
 
 ## Emergency 5-Ingredient Meals
 *For when inventory is low:*
@@ -84,7 +84,7 @@
 2. **Rice + Eggs + Soy Sauce + Frozen Vegetables + Oil**
 3. **Bread + Eggs + Milk + Butter** (French Toast)
 4. **Potatoes + Cheese + Butter + Salt + Pepper**  
-5. **Canned Tomatoes + Pasta + Garlic + Olive Oil + Basil**
+5. **Tinned Tomatoes + Pasta + Garlic + Olive Oil + Basil**
 
 ## Inventory-to-Meal Commands
 

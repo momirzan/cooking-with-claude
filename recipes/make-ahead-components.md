@@ -8,7 +8,7 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 
 ### To Make
 - [ ] **Chimichurri** - Herb sauce for roasted vegetables, proteins
-- [ ] **Scallion Ginger Condiment** - Asian-inspired topping
+- [ ] **Spring Onion Ginger Condiment** - Asian-inspired topping
 - [ ] **Cultured Cashew Cheese** - Dairy-free cheese alternative
 
 ---
@@ -32,7 +32,7 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 
 ### Refrigerated (1-2 weeks)
 - Chimichurri
-- Scallion ginger condiment
+- Spring onion ginger condiment
 - Pickled mushrooms
 - Cultured cashew cheese
 
@@ -71,7 +71,7 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 - Grain bowls
 - Roasted potatoes
 
-### Scallion Ginger Condiment
+### Spring Onion Ginger Condiment
 - Rice dishes
 - Tofu
 - Noodles
@@ -108,7 +108,7 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 
 ### To Add
 - [ ] Link to chimichurri recipe
-- [ ] Link to scallion ginger condiment recipe
+- [ ] Link to spring onion ginger condiment recipe
 - [ ] Link to pickled mushroom recipe
 - [ ] Link to cultured cashew cheese recipe
 - [ ] Link to granola recipe
@@ -122,22 +122,22 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 
 ### For Chimichurri
 - Parsley
-- Cilantro
+- Coriander (fresh)
 - Garlic
 - Olive oil
 - Red wine vinegar
 - Red pepper flakes
 - Salt
 
-### For Scallion Ginger
-- Scallions (green onions)
+### For Spring Onion Ginger
+- Spring onions
 - Fresh ginger
 - Neutral oil
 - Soy sauce or tamari
 - Rice vinegar
 
 ### For Pickled Mushrooms
-- Fresh mushrooms (cremini, shiitake, or mixed)
+- Fresh mushrooms (chestnut (cremini), shiitake, or mixed)
 - Vinegar (white wine or apple cider)
 - Water
 - Sugar
