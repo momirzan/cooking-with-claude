@@ -22,7 +22,7 @@ Keep these stocked and you can always make something good. Check weekly and add 
 - [ ] Sriracha
 - [ ] Gochujang
 - [ ] Harissa paste
-- [ ] Tomato paste (tubes are great)
+- [ ] Tomato purée (tubes are great)
 - [ ] Dijon mustard
 - [ ] Mirin
 
@@ -31,7 +31,7 @@ Keep these stocked and you can always make something good. Check weekly and add 
 - [ ] Smoked paprika
 - [ ] Turmeric
 - [ ] Coriander (ground)
-- [ ] Crushed red pepper flakes
+- [ ] Dried chilli flakes
 - [ ] Za'atar
 - [ ] Oregano (dried)
 - [ ] Cinnamon
@@ -51,17 +51,17 @@ Keep these stocked and you can always make something good. Check weekly and add 
 
 ## Legumes & Proteins
 - [ ] Red lentils
-- [ ] Chickpeas (canned)
-- [ ] Black beans (canned)
-- [ ] White beans / cannellini (canned)
+- [ ] Chickpeas (tinned)
+- [ ] Black beans (tinned)
+- [ ] White beans / cannellini (tinned)
 - [ ] Firm tofu
 - [ ] Edamame (frozen, shelled)
 - [ ] Nutritional yeast
 
-## Canned & Jarred
-- [ ] Fire-roasted diced tomatoes
+## Tinned & Jarred
+- [ ] Fire-roasted chopped tomatoes [Fire-roasted diced tomatoes] <!-- CHECK -->
 - [ ] Full-fat coconut milk
-- [ ] Vegetable broth (cartons)
+- [ ] Vegetable stock (cartons)
 - [ ] Kalamata olives
 - [ ] Artichoke hearts
 - [ ] Roasted red peppers
@@ -71,21 +71,21 @@ Keep these stocked and you can always make something good. Check weekly and add 
 - [ ] Pine nuts
 - [ ] Peanut butter (natural)
 - [ ] Sesame seeds
-- [ ] Pepitas
+- [ ] Pumpkin seeds (pepitas)
 
 ## Fresh (Keep on Hand)
 - [ ] Garlic
 - [ ] Fresh ginger
 - [ ] Lemons
 - [ ] Limes
-- [ ] Yellow onions
-- [ ] Green onions
-- [ ] Fresh herbs (parsley, cilantro — rotate)
+- [ ] Brown onions
+- [ ] Spring onions
+- [ ] Fresh herbs (parsley, coriander — rotate)
 
 ## Baking
-- [ ] All-purpose flour
+- [ ] Plain flour
 - [ ] Maple syrup
-- [ ] Cornstarch or potato starch
+- [ ] Cornflour or potato starch
 
 ---
 
