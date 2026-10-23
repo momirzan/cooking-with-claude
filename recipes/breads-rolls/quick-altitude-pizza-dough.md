@@ -1,11 +1,11 @@
-# Quick Altitude Pizza Dough
+# Quick Pizza Dough
 - **Prep Time**: 10 minutes
-- **Rise Time**: 20-40 minutes (faster at altitude)
-- **Total Time**: 45-60 minutes (including baking)
+- **Rise Time**: 30-60 minutes [20-40 min at 5,280 ft] <!-- CHECK -->
+- **Total Time**: 55-80 minutes (including baking) [45-60 min at 5,280 ft] <!-- CHECK -->
 - **Yield**: 1 large pizza or 2 medium pizzas
 - **Difficulty**: Easy
 - **Type**: Dinner/Base Recipe
-- **Source**: Personal method, optimized for high altitude
+- **Source**: Personal method, originally developed at high altitude (5,280 ft)
 
 ### Ingredients
 - [ ] **Warm water** (~240ml) - *Location: tap water*
@@ -41,7 +41,7 @@
 
 #### Step 5: Rise
 11. Cover bowl with clean towel or cling film
-12. Let rise in warm spot until doubled in size (20-40 minutes at altitude)
+12. Let rise in warm spot until doubled in size (30-60 minutes [20-40 min at 5,280 ft]) <!-- CHECK -->
 13. Meanwhile, prep your toppings
 
 #### Step 6: Shape and Bake
@@ -52,7 +52,7 @@
 18. Bake until cheese has little bits of golden edges (typically 12-18 minutes)
 
 ### Notes
-- **Altitude optimization**: Extra yeast (2 tbsp) compensates for faster rise at high altitude
+- **Generous yeast**: Extra yeast (2 tbsp) keeps the rise quick (originally tuned at 5,280 ft)
 - **Maple syrup**: Feeds the yeast for faster activation and adds subtle sweetness
 - **Semolina flour**: Provides excellent chew, crispy texture, and helps prevent sticking
 - **Slightly sticky dough**: Don't over-flour - slightly sticky dough = better texture
@@ -60,7 +60,7 @@
 - **Baking paper trick**: Makes transfer foolproof, prevents sticking, can slide right onto stone
 - **Temperature drop**: Starting at 290°C / 270°C fan / gas 9 [550°F] preheats the stone thoroughly, then 180°C / 160°C fan / gas 4 prevents burning <!-- CHECK -->
 - **Visual doneness cue**: Golden edges on cheese = perfectly baked
-- **Timing varies**: Rise time depends on altitude and room temperature - check for doubled size, not clock
+- **Timing varies**: Rise time depends on room temperature - check for doubled size, not clock
 - **Flour ratio**: ~2:1 semolina to plain flour by volume (~5:1 by weight), but adjust plain flour by feel for right texture
 
 ---

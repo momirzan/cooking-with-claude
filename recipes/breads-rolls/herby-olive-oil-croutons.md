@@ -47,7 +47,7 @@ If your bread is still soft/moist in the middle:
 5. Optional: Toss with parmesan immediately while still warm
 
 ### Notes
-- **Altitude adjustment (5,280 ft)**: Check earlier - things dry faster at altitude. Start checking at 8 min for drying step, 10 min for crisping
+- **Timing**: Use the times above at sea level (the 5,280 ft version started checking earlier, at 8 min for drying and 10 min for crisping, because things dry faster at altitude) <!-- CHECK -->
 - **Extra garlic flavor**: Rub bread cubes on a cut garlic clove before cubing
 - **Grated garlic tip**: Mix into oil first to prevent burning (distributes and protects it)
 - **Staleness is good**: Drier bread = crispier croutons

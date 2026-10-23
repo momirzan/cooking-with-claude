@@ -59,8 +59,8 @@
 
 ## Notes
 
-### Altitude Adjustments (Denver/5000+ ft)
-- Dough may rise faster OR slower - go by size, not time
+### Proofing Tips [was "Altitude Adjustments (Denver/5000+ ft)"] <!-- CHECK -->
+- Go by size, not time
 - **Refrigerate dough balls** after shaping to prevent over-proofing
 - Pull from fridge 20-30 min before stretching
 - Cold dough also stretches easier (less spring-back)

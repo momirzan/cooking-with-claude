@@ -1,12 +1,12 @@
 # Rosemary Labneh Pull-Apart Rolls (Small Batch - 4 Rolls)
 - **Prep Time**: 45 minutes (active work)
-- **Rise Time**: 2-2.5 hours (60-75 min first rise + 35-45 min second rise at altitude)
+- **Rise Time**: 2.5-3 hours (75-90 min first rise + 45-60 min second rise) [2-2.5 hours at 5,280 ft] <!-- CHECK -->
 - **Bake Time**: 25-28 minutes
-- **Total Time**: 3-3.5 hours
+- **Total Time**: 3.5-4 hours [3-3.5 hours at 5,280 ft] <!-- CHECK -->
 - **Yield**: 4 rolls in 15cm springform tin
 - **Difficulty**: Medium (involves yeast work and shaping)
 - **Type**: Bread/Side Dish
-- **Source**: Adapted for high altitude
+- **Source**: Originally adapted for high altitude (5,280 ft); converted to sea level
 
 ### Ingredients
 
@@ -97,12 +97,12 @@
 
 ⚠️ **CRITICAL: Dough texture must be SATINY and smooth, not sticky or wet. This is the key to success!**
 
-#### Step 7: First Rise (60-75 minutes at altitude)
+#### Step 7: First Rise (75-90 minutes)
 25. Butter a clean bowl generously
 26. Place dough in bowl
 27. **Cover TIGHTLY** (cling film + damp towel for dry climates)
-28. Rise in warm, draft-free spot for 60-75 minutes until doubled
-29. **At altitude, check at 60 minutes** - better slightly under-proofed than over
+28. Rise in warm, draft-free spot for 75-90 minutes until doubled [60-75 min at 5,280 ft] <!-- CHECK -->
+29. **Check at 75 minutes** - better slightly under-proofed than over
 30. **Test if ready:** Poke with finger - if indent stays, it's ready
 
 #### Step 8: Shape Rolls (10 minutes)
@@ -113,14 +113,14 @@
 35. **Arrange in 15cm tin:** 1 roll in CENTER + 3 rolls around EDGE, evenly spaced
 36. Rolls should be touching or nearly touching
 
-#### Step 9: Second Rise (35-45 minutes at altitude)
+#### Step 9: Second Rise (45-60 minutes)
 37. Cover tin tightly (cling film + damp towel)
-38. Rise in warm spot for 35-45 minutes until puffy and touching
-39. **Check at 35 minutes** - rolls should fill tin and be touching
-40. **Better slightly under-proofed than over-proofed at altitude!**
+38. Rise in warm spot for 45-60 minutes until puffy and touching [35-45 min at 5,280 ft] <!-- CHECK -->
+39. **Check at 45 minutes** - rolls should fill tin and be touching
+40. **Better slightly under-proofed than over-proofed!**
 
 #### Step 10: Preheat Oven (10 minutes before baking)
-41. At 25-minute mark of second rise, preheat oven to **200°C / 180°C fan / gas 6** (high temp for altitude)
+41. At 35-minute mark of second rise, preheat oven to **190°C / 170°C fan / gas 5** [200°C / 180°C fan / gas 6, raised for altitude] <!-- CHECK -->
 
 #### Step 11: Brush & Top (2-3 minutes)
 42. Mix 22g melted butter + 1½ tsp olive oil (optional)
@@ -158,11 +158,11 @@
 - **INTERNAL TEMP:** Must hit 88-93°C or rolls will be dense and wet inside
 - **YEAST ACTIVATION:** If yeast doesn't foam, DO NOT PROCEED - get fresh yeast
 
-**Altitude Adjustments (5,280 ft - high altitude):**
-- **Faster rise times:** 60-75 min first rise, 35-45 min second rise (watch visual cues!)
-- **Higher oven temp:** 200°C / 180°C fan / gas 6 helps set structure before over-expansion
-- **Don't over-proof:** Most critical at altitude - over-proofed dough collapses
-- **Keep dough covered:** Dry air will form skin on dough surface
+**Sea-Level Conversion (from the 5,280 ft original):**
+- **Longer rise times:** 75-90 min first rise, 45-60 min second rise (altitude was 60-75 / 35-45 - watch visual cues!) <!-- CHECK -->
+- **Oven temp:** 190°C / 170°C fan / gas 5 (the altitude version was raised to 200°C / 180°C fan / gas 6); keep the 88-93°C internal-temp test <!-- CHECK -->
+- **Don't over-proof:** over-proofed dough collapses
+- **Keep dough covered:** stops a skin forming on the dough surface
 - **Visual markers trump timers:** "Puffy and touching" more reliable than clock
 
 **Herb Notes:**
@@ -193,6 +193,5 @@
 - **Bold herb garden flavor:** Rosemary, thyme, sage, parsley - full herb experience
 - **Tangy labneh:** Adds moisture and complexity
 - **Earthy rye:** Complements the herbs beautifully
-- **Altitude-optimized:** Actually works at high elevation!
 - **Perfect for holiday dinners or special occasions**
 ---
