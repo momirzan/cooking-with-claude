@@ -1,6 +1,6 @@
 # Autumn Pear Royale (Martini-Style)
 
-Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider.
+Elegant fall cocktail with pear brandy, Sauternes, and sparkling cider.
 
 **Prep Time:** 5 min | **Servings:** 1 cocktail
 
@@ -8,9 +8,9 @@ Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider.
 
 | Item | Amount |
 |------|--------|
-| Pear brandy (eau de vie de poire) | 1.5 oz (45mL) |
-| Sauternes (chilled) | 1.5 oz (45mL) |
-| Sparkling hard cider (chilled, clear and crisp) | 1.5-2 oz (45-60mL) |
+| Pear brandy (eau de vie de poire) | 45ml |
+| Sauternes (chilled) | 45ml |
+| Sparkling cider (alcoholic; chilled, clear and crisp) | 45-60ml |
 | Fresh lemon twist OR pear slice | for garnish |
 | Ice | for stirring |
 
@@ -27,7 +27,7 @@ Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider.
 
 ### Step 3: Strain and Top (30 seconds)
 6. Strain mixture into chilled martini glass
-7. Top with sparkling hard cider (pour slowly to preserve bubbles)
+7. Top with sparkling cider (pour slowly to preserve bubbles)
 8. Give one very gentle stir
 
 ### Step 4: Garnish and Serve
@@ -49,7 +49,7 @@ Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider.
 - **Sparkling cider choice**: Use clear, crisp, dry cider (not sweet or cloudy)
 - **Sauternes**: Honeyed, apricot-like sweetness is key to character
 - **Pear brandy**: Use clear eau de vie (not aged brandy) for pure pear essence
-- **Ratio adjustment**: For lighter drink, use 0.5 oz brandy, 1 oz Sauternes, 5 oz cider
+- **Ratio adjustment**: For lighter drink, use 15ml brandy, 30ml Sauternes, 150ml cider
 - **Gentle bubbles**: Add cider last, stir minimally to preserve carbonation
 
 ## Perfect For
