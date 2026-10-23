@@ -24,4 +24,4 @@ The starchy cooking liquid is worth keeping (silky, great for pilaf/soup). Dump 
 
 ## Related
 - [Smoky Christmas Lima Dip](../appetizers/christmas-lima-dip.md) — uses the beans and their broth
-- [Steaming Vegetables at Altitude](../sides/steaming-guide.md)
+- [Steaming Vegetables](../sides/steaming-guide.md)

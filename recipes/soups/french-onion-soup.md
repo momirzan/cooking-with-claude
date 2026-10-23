@@ -1,9 +1,9 @@
-# All-Day Vegan French Onion Soup (High Altitude)
+# All-Day Vegan French Onion Soup
 
 Cannellini • Soy • Dijon • White Miso  
 Black Pepper • White Pepper • Light Sumac  
 Low saturated fat • Bean-silk body • Deep caramelization  
-Altitude tested at 5,280 ft
+Tested at 5,280 ft; converted to sea level <!-- CHECK -->
 
 ---
 
@@ -53,8 +53,8 @@ In a heavy Dutch oven (lidded casserole) over medium-low heat:
 3. Cover for 20 minutes to sweat.
 4. Uncover and cook low for 2½–3 hours, stirring every 8–15 minutes.
 
-At altitude:
-- Keep heat slightly lower than instinct.
+Tips: <!-- CHECK -->
+- Keep heat low and steady.
 - Add small splashes of water if sticking aggressively.
 
 Cook until onions are **deep chestnut / mahogany**, jam-like, and reduced ~75%.

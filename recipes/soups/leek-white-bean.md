@@ -50,7 +50,7 @@ Sophisticated pureed soup with slow-caramelized leeks, double wine reduction, an
 14. Cook another 3-4 minutes until reduced and concentrated
 15. This double reduction creates incredible depth and caramelized complexity
 
-*Altitude note: At 5,280 feet, wine reduces faster - watch closely*
+*Timing note: the 3-4 minute reduction was timed at 5,280 ft, where wine reduces faster; at sea level it may take a minute or two longer* <!-- CHECK -->
 
 ### Step 4: Simmer the Soup (30 minutes)
 16. Add vegetable stock, bay leaves, and entire tin of white beans (including liquid)
