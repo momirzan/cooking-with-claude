@@ -1,6 +1,6 @@
-# Rainier Cherry Pie (High-Altitude)
+# Rainier Cherry Pie
 
-**Sweet-cherry pie with a macerated, reduced-sugar filling and an all-butter high-altitude crust**
+**Sweet-cherry pie with a macerated, reduced-sugar filling and an all-butter crust**
 
 - **Prep Time**: 30 minutes active + overnight maceration
 - **Cook Time**: 55-60 minutes
@@ -9,7 +9,7 @@
 - **Yield**: 8 servings
 - **Difficulty**: Medium
 - **Type**: Dessert
-- **Altitude**: Written for high altitude (5,000+ ft)
+- **Altitude**: Originally written for high altitude (5,000+ ft); converted to sea level. Oven temps and times were not altitude-adjusted, so they are unchanged <!-- CHECK -->
 - **Status**: ⚠️ Developed but NOT YET TESTED — first attempt was scrapped when the macerated cherries sat too long and spoiled. Make within ~4 days of pitting.
 
 ## Description
@@ -33,13 +33,13 @@ The filling is **macerated overnight** (not cooked whole), which draws the juice
 
 **Freezing the filling?** Swap cornflour for the same amount of **tapioca starch or Clear Jel** — cornflour weeps and breaks when frozen and thawed. Never cook-then-freeze a cornflour filling. <!-- CHECK -->
 
-### For the Crust (all-butter double crust, high-altitude)
+### For the Crust (all-butter double crust)
 - [ ] **Plain flour** (300g)
 - [ ] **Caster sugar** (1 tbsp)
 - [ ] **Salt** (1 tsp)
 - [ ] **Unsalted butter** (226g, cold, cubed 1cm)
 - [ ] **Lemon juice or white vinegar** (1 tsp — tenderizer)
-- [ ] **Ice water** (120-150ml — dry high-altitude flour usually needs the full 150ml)
+- [ ] **Ice water** (120-150ml — start at 120ml; at sea level you may not need the full 150ml that dry high-altitude flour needed) <!-- CHECK -->
 
 ### For Assembly
 - [ ] **Egg** (1, lightly beaten for egg wash)
@@ -65,7 +65,7 @@ The filling is **macerated overnight** (not cooked whole), which draws the juice
 ### Make the crust
 1. **Pre-chill everything** — cube butter and freeze 10 min; chill the flour bowl too (critical in a hot kitchen).
 2. Whisk flour, sugar, salt. Cut in cold butter until pea- to walnut-sized bits remain — **leave visible butter chunks** for flakiness.
-3. Add lemon/vinegar to the ice water. Drizzle in a few tbsp at a time, tossing with a fork, until dough just holds when squeezed. At altitude, flour looks dry longer than expected — go to the full 150ml if needed.
+3. Add lemon/vinegar to the ice water. Drizzle in a few tbsp at a time, tossing with a fork, until dough just holds when squeezed. Stop as soon as it holds — at sea level that may be before the full 150ml [altitude note said go to the full 150ml]. <!-- CHECK -->
 4. Divide in two (one slightly larger = bottom). Flatten to disks, wrap, **chill ≥1 hour** (up to 2 days).
 
 ### Parbake the bottom shell

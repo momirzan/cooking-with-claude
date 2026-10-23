@@ -1,15 +1,15 @@
 # High-Fiber Coffee-Cardamom Brownies ✅ TESTED
 
 - **Prep Time**: 5 minutes
-- **Bake Time**: 50-55 minutes (altitude-tested at 5,280 ft)
+- **Bake Time**: 50-55 minutes (tested at 5,280 ft and 190°C; untested at sea level - start checking at 45 min) <!-- CHECK -->
 - **Cooling Time**: 60+ minutes
 - **Total Time**: 2 hours
 - **Yield**: 9 brownies
 - **Difficulty**: Medium (experimental high-fiber version)
 - **Type**: Dessert
 - **Fiber per brownie**: ~3.4-3.6g
-- **Source**: NYT Cooking (Nargisse Benkabbou) - heavily modified for high fiber and altitude
-- **Special Notes**: Persian-inspired with pistachios + cardamom + coffee, altitude-optimized for 5,280 feet. **TESTED: Soft, luscious, fudgy - keeper recipe!**
+- **Source**: NYT Cooking (Nargisse Benkabbou) - heavily modified for high fiber (originally also for altitude)
+- **Special Notes**: Persian-inspired with pistachios + cardamom + coffee, converted to sea level from the 5,280 ft version. <!-- CHECK --> **TESTED at altitude: Soft, luscious, fudgy - keeper recipe!**
 
 ## Ingredients
 
@@ -25,12 +25,12 @@
 - [ ] **Date paste or date syrup** (120ml total: 60ml base + 3-4 tbsp additional; about 150g total if using paste [½ cup total: ¼ cup base + 3-4 tbsp additional]) - *Location: check pantry* <!-- CHECK -->
 - [ ] **Black bean purée** (120g, completely smooth) - *Location: make from tinned black beans*
 - [ ] **Ground flaxseed** (1 tbsp) - *Location: check pantry or refrigerator*
-- [ ] **Warm water** (3-4 tbsp, altitude-adjusted) - *Location: tap*
+- [ ] **Warm water** (1 tbsp [3-4 tbsp at 5,280 ft]) - *Location: tap* <!-- CHECK -->
 - [ ] **Black treacle** (2 tsp [molasses]) - *Location: check pantry* <!-- CHECK -->
 
 **Egg + Sugar:**
-- [ ] **Large eggs** (4, altitude-adjusted from 3) - *Location: check refrigerator*
-- [ ] **Caster sugar** (75g, altitude-adjusted from 50g) - *Location: check pantry*
+- [ ] **Large eggs** (3 [4 at 5,280 ft]) - *Location: check refrigerator* <!-- CHECK -->
+- [ ] **Caster sugar** (50g [75g at 5,280 ft]; altitude tasters liked 75g, so go up if you want it sweeter) - *Location: check pantry* <!-- CHECK -->
 
 **Dry Mix:**
 - [ ] **Rye flour** (45g) - *Location: check pantry*
@@ -51,7 +51,7 @@
 ## Instructions
 
 ### Step 1: Prep (5 min)
-1. Preheat oven to **190°C / 170°C fan / gas 5** (altitude-adjusted from 180°C / 160°C fan / gas 4)
+1. Preheat oven to **180°C / 160°C fan / gas 4** [190°C / 170°C fan / gas 5 at 5,280 ft] <!-- CHECK -->
 2. Grease 20cm square tin with butter
 3. Line with baking paper with overhang on 2 sides
 4. Lightly butter the baking paper
@@ -70,12 +70,12 @@
 13. Whisk in: black bean purée (should be completely smooth)
 14. Whisk in: ground flaxseed
 15. Whisk in: black treacle
-16. Whisk in: **3 tbsp warm water** to start (have extra ready)
+16. Whisk in: **1 tbsp warm water** to start (have extra ready) [3 tbsp at 5,280 ft] <!-- CHECK -->
 17. Mixture should be smooth, glossy, and warm (not hot)
 18. Set aside to cool slightly
 
 ### Step 4: Mix Eggs + Sugar (1 min)
-19. In bowl, combine: 4 eggs + 75g sugar
+19. In bowl, combine: 3 eggs + 50g sugar [4 eggs + 75g at 5,280 ft] <!-- CHECK -->
 20. **Whisk together just until combined** (~30 seconds)
 21. No need to aerate - we want dense, fudgy texture (not cake-like)
 22. Mixture will be uniform yellow color
@@ -94,16 +94,16 @@
 29. If very stiff, add 1 more tbsp warm water and fold gently
 30. Do NOT overmix!
 
-### Step 7: Bake (50-55 min at altitude)
+### Step 7: Bake (50-55 min)
 31. Pour batter into prepared tin
 32. Spread evenly with spatula
-33. Bake at **190°C / 170°C fan / gas 5** on middle rack
+33. Bake at **180°C / 160°C fan / gas 4** on middle rack [190°C / 170°C fan at 5,280 ft] <!-- CHECK -->
 34. Check at **45 minutes** (dense batter takes longer than typical brownies)
 35. **Doneness test**: Insert toothpick in center
     - Should have **moist, fudgy crumbs** (NOT clean, NOT wet batter)
     - Top should look set and slightly crackled
 36. If still liquid at 45 min, bake 3-4 more minutes and check again
-37. **Total bake time: 50-55 minutes** (tested at 5,280 ft altitude)
+37. **Total bake time: about 50-55 minutes** (53 min tested at 5,280 ft and 190°C; at sea level and 180°C it may differ - go by the toothpick) <!-- CHECK -->
 
 ### Step 8: Cool & Cut (60+ min)
 38. Remove from oven and cool in tin on wire rack
@@ -114,12 +114,12 @@
 
 ## Notes
 
-**Altitude Adjustments (5,280 feet):**
-- Increased oven temp: 180°C / 160°C fan / gas 4 → 190°C / 170°C fan / gas 5 (faster crust formation)
-- Increased eggs: 3 → 4 (more structure and moisture)
-- Increased water: 1 tbsp → 3-4 tbsp (combat evaporation)
-- Increased sugar: 50g → 75g (helps structure and sweetness balance)
-- **Bake time: 50-55 minutes at 190°C / 170°C fan / gas 5** (TESTED: Dense batter needs much longer than expected. Check at 45 min, then every 3-4 min until toothpick has moist crumbs)
+**Sea-Level Conversion (reverses the 5,280 ft adjustments):** <!-- CHECK -->
+- Oven temp: 190°C / 170°C fan / gas 5 at altitude → 180°C / 160°C fan / gas 4
+- Eggs: 4 at altitude → 3
+- Water: 3-4 tbsp at altitude → 1 tbsp
+- Sugar: 75g at altitude → 50g
+- **Bake time**: the dense batter took 53 min at altitude. Check at 45 min, then every 3-4 min until toothpick has moist crumbs
 
 **Flavor Profile:**
 - Persian pastry inspiration: pistachios + cardamom + coffee
@@ -131,7 +131,7 @@
 - Black beans + flax + pistachios = moisture retention (stays fudgy even when chilled)
 - Rye flour has gluten structure to hold everything together
 - Ground oats add structure without noticeable texture
-- 4 eggs crucial for altitude structure
+- 3 eggs at sea level (4 were needed for structure at altitude)
 - Goal: Fudgy, not cakey or dense
 
 **Fiber Breakdown (~3.4-3.6g per brownie):**
@@ -151,7 +151,7 @@
   - **IMPORTANT**: First batch whipped eggs 3-4 min → too cake-y/fluffy (tester feedback)
   - **UPDATED**: Recipe now uses just-whisked eggs (no whipping) for traditional fudgy brownie texture
   - For more fudgy texture: Skip egg whipping, just whisk to combine (~30 sec)
-- **Sweetness**: Not super sweet (75g sugar good, could bump to 90-100g for sweeter preference)
+- **Sweetness** (at altitude, with 75g sugar): Not super sweet (75g good, could bump to 90-100g for sweeter preference)
 - **Coffee flavor**: Not directly detectable but adds depth
 - **Cardamom**: Comes through nicely, well-balanced spicing
 - **Bean flavor**: Completely undetectable - SUCCESS
@@ -168,7 +168,6 @@
 - Black bean purée must be completely smooth or you'll have chunks in brownies
 - Don't overgrind pistachios - stop at fine meal, not paste/butter
 - Sugar reduction is aggressive - dates + black treacle provide sweetness
-- Extra egg and water are critical at altitude
 - Toothpick should have moist crumbs, NOT be clean (key to fudgy texture)
 
 **Troubleshooting:**

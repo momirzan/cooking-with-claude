@@ -4,7 +4,7 @@
 - **Chill Time**: 2-4 hours
 - **Total Time**: 2.5-4.5 hours
 - **Yield**: ~70 pieces (fills 23 × 33cm tin)
-- **Difficulty**: Medium (requires sugar thermometer at altitude)
+- **Difficulty**: Medium (sugar thermometer recommended)
 - **Type**: Christmas Dessert / Classic American
 - **Source**: Jet Puffed / Kraft Marshmallow Creme jar
 
@@ -21,7 +21,7 @@
 - [ ] **23 × 33cm baking tin**
 - [ ] **Baking paper**
 - [ ] **Heavy-bottomed saucepan**
-- [ ] **Sugar thermometer** (essential at altitude!)
+- [ ] **Sugar thermometer** (strongly recommended)
 - [ ] **Spatula**
 - [ ] **Timer**
 
@@ -37,8 +37,8 @@ Have all ingredients measured and near the hob - this moves fast once boiling st
 1. Combine sugar, butter cubes, and evaporated milk in heavy-bottomed saucepan
 2. Heat over medium, stirring constantly as butter melts and sugar dissolves
 3. Bring to a rolling boil
-4. **At altitude (5,280 ft): Cook to 107°C** (sea level: 112°C)
-5. Or boil for approximately 4-4.5 minutes at altitude (5 min at sea level)
+4. **Cook to 112°C** (soft-ball stage) [107°C at 5,280 ft] <!-- CHECK -->
+5. Or boil for approximately 5 minutes [4-4.5 min at 5,280 ft] <!-- CHECK -->
 6. Remove from heat immediately when temperature is reached
 
 #### 4. Add Remaining Ingredients
@@ -54,17 +54,15 @@ Have all ingredients measured and near the hob - this moves fast once boiling st
 
 ### Notes
 
-**Altitude Adjustment (tested 12/23/2025 at 5,280 ft):**
-- Water boils at ~94°C at altitude instead of 100°C
-- **Pull fudge at 107°C** instead of 112°C (soft ball stage adjusted)
-- Subtract ~1°C per 1,000 feet elevation
-- Using a sugar thermometer is essential at altitude!
+**Sea-Level Conversion (tested 12/23/2025 at 5,280 ft, not yet at sea level):** <!-- CHECK -->
+- **Pull fudge at 112°C** (sea-level soft-ball stage); the altitude version pulled at 107°C
+- A sugar thermometer is the most reliable guide
 
 **Critical Success Factors:**
 - All ingredients at room temperature for even cooking
 - Stir constantly to prevent scorching
 - Don't rush - medium heat, not high
-- Temperature is more reliable than timing at altitude
+- Temperature is more reliable than timing
 
 **Storage:**
 - Room temperature: 2 weeks in airtight container
@@ -78,7 +76,7 @@ Have all ingredients measured and near the hob - this moves fast once boiling st
 - Classic Christmas candy
 
 **Christmas Timeline:**
-- Tested at altitude with great results
+- Tested at altitude (5,280 ft) with great results; sea-level version not yet tested <!-- CHECK -->
 
 
 ---

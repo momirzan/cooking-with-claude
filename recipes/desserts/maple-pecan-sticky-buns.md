@@ -77,7 +77,7 @@
 - **Fresh**: Best served warm day of baking
 - **Reheat**: Microwave 15-20 seconds per roll
 - **Make-ahead**: Can refrigerate assembled rolls up to 24 hours
-- **Altitude adjustment**: May need slightly more flour at high altitude
+- **Flour**: Use the amount as written at sea level (the original noted slightly more flour may be needed at high altitude) <!-- CHECK -->
 - **Variations**: Try walnuts, add orange zest to filling
 - **Cardamom**: Key flavor - don't skip!
 - **Yield**: 12 generous rolls, perfect for holiday brunch
