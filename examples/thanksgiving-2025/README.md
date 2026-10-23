@@ -5,7 +5,7 @@ This example shows how Claude can help you plan and execute a complex multi-dish
 - A consolidated shopping list
 - A 4-day prep schedule
 - A detailed day-of cooking timeline
-- Oven and stovetop scheduling
+- Oven and hob scheduling
 
 ## The Menu
 
@@ -31,7 +31,7 @@ Claude consolidated all ingredients across 7 recipes into a single shopping list
 
 ### Step 3: Prep Schedule
 Claude analyzed what could be made ahead and created a 4-day schedule:
-- **Monday**: Vegetable broth, lemon marmalade, infuse gin
+- **Monday**: Vegetable stock, lemon marmalade, infuse gin
 - **Tuesday**: Bake cake layers, make mushroom ragù, candied pecans
 - **Wednesday**: Assemble lasagne, make icing, prep all components
 - **Thursday**: Assemble cake, bake rolls, final cooking
@@ -67,7 +67,7 @@ Please create:
 2. A prep schedule for the days leading up to Thanksgiving
 3. A detailed cooking timeline for the day-of
 
-I have one oven and four stovetop burners. I'm at 5,280 feet altitude.
+I have one oven and four hob burners. I'm at 5,280 feet altitude.
 ```
 
 Claude will analyze your recipes, identify make-ahead opportunities, and create a realistic plan that accounts for oven conflicts and prep time.

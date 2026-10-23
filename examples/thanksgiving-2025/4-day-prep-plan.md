@@ -22,18 +22,18 @@
 - Sweet potatoes (4 medium)
 - Fresh ginger (1 knob)
 - Tomatoes (6-7 plum/Roma)
-- Red bell peppers (2 large)
+- Red peppers (2 large)
 
 ### Fresh Herbs
 - Rosemary (15g)
 - Basil (5g)
 - Mint (15g)
 - Sage (20+ leaves)
-- Parsley (1 cup + extra)
+- Parsley (20g [1 cup] + extra) <!-- CHECK -->
 
 ### Dairy & Eggs
 - Unsalted butter (412g)
-- Heavy cream (280ml)
+- Double cream (280ml)
 - Mascarpone (222g)
 - Cream cheese (149g)
 - Labneh (73g)
@@ -53,17 +53,17 @@
 
 ### Tasks
 - [ ] **Receive groceries and organize**
-  - Herbs: Wrap in damp paper towel
+  - Herbs: Wrap in damp kitchen paper
   - Mushrooms: Keep in paper bag in fridge
 
-- [ ] **Make Vegetable Broth** (2 batches, 2 hours each)
+- [ ] **Make Vegetable Stock** (2 batches, 2 hours each)
   - Chop vegetables, simmer 1.5 hours
   - Blend smooth, stir in miso
   - Reserve 650ml in fridge for cooking
   - Freeze rest in portions
 
 - [ ] **Optional: Make Lemon Marmalade** (2 hours, mostly hands-off)
-  - Need only ⅓ cup for cake
+  - Need only about 105g [⅓ cup] for cake <!-- CHECK -->
   - Extra keeps 1 month refrigerated
 
 - [ ] **Infuse Gin for Martinis** (5 min active)
@@ -79,13 +79,13 @@
 ### Morning
 - [ ] **Bake Lemon Cake Layers** (2 hours)
   - Brown butter (10 min)
-  - Make batter, bake three 6" layers (18-22 min each)
+  - Make batter, bake three 15cm layers (18-22 min each)
   - Make lemon syrup, brush on warm cakes
   - Cool completely, wrap, store at room temp
 
 ### Afternoon
 - [ ] **Make Mushroom Lasagne Ragù** (2.5 hours)
-  - Roast fresh mushrooms (30 min at 230°C)
+  - Roast fresh mushrooms (30 min at 230°C / 210°C fan / gas 8)
   - Rehydrate dried mushrooms in hot stock (30 min)
   - Make ragù base (45 min)
   - Cool and refrigerate - DO NOT assemble yet
@@ -131,7 +131,7 @@
 - [ ] **Prep Slaw Components** (30 min)
   - Slice cabbage, fennel, apples thin
   - Chop mint
-  - Store each separately with damp paper towels
+  - Store each separately with damp kitchen paper
 
 - [ ] **Cocktail Prep** (30 min)
   - Strain infused gin
@@ -166,8 +166,8 @@
 
 ### Afternoon (2:00 PM - 5:00 PM)
 - [ ] **Bake Lasagne** (2:30 PM, 30 min total)
-  - Covered 15 min at 200°C
-  - Uncovered 12 min at 220°C
+  - Covered 15 min at 200°C / 180°C fan / gas 6 [200°C] <!-- CHECK -->
+  - Uncovered 12 min at 220°C / 200°C fan / gas 7
   - Grill 2 min, rest 5 min
 
 - [ ] **Final Cooking Sprint** (4:00 PM, 1 hour)
@@ -184,7 +184,7 @@
 
 | Day | Active Time | Focus |
 |-----|-------------|-------|
-| Monday | 4-4.5 hrs | Broth (hands-off simmering) |
+| Monday | 4-4.5 hrs | Stock (hands-off simmering) |
 | Tuesday | 4 hrs | Cake layers + mushroom ragù |
 | Wednesday | 3 hrs | Assembly and component prep |
 | Thursday | 2-3 hrs | Rolls rising + final cooking |

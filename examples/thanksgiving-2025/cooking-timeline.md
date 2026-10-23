@@ -21,16 +21,16 @@
   - Set aside for first rise (90 min)
 
 ### 10:30 AM - Rolls: Shape & Second Rise
-**Oven:** Preheat to 350°F at 11:45 AM
+**Oven:** Preheat to 180°C / 160°C fan / gas 4 at 11:45 AM
 
 - [ ] **Shape Rolls** (10 minutes)
   - Divide dough, shape into balls
-  - Place in greased pans, brush with butter
+  - Place in greased tins, brush with butter
 - [ ] **Second Rise** (45-60 minutes)
   - Cover and let rise until puffy
 
 ### 11:45 AM - Rolls: Bake
-**Oven:** 350°F
+**Oven:** 180°C / 160°C fan / gas 4
 
 - [ ] **Bake Rolls** (20-25 minutes)
   - Until golden brown
@@ -43,7 +43,7 @@
 ## Afternoon: 1:00 PM - 4:30 PM
 
 ### 1:00 PM - Green Bean Prep
-**Stovetop:** Medium-high heat
+**Hob:** Medium-high heat
 
 - [ ] **Caramelize Onions** (25 minutes)
   - Cook with garlic, turmeric, salt
@@ -52,7 +52,7 @@
   - Keep warm on low heat
 
 ### 1:45 PM - Sweet Potato Prep
-**Stovetop:** Steam & skillet
+**Hob:** Steam & frying pan
 
 - [ ] **Steam Sweet Potatoes** (30-40 minutes)
   - Until tender when pierced
@@ -61,12 +61,12 @@
   - Mix with miso, vinegar, oils
 
 ### 2:30 PM - Lasagne Bake
-**Oven:** Preheat to 200°C fan (390°F)
+**Oven:** Preheat to 200°C / 180°C fan / gas 6 [200°C fan (390°F)] <!-- CHECK -->
 
 - [ ] **Bake Lasagne - Covered** (15 minutes)
-- [ ] **Bake Lasagne - Uncovered** (12 minutes at 220°C/425°F)
+- [ ] **Bake Lasagne - Uncovered** (12 minutes at 220°C / 200°C fan / gas 7)
   - Turn dish halfway
-- [ ] **Grill/Broil** (2 minutes)
+- [ ] **Grill** (2 minutes)
   - Watch for crispy edges
 - [ ] **Rest** (5 minutes)
   - Drizzle with cream and oil, sprinkle parsley
@@ -76,7 +76,7 @@
 ## Final Hour: 4:00 PM - 5:00 PM
 
 ### 4:00 PM - Sweet Potato Finishing
-**Stovetop:** High heat skillet
+**Hob:** High heat frying pan
 
 - [ ] **Sear Sweet Potatoes** (3 min per batch)
   - Halve and score in crisscross
@@ -94,7 +94,7 @@
   - Top with candied pecans
 
 ### 4:30 PM - Green Bean Casserole Finishing
-**Stovetop:** Reheat if needed
+**Hob:** Reheat if needed
 
 - [ ] **Finish Green Beans** (5 minutes)
   - Transfer to serving bowl
@@ -123,22 +123,22 @@
 
 ---
 
-## Oven & Stovetop Schedule
+## Oven & Hob Schedule
 
 ### Oven Timeline
 | Time | Temp | Dish |
 |------|------|------|
-| 11:45 AM - 12:10 PM | 350°F | Pumpkin Rolls |
-| 2:30 PM - 2:45 PM | 390°F | Lasagne (covered) |
-| 2:45 PM - 3:00 PM | 425°F | Lasagne (uncovered) |
-| 3:00 PM - 3:02 PM | Broil | Lasagne (crisp top) |
+| 11:45 AM - 12:10 PM | 180°C / 160°C fan / gas 4 | Pumpkin Rolls |
+| 2:30 PM - 2:45 PM | 200°C / 180°C fan / gas 6 [390°F] <!-- CHECK --> | Lasagne (covered) |
+| 2:45 PM - 3:00 PM | 220°C / 200°C fan / gas 7 | Lasagne (uncovered) |
+| 3:00 PM - 3:02 PM | Grill | Lasagne (crisp top) |
 
-### Stovetop Burners
+### Hob Burners
 | Time | Burner | Dish |
 |------|--------|------|
 | 1:00 PM - 1:30 PM | Large pan | Green beans/onions |
 | 1:45 PM - 2:25 PM | Steamer pot | Sweet potatoes |
-| 4:00 PM - 4:10 PM | Large skillet | Sear sweet potatoes |
+| 4:00 PM - 4:10 PM | Large frying pan | Sear sweet potatoes |
 | 4:30 PM | Low heat | Reheat green beans |
 
 ---
@@ -154,7 +154,7 @@
 | Dish | How Long | Method |
 |------|----------|--------|
 | Lasagne | 20-30 min | Cover with foil |
-| Green beans | 30 min | Lowest stovetop heat |
+| Green beans | 30 min | Lowest hob heat |
 | Sweet potatoes | 15 min | Serve room temp |
 | Rolls | 1 hour | Room temp is fine |
 | Slaw | 30 min | Actually improves! |

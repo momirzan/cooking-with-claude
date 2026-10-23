@@ -72,9 +72,9 @@ Triple-layer lemon sponge with labneh-mascarpone icing and lemon marmalade.
 
 - **Cocktails:** Each batch makes ~10 servings
 - **Sides:** Double for 12-16 guests
-- **Lasagne:** Make 2-3 pans for larger groups
+- **Lasagne:** Make 2-3 dishes for larger groups
 - **Rolls:** Scale recipe 3-4x for 12-16 rolls
-- **Cake:** 6-inch serves 6-8; scale to 9-inch for larger groups
+- **Cake:** 15cm serves 6-8; scale to 23cm for larger groups
 
 ## Dietary Notes
 
