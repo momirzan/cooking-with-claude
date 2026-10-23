@@ -2,7 +2,7 @@
 
 Rich, glossy sweet-tart-umami glaze perfect for smoked duck.
 
-**Prep Time:** 10 min (+ 8-12 hrs maceration) | **Cook Time:** 50-60 min | **Yield:** ~3 cups
+**Prep Time:** 10 min (+ 8-12 hrs maceration) | **Cook Time:** 50-60 min | **Yield:** ~720ml
 
 **Storage:** Refrigerate 2-3 weeks, freeze up to 6 months
 
@@ -11,13 +11,13 @@ Rich, glossy sweet-tart-umami glaze perfect for smoked duck.
 | Item | Amount |
 |------|--------|
 | Fresh plums, pitted (skins on) | 709g |
-| Brown sugar | ¾ cup (150g) |
-| Rice vinegar | 6 Tbsp (90mL) |
-| Soy sauce or tamari | 1½ Tbsp |
-| Shaoxing wine (or dry sherry) | 1 Tbsp |
+| Light brown soft sugar | 150g |
+| Rice vinegar | 90ml |
+| Soy sauce or tamari | 1½ tbsp |
+| Shaoxing wine (or dry sherry) | 1 tbsp |
 | Fresh ginger, grated | 2 tsp |
 | Garlic, minced | 2 cloves |
-| Shallot, finely chopped | 2 Tbsp |
+| Shallot, finely chopped | 2 tbsp |
 | Chinese five-spice powder | ½ tsp |
 | Ground star anise | ¼ tsp (or 1 whole pod) |
 | Red chili flakes (optional) | ¼ tsp |

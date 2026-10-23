@@ -3,7 +3,7 @@
 - **Prep Time**: 15 minutes active (plus cashew soaking)
 - **Cook Time**: 30-40 minutes (caramelizing onions)
 - **Total Time**: ~1 hour
-- **Yield**: ~2 cups (enough for 6-8 servings)
+- **Yield**: ~480ml (enough for 6-8 servings)
 - **Difficulty**: Easy
 - **Type**: Vegan Dip / Crudités / Game Day
 - **Source**: Original recipe
@@ -11,13 +11,13 @@
 ## Ingredients
 
 ### Base
-- [ ] **Extra-firm tofu** (1 block, ~14 oz) - *Location: check fridge*
-- [ ] **Raw cashews** (1 cup) - *Location: pantry*
-- [ ] **Roasted cauliflower** (1 cup, leftover) - *Location: fridge*
-- [ ] **White miso** (2-3 Tbsp) - *Location: upstairs fridge door*
+- [ ] **Extra-firm tofu** (1 block, ~400g) - *Location: check fridge*
+- [ ] **Raw cashews** (140g) - *Location: pantry*
+- [ ] **Roasted cauliflower** (~100g [1 cup], leftover) - *Location: fridge* <!-- CHECK -->
+- [ ] **White miso** (2-3 tbsp) - *Location: upstairs fridge door*
 - [ ] **Garlic** (1-2 cloves) - *Location: upstairs pantry counter*
-- [ ] **Lemon juice** (2 Tbsp) - *Location: upstairs pantry - fresh lemons*
-- [ ] **Olive oil** (2 Tbsp) - *Location: upstairs pantry*
+- [ ] **Lemon juice** (2 tbsp) - *Location: upstairs pantry - fresh lemons*
+- [ ] **Olive oil** (2 tbsp) - *Location: upstairs pantry*
 - [ ] **Water** (as needed for blending)
 - [ ] **Salt** (to taste) - *Location: upstairs pantry*
 
@@ -27,7 +27,7 @@
 
 ## Equipment
 - [ ] **High-speed blender or food processor**
-- [ ] **Large skillet** (for caramelizing onions)
+- [ ] **Large frying pan** (for caramelizing onions)
 - [ ] **Mixing bowl**
 - [ ] **Spatula**
 
@@ -41,7 +41,7 @@ Choose your method:
 
 ### 2. Caramelize Onions (30-40 min)
 1. Slice onions into thin half-moons
-2. Heat a splash of oil in a large skillet over medium-low heat
+2. Heat a splash of oil in a large frying pan over medium-low heat
 3. Add onions, stir to coat
 4. Cook low and slow, stirring occasionally
 5. Add pinches of salt to help release moisture
@@ -50,7 +50,7 @@ Choose your method:
 
 ### 3. Blend the Base
 1. Drain soaked cashews
-2. Add cashews to blender with ~½ cup water
+2. Add cashews to blender with ~120ml water
 3. Blend until completely smooth and creamy
 4. Add tofu, roasted cauliflower, miso, garlic, lemon juice, and olive oil
 5. **Add caramelized onions to the blender** (see note below)

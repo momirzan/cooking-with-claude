@@ -2,7 +2,7 @@
 - **Prep Time**: 10 minutes
 - **Cook/Process Time**: 5 minutes (toasting pine nuts + blitzing)
 - **Total Time**: ~15 minutes
-- **Yield**: ~¾ cup (from 62 g basil)
+- **Yield**: ~180ml (from 62 g basil)
 - **Difficulty**: Easy
 - **Type**: Condiment / Sauce (Italian) / Flavor Multiplier
 - **Source**: Elle's kitchen — scalable by-weight ratio

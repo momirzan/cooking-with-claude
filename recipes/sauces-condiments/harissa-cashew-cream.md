@@ -2,7 +2,7 @@
 
 Velvety sauce with za'atar, fenugreek, and sumac - perfect for roasted vegetables, grain bowls, or spaghetti squash.
 
-**Prep Time:** 10 min (+ 1-2 hrs soaking) | **Cook Time:** 5 min | **Yield:** ~2½ cups
+**Prep Time:** 10 min (+ 1-2 hrs soaking) | **Cook Time:** 5 min | **Yield:** ~600ml
 
 **Storage:** Refrigerate 5-7 days, freeze up to 1 month
 
@@ -10,19 +10,19 @@ Velvety sauce with za'atar, fenugreek, and sumac - perfect for roasted vegetable
 
 | Item | Amount |
 |------|--------|
-| Raw cashews | 1½ cups, soaked 1-2 hrs or simmered 10 min |
-| Olive oil | 3 Tbsp |
+| Raw cashews | 210g, soaked 1-2 hrs or simmered 10 min |
+| Olive oil | 3 tbsp |
 | Garlic | 2 cloves, minced |
-| Za'atar | 1 Tbsp |
+| Za'atar | 1 tbsp |
 | Dried fenugreek leaves (kasuri methi) | 1-1½ tsp, crushed |
 | Sumac | 1 tsp |
 | Ground cumin | 1 tsp |
 | Smoked paprika | 1 tsp |
 | Harissa paste | 4-6 tsp (to taste) |
-| Roasted red peppers | 2 (OR 2 Tbsp tomato paste) |
-| Lemon juice | 4 Tbsp |
+| Roasted red peppers | 2 (OR 2 tbsp tomato purée) |
+| Lemon juice | 60ml |
 | Maple syrup | 2-4 tsp |
-| Water | 1 cup + more to thin |
+| Water | 240ml + more to thin |
 | Salt | ½ tsp |
 
 ## Instructions
@@ -32,7 +32,7 @@ Velvety sauce with za'atar, fenugreek, and sumac - perfect for roasted vegetable
 2. **Quick method**: Simmer cashews in water 10 minutes, drain
 
 ### Step 2: Bloom Aromatics (3-4 minutes)
-3. Heat olive oil in small skillet over medium-low
+3. Heat olive oil in small frying pan over medium-low
 4. Add garlic; sauté until fragrant (30 seconds)
 5. Stir in za'atar, fenugreek, sumac, cumin, and paprika
 6. Toast gently 30-60 seconds until aromatic

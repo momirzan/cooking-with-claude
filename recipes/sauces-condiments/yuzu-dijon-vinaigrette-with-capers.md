@@ -1,7 +1,7 @@
 # Yuzu-Dijon Vinaigrette with Capers
 
 **Prep Time:** 5 minutes
-**Makes:** About 1/2 cup
+**Makes:** About 120ml
 **Difficulty:** Easy
 
 A bright, tangy, briny dressing made in a mortar and pestle. Perfect for cutting through rich dishes. The pounding creates a more emulsified dressing than whisking, and the shallot and capers become part of the dressing rather than just sitting in it.
@@ -9,11 +9,11 @@ A bright, tangy, briny dressing made in a mortar and pestle. Perfect for cutting
 ## Ingredients
 
 - 1 small shallot, roughly chopped
-- 2 Tbsp capers, drained
+- 2 tbsp capers, drained
 - Pinch of salt
 - 1 tsp Dijon mustard
-- 2-3 Tbsp yuzu persimmon vinegar (or other bright vinegar)
-- 4-6 Tbsp olive oil
+- 2-3 tbsp yuzu persimmon vinegar (or other bright vinegar)
+- 60-90ml olive oil
 
 ## Method (Mortar and Pestle)
 
@@ -29,7 +29,7 @@ A bright, tangy, briny dressing made in a mortar and pestle. Perfect for cutting
 
 ## Serving Suggestions
 
-- Arugula and spring greens (excellent with rich mains like ragu)
+- Rocket and spring greens (excellent with rich mains like ragu)
 - Any salad that needs to balance a heavy dish
 - Drizzled over roasted vegetables
 
@@ -42,5 +42,5 @@ Make it at the table right before dressing the salad - the mortar and pestle mak
 - Finish with fresh herbs (chives work well here)
 
 ## Session Notes (January 2026)
-- Paired perfectly with arugula + spring greens alongside Bison Ragu
+- Paired perfectly with rocket + spring greens alongside Bison Ragu
 - The mortar and pestle technique is worth doing - better emulsion and great visual

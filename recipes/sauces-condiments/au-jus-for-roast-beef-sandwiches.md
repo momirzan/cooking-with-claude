@@ -2,14 +2,14 @@
 - **Prep Time**: 2 minutes
 - **Cook Time**: 10-12 minutes
 - **Total Time**: 15 minutes
-- **Yield**: ~1 cup (enough for 4 sandwiches)
+- **Yield**: ~240ml (enough for 4 sandwiches)
 - **Difficulty**: Easy
 - **Type**: Sauce / Dipping Jus
 - **Source**: Holiday menu
 
 ### Ingredients
-- [ ] **Beef broth or water** (1 cup) - *Location: pantry*
-- [ ] **Better Than Bouillon beef base** (1 tsp) - *Location: refrigerator*
+- [ ] **Beef stock or water** (240ml) - *Location: pantry*
+- [ ] **Beef stock paste** (1 tsp [Better Than Bouillon beef base]) - *Location: refrigerator* <!-- CHECK -->
 - [ ] **Worcestershire sauce** (1/2-1 tsp) - *Location: pantry*
 - [ ] **Garlic clove** (1, smashed) - *Location: refrigerator*
 - [ ] **Black pepper** (freshly ground) - *Location: pantry*
@@ -23,7 +23,7 @@
 ### Instructions
 
 #### 1. Simmer the Base
-1. Combine broth, bouillon base, Worcestershire, garlic, and pepper in saucepan
+1. Combine stock, stock paste, Worcestershire, garlic, and pepper in saucepan
 2. Bring to gentle simmer
 3. Cook 10-12 minutes to concentrate flavors
 4. Taste and adjust seasoning
@@ -39,12 +39,12 @@ Serve warm alongside roast beef sandwiches for dipping
 ### Notes
 
 **Flavor Building:**
-- Better Than Bouillon adds concentrated beef flavor
+- Beef stock paste adds concentrated beef flavor
 - Worcestershire adds umami depth
 - Reserved drippings add rich beef fat and flavor
 
 **Drippings:**
-- Save ALL juices from sous vide bag or roasting pan
+- Save ALL juices from sous vide bag or roasting tin
 - Refrigerate overnight - fat will solidify on top
 - Use both fat and gelatinous juices for au jus
 
@@ -59,12 +59,12 @@ Serve warm alongside roast beef sandwiches for dipping
 
 **Serving:**
 - Serve in small bowls for dipping
-- Keep warm on stove or in warmer
+- Keep warm on hob or in warmer
 - Essential for French dip-style sandwiches
 
 **Variations:**
 - Add fresh thyme for herbal note
-- Use red wine instead of half the broth for richer flavor
+- Use red wine instead of half the stock for richer flavor
 - Add a splash of soy sauce for extra umami
 
 **Timeline:**

@@ -2,14 +2,14 @@
 - **Prep Time**: 15 minutes
 - **Cook Time**: 20-30 minutes
 - **Total Time**: 35-45 minutes
-- **Yield**: ~1 cup (enough for multiple uses)
+- **Yield**: ~240ml (enough for multiple uses)
 - **Difficulty**: Easy
 - **Type**: Make-Ahead Component / Condiment
 - **Source**: Classic French technique
 
 ### Ingredients
-- [ ] **Mushrooms** (8-12 oz, finely chopped - cremini, button, or mixed) - *Location: refrigerator*
-- [ ] **Butter or olive oil** (2-3 tbsp) - *Location: refrigerator or pantry*
+- [ ] **Mushrooms** (225-340g, finely chopped - chestnut (cremini), button, or mixed) - *Location: refrigerator*
+- [ ] **Butter or olive oil** (30-45g butter or 2-3 tbsp olive oil) - *Location: refrigerator or pantry*
 - [ ] **Shallot or onion** (1 small, minced) - *Location: refrigerator*
 - [ ] **Garlic** (1-2 cloves, optional) - *Location: refrigerator*
 - [ ] **Fine salt** (to taste) - *Location: pantry*
@@ -17,7 +17,7 @@
 - [ ] **Fresh thyme** (1 tsp leaves, optional) - *Location: refrigerator*
 
 ### Equipment
-- [ ] **Large skillet** (wide surface for evaporation)
+- [ ] **Large frying pan** (wide surface for evaporation)
 - [ ] **Food processor** (for chopping) or knife
 - [ ] **Wooden spoon**
 
@@ -29,7 +29,7 @@
 3. **Consistent size** cooks evenly
 
 #### 2. Cook Mushrooms Dry
-1. Add mushrooms to dry skillet over medium-high heat
+1. Add mushrooms to dry frying pan over medium-high heat
 2. Cook, stirring occasionally, until all moisture evaporates (10-15 minutes)
 3. **Key step:** Mushrooms will release liquid then dry out
 4. Continue cooking until pan is nearly dry
@@ -71,7 +71,7 @@
 
 **Troubleshooting:**
 - If duxelles is too dry/crumbly after refrigerating, stir in 1-2 tbsp crème fraîche to loosen and add creaminess
-- Large batches can be oven-roasted at 400°F on sheet pans first (20-30 min) to drive off moisture, then finished on stovetop with butter and aromatics
+- Large batches can be oven-roasted at 200°C / 180°C fan / gas 6 on baking trays first (20-30 min) to drive off moisture, then finished on the hob with butter and aromatics
 
 **Variations:**
 - Add splash of brandy or sherry after cooking

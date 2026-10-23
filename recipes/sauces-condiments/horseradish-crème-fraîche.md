@@ -1,13 +1,13 @@
 # Horseradish Crème Fraîche
 - **Prep Time**: 5 minutes (plus 1 hour chill)
 - **Total Time**: 65 minutes
-- **Yield**: 1 cup (enough for 4-6 servings)
+- **Yield**: 240ml (enough for 4-6 servings)
 - **Difficulty**: Easy
 - **Type**: Condiment / Sauce
 - **Source**: Christmas 2025 Menu
 
 ### Ingredients
-- [ ] **Plain crème fraîche** (1 cup) - *Location: order from Whole Foods*
+- [ ] **Plain crème fraîche** (240g) - *Location: order from Whole Foods*
 - [ ] **Prepared horseradish** (1-2 tbsp, to taste) - *Location: upstairs fridge*
 - [ ] **Fine salt** (pinch) - *Location: upstairs pantry*
 - [ ] **Black pepper** (freshly ground) - *Location: upstairs pantry*

@@ -2,26 +2,26 @@
 
 Deeply caramelized, umami-rich condiment with slow-cooked peppers, onions, and miso.
 
-**Prep Time:** 15 min | **Cook Time:** 60 min (mostly hands-off) | **Yield:** ~2 cups
+**Prep Time:** 15 min | **Cook Time:** 60 min (mostly hands-off) | **Yield:** ~480ml
 
 ## Ingredients
 
 | Item | Amount |
 |------|--------|
-| Red bell peppers | 4 large, seeded and sliced |
+| Red peppers | 4 large, seeded and sliced |
 | Yellow onion | 1 large, sliced |
 | Garlic cloves | 4, minced |
-| Olive oil | 2 Tbsp |
-| White miso paste | 3 Tbsp |
-| Rice vinegar | 1 Tbsp |
-| Honey or maple syrup | 1 Tbsp |
+| Olive oil | 2 tbsp |
+| White miso paste | 3 tbsp |
+| Rice vinegar | 1 tbsp |
+| Honey or maple syrup | 1 tbsp |
 | Salt | ½ tsp |
 | Black pepper | ¼ tsp |
 
 ## Instructions
 
 ### Step 1: Slow-Cook Vegetables (45-50 minutes)
-1. Heat olive oil in large skillet over medium-low heat
+1. Heat olive oil in large frying pan over medium-low heat
 2. Add peppers and onions with salt
 3. Cook low and slow, stirring occasionally, 45-50 minutes
 4. Vegetables should be deeply caramelized and jammy

@@ -2,15 +2,15 @@
 - **Prep Time**: 5 minutes
 - **Cook Time**: None
 - **Total Time**: 5 minutes
-- **Yield**: About 2/3 cup
+- **Yield**: About 160ml
 - **Difficulty**: Easy
 - **Type**: Condiment / Sauce
 - **Created**: December 2024
 
 ### Ingredients
 
-- [ ] **Japanese mayo (Kewpie)** (1/2 cup)
-- [ ] **Homemade soyrizo** (2-3 Tbsp, cooled)
+- [ ] **Japanese mayo (Kewpie)** (120ml)
+- [ ] **Homemade soyrizo** (2-3 tbsp, cooled)
 - [ ] **Lime juice** (1 tsp)
 - [ ] **Smoked paprika** (1/2 tsp)
 - [ ] **Cayenne pepper** (1/4 tsp, or to taste)
@@ -19,7 +19,7 @@
 ### Instructions
 
 1. Make soyrizo first and let cool slightly
-2. Reserve 2-3 Tbsp of the cooked soyrizo
+2. Reserve 2-3 tbsp of the cooked soyrizo
 3. In small bowl, mix Japanese mayo with cooled soyrizo
 4. Add lime juice, smoked paprika, and cayenne
 5. Add chipotle in adobo if using

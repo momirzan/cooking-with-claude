@@ -2,7 +2,7 @@
 
 Batch-freezer condiment with roasted green chilis, beans, and aromatics - neutral base for versatile meal applications.
 
-**Prep Time:** 10 min | **Cook Time:** 30 min | **Yield:** ~6 cups (12-14 portions)
+**Prep Time:** 10 min | **Cook Time:** 30 min | **Yield:** ~1.4 litres (12-14 portions)
 
 **Freezer Life:** Up to 6 months
 
@@ -10,7 +10,7 @@ Batch-freezer condiment with roasted green chilis, beans, and aromatics - neutra
 
 | Item | Amount |
 |------|--------|
-| High-heat cooking oil | 3 Tbsp (or omit for oil-free) |
+| High-heat cooking oil | 3 tbsp (or omit for oil-free) |
 | Large onions, chopped | 2 (~350g) |
 | Garlic cloves, sliced | 8 |
 | Ground cumin | 2 tsp |
@@ -18,15 +18,15 @@ Batch-freezer condiment with roasted green chilis, beans, and aromatics - neutra
 | Smoked paprika (optional) | 1 tsp |
 | Medium tomatoes, chopped | 3-4 (~400g) |
 | Green chilis, cored and chopped | 490g (keep some seeds for heat) |
-| Cooked pinto beans | 3 cups (~500g) |
-| Vegetable broth or water | 1 cup (240ml) |
+| Cooked pinto beans | ~500g |
+| Vegetable stock or water | 240ml |
 | Salt | 1 tsp |
 
 ## Instructions
 
 ### Step 1: Roast Chilis (Optional)
-1. Chop chilis and spread on sheet pan
-2. Broil until edges are lightly charred and softened
+1. Chop chilis and spread on baking tray
+2. Grill until edges are lightly charred and softened
 
 ### Step 2: Sauté Aromatics (8 minutes)
 3. Heat oil in wide pan over medium
@@ -35,7 +35,7 @@ Batch-freezer condiment with roasted green chilis, beans, and aromatics - neutra
 
 ### Step 3: Simmer (25 minutes)
 6. Add chilis and tomatoes; simmer 10 min until thickened
-7. Stir in beans, broth, and salt
+7. Stir in beans, stock, and salt
 8. Simmer 15 min, stirring occasionally
 
 ### Step 4: Blend and Store
