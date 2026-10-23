@@ -3,21 +3,18 @@
 ## Project Overview
 Intelligent cooking management system that combines recipe database, meal planning, and real-time inventory tracking with AI-powered meal suggestions.
 
-## Your Altitude (STANDING DEFAULT)
-
-**Set your elevation once here, and Claude factors it into every cooking instruction (times, temperatures, liquids) without being asked.**
-
-**Elevation:** `[e.g. 5,280 ft]` *(delete this section if you're near sea level)*
-
-At 5,000 ft, water boils at about **202°F** instead of 212°F, so anything water-based runs slower and needs more liquid:
-- **Boiling and simmering (beans, grains, pasta, eggs, blanching):** expect **15–30% longer**. Cook to texture, not the clock. Start with a little more water, keep hot water on hand to top up, and use a cracked lid.
-- **Softening nuts** (cashews for sauces): a few extra minutes.
-- **Leavened baking:** batters over-rise and dry out. Slightly **reduce leavening** (⅛–¼ tsp less per tsp) and sugar, **add a little liquid**, raise the oven **15–25°F**, and expect a shorter bake. Flag per recipe.
-- **Candy, syrups, deep-frying:** subtract about **2°F per 1,000 ft** from sea-level target temperatures (~10°F at 5,000 ft).
-- **Pressure cooking:** add about **5% time per 1,000 ft** above 2,000 ft. Pressure is the method altitude affects least, which makes it the best tool for dried beans up high.
-- **Roasting, sautéing, searing, cold prep:** essentially unchanged.
-
-**When altitude changes a step, say so briefly** so the cook knows why the number differs from the recipe. See `recipes/techniques/cooking-beans-at-altitude.md` for a worked guide.
+## UK Kitchen Conventions
+- Weights in grams for all dry/solid ingredients, incl. butter (no sticks).
+- Liquids in ml; tsp/tbsp only for small amounts (<4 tbsp).
+- Oven temps as "200°C / 180°C fan / gas 6". Assume a fan oven.
+- No Fahrenheit, cups, ounces, pounds, quarts or inches (use cm).
+- UK tin/pack sizes: 400g tins, 300ml/600ml cream pots, 500g mince.
+- UK ingredient names: double/single cream, plain/self-raising flour,
+  caster/icing sugar, coriander, spring onions, courgette, aubergine,
+  rocket, prawns, mince, stock cube, bicarbonate of soda, cornflour.
+- "Broil" -> grill; "skillet" -> frying pan; "stovetop" -> hob.
+- US large egg ≈ UK large egg.
+- New recipes added to this repo must follow these conventions.
 
 ## Nutritional Philosophy
 
