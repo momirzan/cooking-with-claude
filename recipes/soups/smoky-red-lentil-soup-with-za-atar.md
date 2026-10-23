@@ -17,7 +17,7 @@
 
 ## Ingredients
 
-- [ ] **Red lentils** (1½ cups, rinsed)
+- [ ] **Red lentils** (285g, rinsed)
 - [ ] **Yellow onion** (1 large, diced)
 - [ ] **Carrots** (2 medium, diced)
 - [ ] **Garlic** (4 cloves, minced)
@@ -25,8 +25,8 @@
 - [ ] **Cumin** (1 tsp)
 - [ ] **Turmeric** (½ tsp)
 - [ ] **Crushed red pepper flakes** (¼ tsp, or to taste)
-- [ ] **Fire-roasted diced tomatoes** (1 can, 14.5 oz)
-- [ ] **Vegetable broth** (5 cups)
+- [ ] **Fire-roasted chopped tomatoes** (1 × 400g tin) <!-- CHECK -->
+- [ ] **Vegetable stock** (1.2 litres)
 - [ ] **Olive oil** (2 tbsp)
 - [ ] **Lemon juice** (2 tbsp, fresh)
 - [ ] **Salt and pepper** (to taste)
@@ -34,18 +34,18 @@
 ### Garnish
 - [ ] **Za'atar** (1-2 tsp per bowl)
 - [ ] **Extra virgin olive oil** (drizzle)
-- [ ] **Fresh parsley or cilantro** (chopped)
+- [ ] **Fresh parsley or coriander** (chopped)
 
 ## Instructions
 
 ### Phase 1: Sauté Aromatics (5 minutes)
-1. Heat olive oil in a large Dutch oven over medium heat
+1. Heat olive oil in a large Dutch oven (lidded casserole) over medium heat
 2. Add onion and carrots, cook 4-5 minutes until softened
 3. Add garlic, smoked paprika, cumin, turmeric, and red pepper flakes
 4. Stir 30 seconds until fragrant
 
 ### Phase 2: Simmer (30 minutes)
-1. Add rinsed red lentils, fire-roasted tomatoes, and vegetable broth
+1. Add rinsed red lentils, fire-roasted tomatoes, and vegetable stock
 2. Bring to a boil, then reduce to a gentle simmer
 3. Cook 25-30 minutes, stirring occasionally, until lentils are completely broken down
 4. The soup will naturally thicken as lentils dissolve
@@ -61,5 +61,5 @@ Ladle into bowls, sprinkle generously with za'atar, drizzle with good olive oil,
 ## Notes
 - Red lentils don't need soaking — they cook fast and break down into a creamy texture
 - Freezes beautifully for up to 3 months
-- Leftovers thicken overnight; add a splash of broth when reheating
+- Leftovers thicken overnight; add a splash of stock when reheating
 - Great with crusty bread or warm pita

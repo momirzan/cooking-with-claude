@@ -15,15 +15,15 @@ Altitude tested at 5,280 ft
 ## Ingredients
 
 ### Onion Base
-- 3–4 lbs yellow onions, thinly sliced pole-to-pole
+- 1.4–1.8kg yellow onions, thinly sliced pole-to-pole
 - 1 tbsp olive oil
 - ¾ tsp kosher salt
-- 1 tbsp tomato paste
-- ¾ cup dry white wine (split use)
+- 1 tbsp tomato purée
+- 180ml dry white wine (split use)
 
-### Broth + Body
-- 6–8 cups strong homemade vegetable broth
-- 2 cans cannellini beans, drained and rinsed
+### Stock + Body
+- 1.4–1.9 litres strong homemade vegetable stock
+- 2 × 400g tins cannellini beans, drained and rinsed
 - 2–3 tsp soy sauce (adjust to taste)
 - 1 tsp Dijon mustard
 - 1½–2 tsp white miso
@@ -46,7 +46,7 @@ Altitude tested at 5,280 ft
 
 ### 1. Slow Onion Collapse (2½–3 hours)
 
-In a heavy Dutch oven over medium-low heat:
+In a heavy Dutch oven (lidded casserole) over medium-low heat:
 
 1. Add olive oil.
 2. Add onions + salt.
@@ -71,16 +71,16 @@ Increase heat slightly.
 
 Repeat 2–3 times.
 
-Add tomato paste during the final cycle and cook until slightly darkened.
+Add tomato purée during the final cycle and cook until slightly darkened.
 
 (Optional: stir in a small pinch of sumac and briefly bloom before final deglaze.)
 
 ---
 
-### 3. Broth + Bean Integration (45–60 minutes)
+### 3. Stock + Bean Integration (45–60 minutes)
 
 Add:
-- Vegetable broth
+- Vegetable stock
 - Cannellini beans
 
 Bring to a gentle simmer.
@@ -88,7 +88,7 @@ Cook uncovered or partially covered depending on desired reduction.
 
 After ~30 minutes:
 
-- Remove 3–4 cups (beans + broth + onions).
+- Remove 720–960ml (beans + broth + onions).
 - Blend completely smooth.
 - Return to pot.
 
@@ -120,7 +120,7 @@ Rest 3–5 minutes before serving.
 
 ## Toast
 
-Toast baguette at 350°F until crisp.
+Toast baguette at 180°C / 160°C fan / gas 4 until crisp.
 
 While warm:
 - Sprinkle nutritional yeast.

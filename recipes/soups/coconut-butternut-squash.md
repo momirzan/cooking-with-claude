@@ -11,27 +11,27 @@ Creamy vegan soup with curry, ginger, and coconut milk, topped with sautéed kal
 ### Soup Base
 | Item | Amount |
 |------|--------|
-| Butternut squash | 1360g (~3 lbs) |
-| Olive oil | 4 Tbsp |
+| Butternut squash | 1360g |
+| Olive oil | 4 tbsp |
 | Large yellow onions, chopped | 2 |
 | Medium apples, peeled and diced | 2 |
-| Vegetable broth | 4 cups |
+| Vegetable stock | 960ml |
 | Curry powder | 4 tsp |
 | Fresh ginger, grated | 4 tsp |
 | Ground nutmeg or allspice | ¼ tsp |
-| Light coconut milk | 2 cans (14 oz each) |
+| Light coconut milk | 2 × 400ml tins |
 | Salt and pepper | to taste |
 
 ### Garnish
 | Item | Amount |
 |------|--------|
 | Red onions, thinly sliced | 4 medium |
-| Kale, shredded | 2 bunches (10-12 oz each) |
+| Kale, shredded | 2 bunches (280-340g each) |
 
 ## Instructions
 
 ### Step 1: Bake the Squash (30-50 minutes)
-1. Preheat oven to 375°F
+1. Preheat oven to 190°C / 170°C fan / gas 5
 2. Cut squash in half lengthwise and scoop out seeds
 3. Place halves cut side up in foil-lined shallow baking dish
 4. Cover tightly with more foil
@@ -39,12 +39,12 @@ Creamy vegan soup with curry, ginger, and coconut milk, topped with sautéed kal
 6. Scoop out flesh and set aside (discard skins)
 
 ### Step 2: Sauté Onions (8-10 minutes)
-7. Heat 2 Tbsp oil in large soup pot over medium-low heat
+7. Heat 2 tbsp oil in large soup pot over medium-low heat
 8. Add chopped yellow onions
 9. Sauté until golden, about 8-10 minutes
 
 ### Step 3: Simmer Soup Base (10 minutes)
-10. Add diced apples, baked squash, vegetable broth, curry powder, grated ginger, and nutmeg
+10. Add diced apples, baked squash, vegetable stock, curry powder, grated ginger, and nutmeg
 11. Bring to a steady simmer
 12. Cover and simmer gently until apples are tender, about 10 minutes
 
@@ -60,12 +60,12 @@ Creamy vegan soup with curry, ginger, and coconut milk, topped with sautéed kal
 19. **Optional**: Let soup stand off heat for 1-2 hours for flavors to meld, then reheat before serving
 
 ### Step 6: Prepare Garnish (5 minutes)
-20. Just before serving, heat remaining 2 Tbsp oil in large skillet
+20. Just before serving, heat remaining 2 tbsp oil in large frying pan
 21. Add sliced red onions and sauté over low heat until golden and soft
 
 ### Step 7: Cook Kale (5 minutes)
 22. Strip kale leaves from stems and cut into thin shreds
-23. Add kale to skillet with onions
+23. Add kale to frying pan with onions
 24. Add just enough water to moisten the surface
 25. Cover and cook over medium heat, stirring occasionally, until kale is bright green and just tender (about 5 minutes)
 

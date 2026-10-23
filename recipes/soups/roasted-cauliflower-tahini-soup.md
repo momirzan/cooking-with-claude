@@ -22,7 +22,7 @@
 - [ ] **Garlic** (6 cloves, left whole)
 - [ ] **Olive oil** (3 tbsp)
 - [ ] **Tahini** (3 tbsp)
-- [ ] **Vegetable broth** (4 cups)
+- [ ] **Vegetable stock** (960ml)
 - [ ] **Lemon juice** (2 tbsp)
 - [ ] **Cumin** (1 tsp)
 - [ ] **Salt and pepper** (to taste)
@@ -36,16 +36,16 @@
 ## Instructions
 
 ### Phase 1: Roast (30 minutes)
-1. Preheat oven to 425°F
+1. Preheat oven to 220°C / 200°C fan / gas 7
 2. Toss cauliflower, onion, and whole garlic cloves with olive oil, cumin, salt, and pepper
-3. Spread on a sheet pan in a single layer
+3. Spread on a baking tray in a single layer
 4. Roast 25-30 minutes until deeply caramelized and golden brown
 
 ### Phase 2: Blend (10 minutes)
 1. Transfer roasted vegetables to a large pot
-2. Add vegetable broth and tahini
+2. Add vegetable stock and tahini
 3. Blend with immersion blender until silky smooth
-4. Heat over medium, adding more broth to reach desired consistency
+4. Heat over medium, adding more stock to reach desired consistency
 5. Stir in lemon juice, adjust salt and pepper
 
 ### To Serve

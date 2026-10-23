@@ -11,35 +11,35 @@
 - [ ] **Olive oil** (2-3 tbsp) - *Location: pantry*
 - [ ] **Onion or shallot** (1, diced, optional) - *Location: refrigerator*
 - [ ] **Garlic** (3-4 cloves, minced) - *Location: refrigerator*
-- [ ] **Tomato paste** (2-3 tbsp) - *Location: refrigerator*
-- [ ] **Canned beans** (2 cans - chickpeas, cannellini, or white beans) - *Location: pantry*
-- [ ] **Water or vegetable broth** (1 cup) - *Location: pantry*
-- [ ] **Greens** (kale, chard, or spinach, 2-3 cups chopped) - *Location: refrigerator or freezer*
+- [ ] **Tomato purée** (2-3 tbsp) - *Location: refrigerator*
+- [ ] **Tinned beans** (2 × 400g tins - chickpeas, cannellini, or white beans) - *Location: pantry*
+- [ ] **Water or vegetable stock** (240ml) - *Location: pantry*
+- [ ] **Greens** (kale, chard, or spinach, about 130-195g [2-3 cups] chopped) - *Location: refrigerator or freezer* <!-- CHECK -->
 - [ ] **Salt** (to taste) - *Location: pantry*
 - [ ] **Black pepper** (to taste) - *Location: pantry*
 - [ ] **Chili flakes** (optional, for heat) - *Location: pantry*
 - [ ] **Lemon or vinegar** (for finishing) - *Location: refrigerator*
 
 ### Equipment
-- [ ] **Large skillet or pot**
+- [ ] **Large frying pan or pot**
 - [ ] **Wooden spoon**
-- [ ] **Can opener**
+- [ ] **Tin opener**
 
 ### Instructions
 
 #### 1. Build the Base
-1. Heat olive oil in large skillet over medium heat
+1. Heat olive oil in large frying pan over medium heat
 2. Add onion (if using), sauté until soft (5 minutes)
 3. Add garlic, cook until fragrant (1 minute)
 
-#### 2. Toast Tomato Paste
-1. Add tomato paste to pan
+#### 2. Toast Tomato Purée
+1. Add tomato purée to pan
 2. Cook, stirring constantly, until darkened and caramelized (2-3 minutes)
 3. **This step adds depth** - don't skip
 
 #### 3. Add Beans and Simmer
-1. Add beans with their liquid (or drain and add broth)
-2. Add water or vegetable broth
+1. Add beans with their liquid (or drain and add stock)
+2. Add water or vegetable stock
 3. Bring to simmer
 4. Cook 10 minutes to meld flavors
 5. Break up some beans with spoon for creamier texture
@@ -54,7 +54,7 @@
 ### Notes
 
 **Flavor Building:**
-- Caramelizing tomato paste is KEY for depth
+- Caramelizing tomato purée is KEY for depth
 - Lemon/vinegar brightens the dish - don't skip
 - Final drizzle of olive oil adds richness
 

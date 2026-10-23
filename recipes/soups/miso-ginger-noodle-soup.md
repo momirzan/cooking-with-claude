@@ -18,23 +18,23 @@
 ## Ingredients
 
 - [ ] **White miso paste** (3 tbsp)
-- [ ] **Fresh ginger** (2-inch piece, grated)
+- [ ] **Fresh ginger** (5cm piece, grated)
 - [ ] **Garlic** (3 cloves, minced)
 - [ ] **Sesame oil** (1 tbsp)
-- [ ] **Vegetable broth** (6 cups)
+- [ ] **Vegetable stock** (1.4 litres)
 - [ ] **Soy sauce or tamari** (2 tbsp)
 - [ ] **Rice vinegar** (1 tbsp)
-- [ ] **Udon or soba noodles** (8 oz)
-- [ ] **Shiitake mushrooms** (6 oz, sliced)
+- [ ] **Udon or soba noodles** (225g)
+- [ ] **Shiitake mushrooms** (170g, sliced)
 - [ ] **Baby bok choy** (2 heads, quartered)
-- [ ] **Firm tofu** (8 oz, cubed)
-- [ ] **Green onions** (4, sliced)
+- [ ] **Firm tofu** (225g, cubed)
+- [ ] **Spring onions** (4, sliced)
 - [ ] **Sriracha or chili oil** (optional, to taste)
 
 ### Garnish
 - [ ] **Sesame seeds**
 - [ ] **Nori strips** (optional)
-- [ ] **Fresh cilantro**
+- [ ] **Fresh coriander**
 
 ## Instructions
 
@@ -42,7 +42,7 @@
 1. Heat sesame oil in a large pot over medium heat
 2. Add mushrooms and cook 3-4 minutes until golden
 3. Add garlic and ginger, stir 30 seconds
-4. Pour in vegetable broth, soy sauce, and rice vinegar
+4. Pour in vegetable stock, soy sauce, and rice vinegar
 5. Bring to a simmer
 
 ### Phase 2: Cook Noodles and Vegetables (10 minutes)
@@ -52,12 +52,12 @@
 
 ### Phase 3: Finish with Miso
 1. Remove pot from heat
-2. Ladle ½ cup of hot broth into a small bowl, whisk in miso paste until smooth
+2. Ladle 120ml of hot broth into a small bowl, whisk in miso paste until smooth
 3. Pour miso mixture back into the pot and stir gently
 4. **Do not boil after adding miso** — it kills the beneficial cultures
 
 ### To Serve
-Divide among bowls, top with green onions, sesame seeds, nori strips, cilantro, and chili oil if desired.
+Divide among bowls, top with spring onions, sesame seeds, nori strips, coriander, and chili oil if desired.
 
 ## Notes
 - Adding miso off heat preserves probiotics and prevents bitterness
