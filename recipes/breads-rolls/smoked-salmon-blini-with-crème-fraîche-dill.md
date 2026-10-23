@@ -10,13 +10,13 @@
 ### Ingredients
 
 #### Blini
-- [ ] **Buckwheat blini mix** (Regiis Ova or similar)
+- [ ] **Buckwheat blini mix** (Regiis Ova or similar) <!-- CHECK -->
 - [ ] **Water or milk** (per package instructions) - *Location: upstairs fridge*
 - [ ] **Neutral oil or butter** (for cooking) - *Location: downstairs or upstairs pantry*
 
 #### Topping
-- [ ] **High-quality smoked salmon** (3-4 oz, sliced not chunky)
-- [ ] **Plain crème fraîche** (4-5 tbsp)
+- [ ] **High-quality smoked salmon** (85-115g, sliced not chunky)
+- [ ] **Plain crème fraîche** (60-75g)
 - [ ] **Fresh dill** (finely chopped)
 - [ ] **Fresh chives** (finely sliced, optional)
 - [ ] **Freshly ground black pepper** - *Location: upstairs pantry*
@@ -26,20 +26,20 @@
 - [ ] **Lemon zest** (very light touch)
 
 ### Equipment
-- [ ] **Nonstick skillet or griddle**
+- [ ] **Nonstick frying pan or griddle**
 - [ ] **Offset spatula**
 - [ ] **Piping bag or small spoon**
-- [ ] **Paper towels**
+- [ ] **Kitchen paper**
 - [ ] **Serving platter** (chilled)
 
 ### Instructions
 
 #### 1. Make the Blini (Can be done 24 hours ahead)
 1. Prepare blini batter according to package instructions
-2. Heat a lightly oiled nonstick skillet over medium-low heat
-3. Spoon batter into small rounds (≈1½–2 inches diameter)
+2. Heat a lightly oiled nonstick frying pan over medium-low heat
+3. Spoon batter into small rounds (≈4–5cm diameter)
 4. Cook until bubbles form and edges set; flip and cook briefly on second side
-5. Transfer to a rack or paper towel to cool completely
+5. Transfer to a rack or kitchen paper to cool completely
 6. **Make-ahead:** Store airtight in refrigerator for up to 24 hours
 
 #### 2. Prepare the Salmon (Up to 12 hours ahead)
@@ -48,7 +48,7 @@
 3. Cover and refrigerate until assembly
 
 #### 3. Assembly (Day Of - ≤30 minutes before serving)
-1. Warm blini gently if desired (covered, low oven or skillet)
+1. Warm blini gently if desired (covered, low oven or frying pan)
 2. Pipe or spoon a small dollop of crème fraîche onto each blini
 3. Top with a salmon rosette
 4. Sprinkle lightly with dill and chives

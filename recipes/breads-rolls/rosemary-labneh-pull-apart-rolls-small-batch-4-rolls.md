@@ -3,7 +3,7 @@
 - **Rise Time**: 2-2.5 hours (60-75 min first rise + 35-45 min second rise at altitude)
 - **Bake Time**: 25-28 minutes
 - **Total Time**: 3-3.5 hours
-- **Yield**: 4 rolls in 6" springform pan
+- **Yield**: 4 rolls in 15cm springform tin
 - **Difficulty**: Medium (involves yeast work and shaping)
 - **Type**: Bread/Side Dish
 - **Source**: Adapted for high altitude
@@ -11,47 +11,47 @@
 ### Ingredients
 
 **For Yeast Activation:**
-- [ ] **Warm water** (scant 2.5 Tbsp / 35ml, at 100-110°F) - *Location: tap water*
+- [ ] **Warm water** (scant 2½ tbsp / 35ml, at 38-43°C) - *Location: tap water*
 - [ ] **Active dry yeast** (1 tsp) - *Location: refrigerator*
-- [ ] **Sugar** (½ tsp for yeast activation + 1 tsp for dough) - *Location: pantry*
+- [ ] **Caster sugar** (½ tsp for yeast activation + 1 tsp for dough) - *Location: pantry*
 
 **Dry Ingredients:**
-- [ ] **White Sonora flour** (⅞ cup / 106g, PLUS 2 Tbsp reserve) - *Location: pantry*
-- [ ] **Elbon rye flour** (⅓ cup / 40g) - *Location: pantry*
+- [ ] **White Sonora flour** (106g, PLUS 2 tbsp reserve) - *Location: pantry* <!-- CHECK -->
+- [ ] **Elbon rye flour** (40g) - *Location: pantry* <!-- CHECK -->
 - [ ] **Salt** (½ tsp) - *Location: pantry*
 - [ ] **Black pepper** (¼ tsp) - *Location: pantry*
 
 **Wet Ingredients (CORRECTED - reduced by ⅓ from original):**
-- [ ] **Labneh** (3 Tbsp / 45g, room temperature) - *Location: refrigerator*
-- [ ] **Whole milk** (2 Tbsp / 30ml, room temperature) - *Location: refrigerator*
-- [ ] **Large egg** (1 Tbsp + 2 tsp beaten, about ⅓ egg) - *Location: refrigerator*
-- [ ] **Unsalted butter** (1¾ Tbsp melted & cooled for dough + 1.5 Tbsp melted for brushing) - *Location: refrigerator*
+- [ ] **Labneh** (3 tbsp / 45g, room temperature) - *Location: refrigerator*
+- [ ] **Whole milk** (2 tbsp / 30ml, room temperature) - *Location: refrigerator*
+- [ ] **Large egg** (1 tbsp + 2 tsp beaten, about ⅓ egg) - *Location: refrigerator*
+- [ ] **Unsalted butter** (26g melted & cooled for dough + 22g melted for brushing) - *Location: refrigerator*
 
 **Fresh Herbs (BOOSTED - ~26g total):**
-- [ ] **Fresh rosemary** (9g / ~3.5 Tbsp finely chopped) - *Location: refrigerator or farmer's market*
-- [ ] **Fresh thyme** (5g / ~2.5 Tbsp finely chopped) - *Location: refrigerator or farmer's market*
-- [ ] **Fresh sage** (3g / ~1.5 Tbsp finely chopped) - *Location: refrigerator or farmer's market*
-- [ ] **Fresh parsley** (9g / ~2.5 Tbsp finely chopped) - *Location: refrigerator*
-- [ ] **Reserve 4g (~1.5 Tbsp) mixed herbs for topping**
+- [ ] **Fresh rosemary** (9g / ~3½ tbsp finely chopped) - *Location: refrigerator or farmer's market*
+- [ ] **Fresh thyme** (5g / ~2½ tbsp finely chopped) - *Location: refrigerator or farmer's market*
+- [ ] **Fresh sage** (3g / ~1½ tbsp finely chopped) - *Location: refrigerator or farmer's market*
+- [ ] **Fresh parsley** (9g / ~2½ tbsp finely chopped) - *Location: refrigerator*
+- [ ] **Reserve 4g (~1½ tbsp) mixed herbs for topping**
 
 **For Brushing & Topping:**
-- [ ] **Melted butter** (1.5 Tbsp) - *Location: refrigerator*
+- [ ] **Melted butter** (22g) - *Location: refrigerator*
 - [ ] **Olive oil** (1½ tsp, optional) - *Location: pantry*
 - [ ] **Flaky sea salt** - *Location: pantry*
 
 ### Equipment
-- [ ] **6-inch round springform pan**
+- [ ] **15cm round springform tin**
 - [ ] **Small mixing bowl** (for yeast activation)
 - [ ] **Large mixing bowl** OR **Stand mixer with dough hook**
 - [ ] **Instant-read thermometer** (for water temp and checking doneness)
-- [ ] **Plastic wrap AND damp towel** (for dry climates!)
+- [ ] **Cling film AND damp towel** (for dry climates!)
 - [ ] **Bench scraper or sharp knife** (for dividing dough)
 - [ ] **Pastry brush** (for butter)
 
 ### Instructions
 
 #### Step 1: Activate Yeast (10 minutes) ⚠️ CRITICAL!
-1. Warm scant 2.5 Tbsp water to 100-110°F (should feel warm on wrist, NOT hot)
+1. Warm 35ml (scant 2½ tbsp) water to 38-43°C (should feel warm on wrist, NOT hot)
 2. Add 1 tsp yeast + ½ tsp sugar to warm water, stir gently
 3. **WAIT 5-10 minutes for FOAM** - mixture should become foamy/bubbly on top
 4. **❌ NO FOAM = DEAD YEAST** - do not proceed, get fresh yeast and start over
@@ -61,15 +61,15 @@
 6. Pile all herbs together and chop finely
 7. Weigh as you chop: 9g rosemary, 5g thyme, 3g sage, 9g parsley (~26g total)
 8. Mix all chopped herbs together
-9. **Reserve 4g (~1.5 Tbsp) mixed herbs** in small bowl for topping later
+9. **Reserve 4g (~1½ tbsp) mixed herbs** in small bowl for topping later
 10. Remaining ~22g herbs will go in dough
 
 #### Step 3: Mix Wet Ingredients (5 minutes)
-11. In large bowl, whisk together: 3 Tbsp labneh (room temp), 2 Tbsp milk (room temp), 1 Tbsp + 2 tsp beaten egg, 1¾ Tbsp melted butter (cooled), 1 tsp sugar
+11. In large bowl, whisk together: 3 tbsp (45g) labneh (room temp), 2 tbsp (30ml) milk (room temp), 1 tbsp + 2 tsp beaten egg, 26g melted butter (cooled), 1 tsp sugar
 12. Add foamy yeast mixture and whisk to combine
 
 #### Step 4: Mix Dry Ingredients (3 minutes)
-13. In separate bowl, combine: ⅞ cup White Sonora flour (hold back 2 Tbsp reserve), ⅓ cup rye flour, ½ tsp salt, ¼ tsp black pepper
+13. In separate bowl, combine: 106g White Sonora flour (hold back 2 tbsp reserve), 40g rye flour, ½ tsp salt, ¼ tsp black pepper
 14. Whisk dry ingredients together
 
 #### Step 5: Combine Everything (5 minutes)
@@ -100,45 +100,45 @@
 #### Step 7: First Rise (60-75 minutes at altitude)
 25. Butter a clean bowl generously
 26. Place dough in bowl
-27. **Cover TIGHTLY** (plastic wrap + damp towel for dry climates)
+27. **Cover TIGHTLY** (cling film + damp towel for dry climates)
 28. Rise in warm, draft-free spot for 60-75 minutes until doubled
 29. **At altitude, check at 60 minutes** - better slightly under-proofed than over
 30. **Test if ready:** Poke with finger - if indent stays, it's ready
 
 #### Step 8: Shape Rolls (10 minutes)
-31. Grease 6" springform pan with butter
+31. Grease 15cm springform tin with butter
 32. Turn dough onto lightly floured surface
 33. Divide into 4 equal pieces (~45-50g each)
 34. Roll each piece into smooth ball by cupping hand and rolling in circles
-35. **Arrange in 6" pan:** 1 roll in CENTER + 3 rolls around EDGE, evenly spaced
+35. **Arrange in 15cm tin:** 1 roll in CENTER + 3 rolls around EDGE, evenly spaced
 36. Rolls should be touching or nearly touching
 
 #### Step 9: Second Rise (35-45 minutes at altitude)
-37. Cover pan tightly (plastic wrap + damp towel)
+37. Cover tin tightly (cling film + damp towel)
 38. Rise in warm spot for 35-45 minutes until puffy and touching
-39. **Check at 35 minutes** - rolls should fill pan and be touching
+39. **Check at 35 minutes** - rolls should fill tin and be touching
 40. **Better slightly under-proofed than over-proofed at altitude!**
 
 #### Step 10: Preheat Oven (10 minutes before baking)
-41. At 25-minute mark of second rise, preheat oven to **395-400°F** (high temp for altitude)
+41. At 25-minute mark of second rise, preheat oven to **200°C / 180°C fan / gas 6** (high temp for altitude)
 
 #### Step 11: Brush & Top (2-3 minutes)
-42. Mix 1.5 Tbsp melted butter + 1½ tsp olive oil (optional)
+42. Mix 22g melted butter + 1½ tsp olive oil (optional)
 43. Brush generously over risen rolls
 44. Sprinkle **reserved 4g herb mix** on top
 45. Add flaky sea salt
 46. Gently press herbs into surface
 
 #### Step 12: Bake (25-28 minutes) ⚠️ LONGER THAN EXPECTED!
-47. Remove plastic wrap
+47. Remove cling film
 48. Bake **25-28 minutes** until deeply golden brown
-49. **Internal temperature must reach 190-200°F** - use thermometer!
+49. **Internal temperature must reach 88-93°C** - use thermometer!
 50. If browning too fast, tent with foil after 20 minutes
-51. **The 6" pan creates thicker rolls that need LONGER baking than expected**
+51. **The 15cm tin creates thicker rolls that need LONGER baking than expected**
 
 #### Step 13: Finish and Serve (5 minutes)
 52. Remove from oven and immediately brush with remaining melted butter
-53. Cool in pan 5 minutes
+53. Cool in tin 5 minutes
 54. Release springform ring and slide onto serving plate
 55. **Serve warm** - let guests pull apart individual rolls!
 
@@ -154,19 +154,19 @@
 **⚠️ CRITICAL SUCCESS FACTORS (learned from first batch):**
 - **DOUGH TEXTURE IS EVERYTHING:** Must be satiny and smooth, NOT sticky or wet. This determines success!
 - **REDUCED LIQUIDS:** Original recipe had too much liquid - reduced labneh and milk by ⅓
-- **LONGER BAKING:** 6" pan = thicker rolls = need 25-28 min (not 18-22 min)
-- **INTERNAL TEMP:** Must hit 190-200°F or rolls will be dense and wet inside
+- **LONGER BAKING:** 15cm tin = thicker rolls = need 25-28 min (not 18-22 min)
+- **INTERNAL TEMP:** Must hit 88-93°C or rolls will be dense and wet inside
 - **YEAST ACTIVATION:** If yeast doesn't foam, DO NOT PROCEED - get fresh yeast
 
 **Altitude Adjustments (5,280 ft - high altitude):**
 - **Faster rise times:** 60-75 min first rise, 35-45 min second rise (watch visual cues!)
-- **Higher oven temp:** 395-400°F helps set structure before over-expansion
+- **Higher oven temp:** 200°C / 180°C fan / gas 6 helps set structure before over-expansion
 - **Don't over-proof:** Most critical at altitude - over-proofed dough collapses
 - **Keep dough covered:** Dry air will form skin on dough surface
 - **Visual markers trump timers:** "Puffy and touching" more reliable than clock
 
 **Herb Notes:**
-- **¾ cup herbs is A LOT** - these are intensely aromatic!
+- **~26g of herbs is A LOT** - these are intensely aromatic!
 - Three butter applications (before bake, after bake, when serving) = maximum flavor
 - Rosemary is the bold backbone - chop finely to avoid woody pieces
 - Parsley adds brightness and color
@@ -175,18 +175,18 @@
 - **After mixing:** Shaggy but not soupy
 - **After kneading:** SATINY, smooth, barely tacky - NOT sticky
 - **Windowpane test:** Stretch small piece - should form thin membrane without tearing
-- **If too wet during kneading:** Add reserve flour 1 Tbsp at a time
+- **If too wet during kneading:** Add reserve flour 1 tbsp at a time
 
 **Storage & Reheating:**
 - Store in airtight container at room temp for 2-3 days
 - Freeze up to 2 months
-- Reheat: Warm in 300°F oven for 5-7 minutes, or microwave 15-20 seconds
+- Reheat: Warm in 150°C / 130°C fan / gas 2 oven for 5-7 minutes, or microwave 15-20 seconds
 
 **Lessons Learned:**
-- First attempt: Used original liquid amounts (4 Tbsp + 1 tsp labneh, 3.5 Tbsp milk) - resulted in wet, dense rolls
-- **Fix:** Reduce labneh to 3 Tbsp, milk to 2 Tbsp - creates satiny dough texture
+- First attempt: Used original liquid amounts (65g labneh, 50ml milk) - resulted in wet, dense rolls
+- **Fix:** Reduce labneh to 3 tbsp (45g), milk to 2 tbsp (30ml) - creates satiny dough texture
 - First attempt: Baked 18-22 min - under-baked, wet inside
-- **Fix:** Bake 25-28 min until internal temp 190-200°F
+- **Fix:** Bake 25-28 min until internal temp 88-93°C
 
 ### Why These Are Special
 - **Pull-apart presentation:** Stunning on the table, fun to serve

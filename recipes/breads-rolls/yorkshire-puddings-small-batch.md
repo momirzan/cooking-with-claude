@@ -8,16 +8,16 @@
 - **Source**: Holiday menu
 
 ### Ingredients
-- [ ] **All-purpose flour** (1/2 cup) - *Location: pantry*
-- [ ] **Milk** (1/2 cup, whole milk preferred) - *Location: refrigerator*
+- [ ] **Plain flour** (65g) - *Location: pantry*
+- [ ] **Milk** (120ml, whole milk preferred) - *Location: refrigerator*
 - [ ] **Large eggs** (2) - *Location: refrigerator*
 - [ ] **Fine salt** (pinch) - *Location: pantry*
 - [ ] **Beef drippings or neutral oil** (for muffin tin) - *Location: reserve from roast beef or use pantry oil*
 
 ### Equipment
-- [ ] **Muffin tin** (6-cup or 12-cup)
+- [ ] **Muffin tin** (6-hole or 12-hole)
 - [ ] **Whisk**
-- [ ] **Measuring cups**
+- [ ] **Kitchen scales and measuring jug**
 - [ ] **Mixing bowl**
 
 ### Instructions
@@ -28,7 +28,7 @@
 3. **Critical:** Batter must rest for proper rise
 
 #### 2. Prepare the Tin
-1. Preheat oven to **425°F (220°C)**
+1. Preheat oven to **220°C / 200°C fan / gas 7**
 2. Add a small amount of beef drippings (or neutral oil) to each muffin cavity
 3. Place tin in oven and heat until fat is **smoking hot** (8-10 minutes)
 4. **Safety note:** Fat should be extremely hot but not burning
@@ -58,13 +58,13 @@ Serve immediately with roast beef and horseradish crème fraîche
 
 **Variations:**
 - Use all beef drippings for most authentic flavor
-- **Cast iron skillet method:** Can make one large pudding, but requires ripping hot fat - results in flatter, Dutch baby-style pudding
+- **Cast iron frying pan method:** Can make one large pudding, but requires ripping hot fat - results in flatter, Dutch baby-style pudding
 
 **Milk Substitution:**
-- 6 tbsp unsweetened soy milk + 2 tbsp heavy cream = works great
+- 90ml unsweetened soy milk + 2 tbsp double cream = works great
 
 **Lessons Learned:**
-- Attempted cast iron skillet method - pudding was tasty but flat (pancake-shaped)
+- Attempted cast iron frying pan method - pudding was tasty but flat (pancake-shaped)
 - Fat wasn't hot enough - didn't get violent sizzle when batter hit pan
 - **Verdict:** Get a proper muffin tin for individual puddings that puff
 - Neutral oil works well for cleaner taste

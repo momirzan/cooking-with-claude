@@ -1,26 +1,26 @@
-# Thin Crust Pizza Dough (Two 18" Pizzas)
+# Thin Crust Pizza Dough (Two 46cm Pizzas)
 
 - **Prep Time**: 15 minutes
 - **Rise Time**: 1-1.5 hours (first rise) + 30 min (second rise)
 - **Total Time**: ~2 hours
-- **Yield**: 2 large 18" thin crust pizzas
+- **Yield**: 2 large 46cm thin crust pizzas
 - **Difficulty**: Easy
 - **Type**: Bread/Dough
 - **Source**: Original recipe
 
 ## Ingredients
 
-- [ ] **Warm water** (1½ cups, 105-110°F) - *not too hot or it kills the yeast*
-- [ ] **Sugar** (1½ tsp) - *feeds the yeast*
-- [ ] **Active dry yeast** (1 Tbsp / heaping 2¼ tsp) - *Location: upstairs fridge door*
-- [ ] **Flour** (4½ cups, bread flour preferred, AP works) - *Location: pantry*
+- [ ] **Warm water** (360ml, 41-43°C) - *not too hot or it kills the yeast*
+- [ ] **Caster sugar** (1½ tsp) - *feeds the yeast*
+- [ ] **Active dry yeast** (1 tbsp / heaping 2¼ tsp) - *Location: upstairs fridge door*
+- [ ] **Flour** (585g, strong white bread flour preferred, plain flour works) - *Location: pantry*
 - [ ] **Salt** (1½ tsp) - *Location: upstairs pantry*
-- [ ] **Olive oil** (3 Tbsp) - *Location: upstairs pantry*
+- [ ] **Olive oil** (3 tbsp) - *Location: upstairs pantry*
 
 ## Equipment
 
 - [ ] Large mixing bowl
-- [ ] Kitchen towel or plastic wrap
+- [ ] Kitchen towel or cling film
 - [ ] Floured surface for kneading
 - [ ] Pizza stone or baking sheet
 
@@ -51,7 +51,7 @@
 4. Cover with towel, rest 30 minutes
 
 ### 5. Stretch & Bake
-1. Preheat oven to 500-550°F with pizza stone for 45-60 min
+1. Preheat oven to 260-290°C / 240-270°C fan / gas 9 [500-550°F] with pizza stone for 45-60 min <!-- CHECK -->
 2. On floured surface, stretch dough using knuckles
 3. Work from center outward, let gravity help
 4. Stretch all the way to edges (no puffy rim for thin crust)
@@ -78,9 +78,9 @@
 - Can also freeze shaped balls up to 1 month
 
 ### Crispy Crust Tip
-- Use Algae Cooking Oil instead of olive oil (higher smoke point)
+- Use Algae Cooking Oil instead of olive oil (higher smoke point) <!-- CHECK -->
 - Make sure pizza stone is FULLY preheated (45-60 min)
-- 550°F is better than 500°F if your oven goes that high
+- 290°C / 270°C fan is better than 260°C / 240°C fan [550°F vs 500°F] if your oven goes that high <!-- CHECK -->
 
 ---
 

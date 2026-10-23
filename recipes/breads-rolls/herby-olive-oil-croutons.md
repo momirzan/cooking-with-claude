@@ -3,23 +3,23 @@
 - **Dry Time**: 8-10 minutes (if bread is soft inside)
 - **Bake Time**: 12-15 minutes
 - **Total Time**: 25-30 minutes
-- **Yield**: About 4 cups croutons
+- **Yield**: About 130g croutons [about 4 cups] <!-- CHECK -->
 - **Difficulty**: Easy
 - **Type**: Bread/Salad Topping
 - **Source**: Original recipe
 
 ### Ingredients
-- [ ] **Stale French bread** (1 small loaf, cubed into 3/4" to 1" pieces) - *Location: upstairs pantry*
-- [ ] **Olive oil** (3 Tbsp) - *Location: upstairs pantry*
+- [ ] **Stale French bread** (1 small loaf, cubed into 2-2.5cm pieces) - *Location: upstairs pantry*
+- [ ] **Olive oil** (3 tbsp) - *Location: upstairs pantry*
 - [ ] **Flaky salt** (1/2 tsp) - *Location: upstairs pantry*
 - [ ] **Garlic** (1-2 cloves, grated or minced) - *Location: upstairs refrigerator*
 - [ ] **Dried herbs** (1 tsp - Italian blend, herbes de Provence, or thyme/oregano/rosemary mix) - *Location: upstairs pantry*
 - [ ] **Black pepper** (few cracks) - *Location: upstairs pantry*
-- [ ] **Red pepper flakes** (pinch, optional) - *Location: upstairs pantry*
-- [ ] **Parmesan** (2 Tbsp grated, optional) - *Location: upstairs refrigerator*
+- [ ] **Chilli flakes** (pinch, optional) - *Location: upstairs pantry*
+- [ ] **Parmesan** (2 tbsp grated, optional) - *Location: upstairs refrigerator*
 
 ### Equipment
-- [ ] **Sheet pan**
+- [ ] **Baking tray**
 - [ ] **Large mixing bowl**
 - [ ] **Microplane or grater** (for garlic)
 
@@ -27,21 +27,21 @@
 
 #### Step 1: Dry the Bread (if needed)
 If your bread is still soft/moist in the middle:
-1. Cube the bread into 3/4" to 1" pieces (irregular is fine)
-2. Spread on sheet pan in single layer
-3. Bake at 250°F for 8-10 minutes until dry and lightweight
+1. Cube the bread into 2-2.5cm pieces (irregular is fine)
+2. Spread on baking tray in single layer
+3. Bake at 120°C / 100°C fan / gas ½ for 8-10 minutes until dry and lightweight
 4. Let cool a few minutes
 
 *Skip this step if bread is already fully stale and dry throughout.*
 
 #### Step 2: Season
-1. Bump oven up to 375°F
+1. Bump oven up to 190°C / 170°C fan / gas 5
 2. In large bowl, mix olive oil with grated garlic, salt, herbs, and pepper
 3. Add bread cubes and toss until evenly coated
 
 #### Step 3: Bake
-1. Spread seasoned cubes on sheet pan in single layer
-2. Bake at 375°F for 10 minutes
+1. Spread seasoned cubes on baking tray in single layer
+2. Bake at 190°C / 170°C fan / gas 5 for 10 minutes
 3. Toss/flip croutons
 4. Continue baking 2-5 more minutes until golden and crisp throughout
 5. Optional: Toss with parmesan immediately while still warm
@@ -58,6 +58,6 @@ If your bread is still soft/moist in the middle:
 - Caesar salad
 - Garden salads
 - Soup topper (tomato, butternut squash, minestrone)
-- Snacking straight from the pan
+- Snacking straight from the tray
 
 ---

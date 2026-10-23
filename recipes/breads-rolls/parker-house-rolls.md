@@ -1,6 +1,6 @@
 # Parker House Rolls (Small Batch)
 
-Classic buttery folded rolls with signature layers - 4 rolls in 6" pan.
+Classic buttery folded rolls with signature layers - 4 rolls in 15cm tin.
 
 **Prep Time:** 15 min | **Rise Time:** 2-2.5 hrs | **Bake Time:** 20-25 min | **Yield:** 4 rolls
 
@@ -10,20 +10,20 @@ Classic buttery folded rolls with signature layers - 4 rolls in 6" pan.
 
 | Item | Amount |
 |------|--------|
-| All-purpose flour | ¾ cup (90g) + more for dusting |
+| Plain flour | 90g + more for dusting |
 | Instant yeast | ¾ tsp (2g) |
-| Granulated sugar | 2¼ tsp (10g) |
+| Caster sugar | 2¼ tsp (10g) |
 | Salt | ⅓ tsp (2g) |
-| Baking soda | ⅛ tsp (pinch) |
-| Unsalted butter (room temp) | 2¼ tsp (11g) |
-| Unsalted butter (melted, for brushing) | 1 Tbsp (14g) |
-| Buttermilk (room temp) | ¼ cup (57g) |
-| Large egg | 1 Tbsp beaten (~¼ egg) |
+| Bicarbonate of soda | ⅛ tsp (pinch) |
+| Unsalted butter (room temp) | 11g |
+| Unsalted butter (melted, for brushing) | 14g |
+| Buttermilk (room temp) | 60ml |
+| Large egg | 1 tbsp beaten (~¼ egg) |
 
 ## Instructions
 
 ### Step 1: Mix Dough (5 minutes)
-1. Combine flour, instant yeast, sugar, salt, and baking soda in small bowl
+1. Combine flour, instant yeast, sugar, salt, and bicarbonate of soda in small bowl
 2. Add room-temperature butter, buttermilk, and beaten egg
 3. Stir with wooden spoon until shaggy dough forms
 
@@ -38,25 +38,25 @@ Classic buttery folded rolls with signature layers - 4 rolls in 6" pan.
 9. Let rise in warm spot until puffy (watch visual cues, not clock)
 
 ### Step 4: Shape Rolls (10 minutes)
-10. Roll dough into a 4" x 6" rectangle on clean, dry surface
+10. Roll dough into a 10 × 15cm rectangle on clean, dry surface
 11. Brush entire surface with melted butter
-12. Cut lengthwise into two 2" x 6" strips
-13. Fold each strip so bottom edge extends ½" beyond top (signature fold)
+12. Cut lengthwise into two 5 × 15cm strips
+13. Fold each strip so bottom edge extends 1cm beyond top (signature fold)
 14. Cut each folded strip into 2 pieces for 4 rolls total
 
 ### Step 5: Second Rise (30-45 minutes)
-15. Arrange rolls in greased 6-inch pan, flip smooth-side up
+15. Arrange rolls in greased 15cm tin, flip smooth-side up
 16. Brush with remaining butter and cover
 17. Let rise until puffy and touching
 
-### Step 6: Bake (20-25 minutes at 365°F)
-18. Preheat oven to 365°F (altitude adjusted)
-19. Bake until golden brown (internal temp 190°F)
+### Step 6: Bake (20-25 minutes at 185°C / 165°C fan / gas 4)
+18. Preheat oven to 185°C / 165°C fan / gas 4 (altitude adjusted)
+19. Bake until golden brown (internal temp 88°C)
 20. Brush with butter immediately and cool 5 minutes
 
 ## Notes
 
-- **The fold**: ½" overhang creates beautiful layers and prevents popping open
+- **The fold**: 1cm overhang creates beautiful layers and prevents popping open
 - **Room temp ingredients**: Critical for proper yeast activation
 - **Buttermilk substitution**: Adds tenderness and tang
 - **Don't over-proof**: At altitude, dough rises faster and can collapse
@@ -66,5 +66,5 @@ Classic buttery folded rolls with signature layers - 4 rolls in 6" pan.
 ## Altitude Adjustments (5,280 ft)
 
 - **Faster rise times**: 25-35% faster than sea level
-- **Higher oven temp**: 365°F vs 350°F at sea level
+- **Higher oven temp**: 185°C / 165°C fan / gas 4 vs 180°C / 160°C fan / gas 4 at sea level
 - **Visual markers trump timers**: "Puffy and touching" = ready to bake

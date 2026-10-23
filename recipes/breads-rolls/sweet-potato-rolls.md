@@ -10,13 +10,13 @@ Soft, buttery rolls with sweet potato and buttermilk - perfect for dinner or hol
 
 | Item | Amount |
 |------|--------|
-| Orange-fleshed sweet potato | 6 oz (1 small), peeled and cubed |
+| Orange-fleshed sweet potato | 170g (1 small), peeled and cubed |
 | Salt | 1 tsp (boiling) + 1½ tsp (dough) |
-| Buttermilk | ½ cup |
-| Unsalted butter | ¼ cup room temp + 3 Tbsp melted |
-| All-purpose flour | 4 cups (512g) |
-| Instant yeast | 2¼ tsp (1 envelope) |
-| Granulated sugar | 2 Tbsp |
+| Buttermilk | 120ml |
+| Unsalted butter | 55g room temp + 45g melted |
+| Plain flour | 512g |
+| Instant yeast | 2¼ tsp (1 × 7g sachet) |
+| Caster sugar | 25g |
 | Large eggs | 2 |
 
 ## Instructions
@@ -42,13 +42,13 @@ Soft, buttery rolls with sweet potato and buttermilk - perfect for dinner or hol
 ### Step 5: Shape Rolls (15 minutes)
 11. Divide dough into 15 equal pieces (~65g each)
 12. Roll each into tight ball with circular palm motion
-13. Arrange in greased 9x13-inch pan (3 rows of 5)
+13. Arrange in greased 23 × 33cm baking tin (3 rows of 5)
 14. Brush with melted butter
 
 ### Step 6: Second Rise (1 hour)
-15. Cover and let rise until puffy, doubled, and filling pan
+15. Cover and let rise until puffy, doubled, and filling tin
 
-### Step 7: Bake (15-20 minutes at 375°F)
+### Step 7: Bake (15-20 minutes at 190°C / 170°C fan / gas 5)
 16. Bake until golden brown
 17. Brush with more melted butter
 18. Cool 10 minutes before serving
