@@ -44,7 +44,7 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 
 2. **Blanch kale**: Bring salted water to boil, add kale for 45-60 seconds, transfer immediately to ice bath. Don't squeeze completely dry - some moisture helps blending
 
-3. **Cook pasta**: Use same water. Cook until just al dente (add 1-2 min for altitude). Reserve 180ml pasta water before draining
+3. **Cook pasta**: Use same water. Cook until just al dente (packet timing at sea level) [+1-2 min at altitude]. Reserve 180ml pasta water before draining <!-- CHECK -->
 
 4. **Cook edamame**: Boil or microwave 3-4 minutes, drain
 
@@ -79,4 +79,4 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 - **Dairy-light**: No dairy in the sauce itself, only optional parmesan topping
 - **Gentle heat is key**: Keep heat low when warming sauce and emulsifying to prevent yolk from cooking
 - **The magic is in the emulsion**: Starchy pasta water + greens + yolk = creamy, glossy sauce
-- **Altitude adjustment**: Pasta needs 1-2 minutes longer than package directions at 5,000+ feet
+- **Pasta timing**: Follow the packet directions at sea level (the original added 1-2 minutes for 5,000+ feet) <!-- CHECK -->

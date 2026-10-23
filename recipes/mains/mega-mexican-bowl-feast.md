@@ -137,7 +137,7 @@ This feast includes 5 main components that can be mixed and matched all week:
 - Press tofu well for crispy soyrizo
 - Keep components separate until serving
 - The cinnamon in soyrizo is KEY - don't skip!
-- At Denver altitude: Add extra liquid and time
+- At sea level, use the stock amounts and simmer times as written (the original added extra liquid and time at Denver altitude) <!-- CHECK -->
 
 ## The Accidental Version
 *"That one time all the ALL the soyrizo spices to the rice by accident and created a 6/10 spicy flavor bomb that actually turned out amazing when balanced with cooling toppings. Together with all components it hit 8/10 spicy but was so good everyone finished their bowls!"*

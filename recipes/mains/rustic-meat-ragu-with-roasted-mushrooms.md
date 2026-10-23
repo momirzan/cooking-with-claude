@@ -89,9 +89,8 @@ A hearty, deeply flavored ragu with roasted mushrooms and a long simmer. Develop
 - Stir in chopped fresh parsley and basil
 - Serve over pappardelle with French bread and herb butter
 
-## Altitude Notes (5,280 ft)
-- Water evaporates faster - monitor sauce consistency
-- Browning may go faster - watch for burning
+## Sea-Level Note (replaces the 5,280 ft altitude notes) <!-- CHECK -->
+- The sauce was developed at altitude, where it reduced faster - at sea level it may need a little longer to thicken
 
 ## Serving Suggestion
 Pair with a bright, acidic salad to cut the richness - see Yuzu-Dijon Vinaigrette with Capers.

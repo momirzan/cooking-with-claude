@@ -1,8 +1,8 @@
-# Quick Altitude Pizza Dough
+# Quick Pizza Dough
 
-Fast-rise semolina pizza dough optimized for high altitude with maple syrup yeast activation.
+Fast-rise semolina pizza dough with maple syrup yeast activation (originally developed at 5,280 ft).
 
-**Prep Time:** 10 min | **Rise Time:** 20-40 min | **Total Time:** 45-60 min | **Yield:** 1 large or 2 medium pizzas
+**Prep Time:** 10 min | **Rise Time:** 30-60 min [20-40 min at 5,280 ft] | **Total Time:** 55-80 min [45-60 min at 5,280 ft] | **Yield:** 1 large or 2 medium pizzas <!-- CHECK -->
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Fast-rise semolina pizza dough optimized for high altitude with maple syrup yeas
 
 ### Step 5: Rise
 11. Cover bowl with clean towel or cling film
-12. Let rise in warm spot until doubled in size (20-40 minutes at altitude)
+12. Let rise in warm spot until doubled in size (30-60 minutes [20-40 min at 5,280 ft]) <!-- CHECK -->
 13. Meanwhile, prep your toppings
 
 ### Step 6: Shape and Bake
@@ -53,7 +53,7 @@ Fast-rise semolina pizza dough optimized for high altitude with maple syrup yeas
 
 ## Notes
 
-- **Altitude optimization**: Extra yeast (2 tbsp) compensates for faster rise at high altitude
+- **Generous yeast**: Extra yeast (2 tbsp) keeps the rise quick (originally tuned at 5,280 ft)
 - **Maple syrup**: Feeds the yeast for faster activation and adds subtle sweetness
 - **Semolina flour**: Provides excellent chew, crispy texture, and helps prevent sticking
 - **Slightly sticky dough**: Don't over-flour - slightly sticky dough = better texture
@@ -61,5 +61,5 @@ Fast-rise semolina pizza dough optimized for high altitude with maple syrup yeas
 - **Baking paper trick**: Makes transfer foolproof, prevents sticking, can slide right onto stone
 - **Temperature drop**: Starting at 290°C / 270°C fan / gas 9 [550°F] preheats the stone thoroughly, then 180°C / 160°C fan / gas 4 prevents burning <!-- CHECK -->
 - **Visual doneness cue**: Golden edges on cheese = perfectly baked
-- **Timing varies**: Rise time depends on altitude and room temperature - check for doubled size, not clock
+- **Timing varies**: Rise time depends on room temperature - check for doubled size, not clock
 - **Flour ratio**: ~2:1 semolina to plain flour, but adjust plain flour by feel for right texture

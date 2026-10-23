@@ -21,7 +21,7 @@ clam liquor. The sauce should be silky and briny rather than thick or Alfredo-li
 
 #### Pasta
 - [ ] **Bucatini** (170g) - *Location: pantry*
-- [ ] **Lightly salted water** - *see altitude note below*
+- [ ] **Lightly salted water**
 
 #### Sauce
 - [ ] **Olive oil or butter** (1 tsp) - *Location: pantry / refrigerator*
@@ -61,7 +61,7 @@ clam liquor. The sauce should be silky and briny rather than thick or Alfredo-li
 13. Taste the liquor. It may be *extremely* salty — treat it as concentrated seasoning, not stock
 14. Pull the meat from the shells and refrigerate until the pasta is ready. **Do not rinse it**
 
-#### Step 3: Cook the Bucatini (see altitude note)
+#### Step 3: Cook the Bucatini
 15. Bring a pot of water to a boil and salt it **only lightly** — the clam liquor brings most of the seasoning
 16. Cook the bucatini to about 2 minutes shy of al dente
 17. **Reserve at least 240ml of starchy pasta water** before draining
@@ -84,15 +84,12 @@ clam liquor. The sauce should be silky and briny rather than thick or Alfredo-li
 30. Taste and adjust: more zest, parsley, pepper, or a tiny bit of liquor
 31. Serve immediately, with an extremely light grating of Parmesan if you want it
 
-### Altitude Notes (High Altitude, 5,000+ ft)
-- **Pasta**: water boils at ~94°C at 5,280 ft, so bucatini runs **~15-25% longer** than the box says.
-  Go by bite, not the timer — "2 minutes shy of al dente" means 2 minutes shy of *your* tasted
+### Sea-Level Notes (replaces the original 5,000+ ft altitude notes) <!-- CHECK -->
+- **Pasta**: bucatini cooks on the packet timing at sea level (at 5,280 ft it ran ~15-25% longer).
+  Still go by bite — "2 minutes shy of al dente" means 2 minutes shy of *your* tasted
   al dente, then finish in the pan
-- **Pasta water**: it evaporates faster at altitude — start with a generous pot and keep the
-  kettle warm in case you need to top up
-- **Clams**: steam builds a touch slower, so expect the first shells to open closer to 3 minutes
-  than 2. Watch the pan, not the clock — pull each one the moment it opens
-- Everything else (sautéing the shallot, simmering the cream) is unchanged
+- **Clams**: expect the first shells to open at about 2 minutes (closer to 3 at altitude).
+  Watch the pan, not the clock — pull each one the moment it opens
 
 ### Pro Tips
 - **Don't oversalt the pasta water.** The clam liquor can be surprisingly concentrated
@@ -115,8 +112,6 @@ Northwest travel rather than saving it for a landlocked kitchen.
   fresh clams expect closer to 16/16, so 14-16 clams is enough for 2
 - **Purging**: dock-fresh clams from a good vendor are often already purged — ask. If they are,
   one 20-30 minute soak is plenty and the whole recipe drops to ~40 minutes
-- **At sea level**: pasta cooks on the box timing, water boils at 100°C, clams steam faster.
-  Ignore the altitude notes above and pull everything a couple minutes earlier
 - **Buy extra clams** if they're good — steamed clams with the liquor and bread is a fine
   second meal, and any leftover strained liquor freezes for a future batch of this sauce
 
