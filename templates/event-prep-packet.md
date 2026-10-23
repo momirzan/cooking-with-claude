@@ -83,4 +83,4 @@ Save it as `menus/YYYY-MM-DD-event-name.md`.
 - **Front-load the tiny tasks.** A 90-second bean soak the night before can save two hours on cook day.
 - **Cook the day before when the dish holds.** Chili, braises, and soups taste better on day two, and event day stays calm.
 - **One vessel where possible.** If the chili goes from sauté to slow cook to fridge to reheat to serving in one slow-cooker insert, the only pan you wash on game day is the cornbread frying pan.
-- **Altitude-correct the numbers** (see CLAUDE.md). Pressure cooking needs about 5% more time per 1,000 ft above 2,000 ft; baking temperatures go up.
+- **Check the numbers against the UK Kitchen Conventions** (see CLAUDE.md): grams, ml, and oven temps as "°C / fan / gas". This kitchen is near sea level, so no altitude correction is needed. <!-- CHECK -->

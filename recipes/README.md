@@ -9,7 +9,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 
 ## Recipe Categories
 
-**75 recipes across 9 categories, plus 2 altitude technique guides.**
+**75 recipes across 9 categories, plus 2 technique guides.**
 
 ### 🥣 Breakfast
 - [Eleven Madison Park Granola](breakfast/eleven-madison-park-granola.md) - Crunchy granola with pistachios, coconut chips, cardamom, and nutmeg
@@ -27,7 +27,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Braised Goat Leg Steaks](mains/braised-goat-leg-steaks.md) - Pull-apart goat with a clean herbal jus and bright lemon finish
 - [Cacio e Pepe (Single Serving)](mains/cacio-e-pepe.md) - Classic Roman pasta with cheese and pepper
 - [Creamy Bucatini with Mushrooms and Two Cheeses](mains/creamy-bucatini-with-mushrooms-and-two-cheeses.md) - Cream-based pasta ready in 20 minutes
-- [Creamy Lemon Bucatini with Littleneck Clams](mains/lemon-clam-bucatini.md) - Silky, briny clam pasta with lemon zest, with altitude and sea-level notes
+- [Creamy Lemon Bucatini with Littleneck Clams](mains/lemon-clam-bucatini.md) - Silky, briny clam pasta with lemon zest, with sea-level notes
 - [Crispy Lime-Garlic Gochujang-Miso Tofu Spring Rolls](mains/crispy-lime-garlic-gochujang-miso-tofu-spring-rolls.md) - Crispy tofu spring rolls with a punchy marinade
 - [Crispy Sesame-Peanut Noodles with Roasted Broccoli](mains/crispy-sesame-peanut-noodles.md) - Pan-crisped noodles with peanut sauce
 - [From-Scratch Udon with Mushroom Dashi](mains/from-scratch-udon-with-mushroom-dashi.md) - Weekend-project vegan noodles and broth
@@ -53,7 +53,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Spiced Black Beans with Roasted Delicata](sides/spiced-black-beans-with-roasted-delicata-sungold-tomato-puree.md) - Slow-cooked beans with caramelized squash
 
 ### 🍲 Soups
-- [All-Day Vegan French Onion Soup](soups/french-onion-soup.md) - Deeply caramelized onions with a silky blended-bean body, altitude tested
+- [All-Day Vegan French Onion Soup](soups/french-onion-soup.md) - Deeply caramelized onions with a silky blended-bean body
 - [Caramelized Garden Veggie Soup with Miso](soups/caramelized-veggie-pureed-soup.md) - Pureed roasted-vegetable soup with miso depth
 - [Coconut Butternut Squash Soup (Double Batch)](soups/coconut-butternut-squash.md) - Creamy vegan soup with curry and coconut milk
 - [Cold Tomato-Strawberry Gazpacho](soups/tomato-strawberry-gazpacho.md) - No-cook, strawberry-forward chilled soup
@@ -80,9 +80,9 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Yuzu-Dijon Vinaigrette with Capers](sauces-condiments/yuzu-dijon-vinaigrette-with-capers.md) - Bright mortar-and-pestle dressing for rich meals
 
 ### 🍞 Breads & Rolls
-- [Quick Altitude Pizza Dough](breads-rolls/quick-altitude-pizza-dough.md) - Fast-rise semolina dough for high altitude
+- [Quick Pizza Dough](breads-rolls/quick-altitude-pizza-dough.md) - Fast-rise semolina dough
 - [Herby Olive Oil Croutons](breads-rolls/herby-olive-oil-croutons.md) - Homemade salad croutons from stale bread
-- [Thin Crust Pizza Dough (Two 46cm)](breads-rolls/thin-crust-pizza-dough-18-inch.md) - Large thin crust pizzas with altitude notes
+- [Thin Crust Pizza Dough (Two 46cm)](breads-rolls/thin-crust-pizza-dough-18-inch.md) - Large thin crust pizzas with proofing notes
 - [Parker House Rolls (Small Batch)](breads-rolls/parker-house-rolls.md) - Classic buttery folded rolls
 - [Pumpkin Parker House Rolls (Small Batch)](breads-rolls/pumpkin-parker-house-rolls.md) - Autumn twist on classic rolls
 - [Rosemary Labneh Pull-Apart Rolls](breads-rolls/rosemary-labneh-pull-apart-rolls-small-batch-4-rolls.md) - Intensely herby rolls with tangy labneh
@@ -100,13 +100,13 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [High-Fiber Coffee-Cardamom Brownies](desserts/high-fiber-coffee-cardamom-brownies.md) - Persian-inspired healthy brownies
 - [Maple-Pecan Sticky Buns](desserts/maple-pecan-sticky-buns.md) - NYT recipe with maple-pecan caramel
 - [Molasses Ginger Cookies](desserts/molasses-ginger-cookies.md) - Soft, chewy spice cookies
-- [Rainier Cherry Pie (High-Altitude)](desserts/rainier-cherry-pie.md) - Reduced-sugar macerated sweet-cherry filling, all-butter crust (developed, not yet fully tested)
+- [Rainier Cherry Pie](desserts/rainier-cherry-pie.md) - Reduced-sugar macerated sweet-cherry filling, all-butter crust (developed, not yet fully tested)
 - [Rouge de Bordeaux Double Pie Crust](desserts/rouge-de-bordeaux-double-pie-crust.md) - Heritage-wheat double crust
 - [White Sonora Double Pie Crust](desserts/white-sonora-double-pie-crust.md) - Heritage-wheat double crust
 
 ### 📐 Techniques
 - [Cooking Beans at Altitude](techniques/cooking-beans-at-altitude.md) - Lids on, gentle simmer, salt late: getting dried beans tender at 5,000+ ft
-- [Steaming Vegetables at Altitude](sides/steaming-guide.md) - Steaming times at 5,000+ ft
+- [Steaming Vegetables](sides/steaming-guide.md) - Sea-level steaming times
 
 ## By Prep Time
 
