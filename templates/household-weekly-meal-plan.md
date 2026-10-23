@@ -52,11 +52,11 @@ A short, warm card that tells everyone in the house what the week's food looks l
 
 **Thursday** · you're away tonight. I'll be testing veggie burgers on myself, no witnesses.
 
-**Friday** · still away, back Saturday for the market. Keeping it low-key solo: red bean and arugula salad, no stove.
+**Friday** · still away, back Saturday for the market. Keeping it low-key solo: red bean and rocket salad, no hob.
 
 **Saturday · farmers market day**
 - 🥡 **Lunch**: Waldorf salad and garlic baked tofu
-- 🍳 **Dinner**: chilled zucchini soup from the market veg, with a good pot of beans alongside
+- 🍳 **Dinner**: chilled courgette soup from the market veg, with a good pot of beans alongside
 
 **Sunday · night out**
 - 🍽️ **Dinner**: our favorite Italian place, 7:30pm. No cooking, just us.

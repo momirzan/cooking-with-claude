@@ -29,7 +29,7 @@ Organize prep into **containers by when they're used**:
 #### Container Organization Strategy
 - **Container 1**: All ingredients that go in together (e.g., raw vegetables)
 - **Container 2**: Cooked components (e.g., sautéed mushrooms)
-- **Container 3**: Wet ingredients that need draining (e.g., corn)
+- **Container 3**: Wet ingredients that need draining (e.g., sweetcorn)
 - **Container 4**: Final toppings/garnishes
 
 #### Prep Tasks Checklist
@@ -37,7 +37,7 @@ Organize prep into **containers by when they're used**:
 - [ ] Prep all vegetables (chop, slice, dice - with exact measurements)
 - [ ] Cook any components that can be done ahead
 - [ ] Toast nuts/seeds if needed
-- [ ] Drain/rinse canned ingredients
+- [ ] Drain/rinse tinned ingredients
 - [ ] Prep herbs and garnishes
 - [ ] Set up assembly station
 
@@ -200,7 +200,7 @@ This prevents reading AND cooking simultaneously.
 **During prep guidance:**
 - [ ] Mark tasks as in_progress/completed in real-time
 - [ ] Provide exact measurements for all ingredients
-- [ ] Specify exact cutting techniques (matchsticks, 1/4" slices, etc.)
+- [ ] Specify exact cutting techniques (matchsticks, 5mm slices, etc.)
 - [ ] Confirm each phase completion before moving to next
 
 **After cooking:**

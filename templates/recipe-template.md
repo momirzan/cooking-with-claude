@@ -13,7 +13,7 @@ Copy this template when adding new recipes to the database.
 **Ingredients:**
 | Item | Amount | Location |
 |------|--------|----------|
-| Ingredient 1 | 1 cup | Pantry |
+| Ingredient 1 | 240ml | Pantry |
 | Ingredient 2 | 2 tbsp | Refrigerator |
 
 **Instructions:**
@@ -45,7 +45,7 @@ Copy this template when adding new recipes to the database.
 | Garlic | 3 cloves | Refrigerator | Minced |
 
 **Equipment Needed:**
-- Large skillet
+- Large frying pan
 - Cutting board
 - Chef's knife
 

@@ -30,17 +30,17 @@ Organize your beliefs in layers, from "what to eat" down to "how it shows up in 
 
 | Category | Daily Servings | Serving Size |
 |---|---|---|
-| Beans | 3 | 1/2 cup cooked, 1/4 cup hummus |
-| Berries | 1 | 1/2 cup fresh/frozen |
+| Beans | 3 | 85g cooked, 60g hummus [1/4 cup] <!-- CHECK --> |
+| Berries | 1 | 75g fresh/frozen |
 | Other Fruits | 3 | 1 medium fruit |
-| Greens | 2 | 1 cup raw, 1/2 cup cooked |
-| Cruciferous Vegetables | 1 | 1/2 cup chopped |
-| Other Vegetables | 2 | 1/2 cup non-leafy |
+| Greens | 2 | 30g raw [1 cup], 90g cooked [1/2 cup] <!-- CHECK --> |
+| Cruciferous Vegetables | 1 | 45g chopped [1/2 cup] <!-- CHECK --> |
+| Other Vegetables | 2 | 75g non-leafy [1/2 cup] <!-- CHECK --> |
 | Flaxseed | 1 | 1 tbsp ground |
-| Nuts & Seeds | 1 | 1/4 cup nuts |
+| Nuts & Seeds | 1 | 30g nuts [1/4 cup] <!-- CHECK --> |
 | Herbs & Spices | 1 | 1/4 tsp turmeric |
-| Whole Grains | 3 | 1/2 cup cooked |
-| Beverages | 60 oz | Water, green or hibiscus tea |
+| Whole Grains | 3 | 80g cooked |
+| Beverages | 1.8 litres | Water, green or hibiscus tea |
 
 ### Layer 2: The binding constraint
 

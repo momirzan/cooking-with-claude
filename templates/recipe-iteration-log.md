@@ -8,7 +8,7 @@ For a recipe you're developing over several attempts: recreating a family recipe
 
 ## How Claude uses it
 
-1. **Before an attempt:** read the target, the last findings, and the planned changes. Remind you of the process problems last time ("shop the day before, check the pan is clean").
+1. **Before an attempt:** read the target, the last findings, and the planned changes. Remind you of the process problems last time ("shop the day before, check the tin is clean").
 2. **After an attempt:** you describe what happened, what it looked and tasted like, and what the person you're cooking for said. Claude fills in the log row and findings, updates the recipe steps (marking what changed and why), and drafts the plan for the next attempt.
 3. **Schedule the next attempt** on the calendar, with the changes list in the event description.
 
@@ -55,10 +55,10 @@ write down their words. When in doubt, the description wins over the instruction
 ### Keep the test honest
 
 Only change what you chose to change. List what stays fixed between attempts
-(pan, flour, fermentation schedule, batch size) so a different result can be
+(tin, flour, fermentation schedule, batch size) so a different result can be
 traced to the variable you meant to test.
 
-If an attempt drifted on something unplanned (a missing pan, no cream in the
+If an attempt drifted on something unplanned (a missing tin, no cream in the
 house), write down why, so the next attempt can prevent it.
 ```
 
@@ -66,12 +66,12 @@ house), write down why, so the next attempt can prevent it.
 
 ## Worked example (condensed)
 
-**Target:** cinnamon rolls from a family member's memory. Very dark tops, no frosting, thin even layers, about six swirls, no puffy outer ring.
+**Target:** cinnamon rolls from a family member's memory. Very dark tops, no icing, thin even layers, about six swirls, no puffy outer ring.
 
 | # | Version | What changed | Result | Taster's verdict | Next change |
 |---|---------|--------------|--------|------------------|-------------|
-| 1 | v1, half batch | Baseline; went 50/50 white and brown sugar | Layers yes, color no | "Hers were browner, and had cinnamon sugar on the outside" | Roll the outside in cinnamon sugar; bloom the yeast; longer proof; pull on color, not temperature |
+| 1 | v1, half batch | Baseline; went 50/50 caster and brown soft sugar | Layers yes, color no | "Hers were browner, and had cinnamon sugar on the outside" | Roll the outside in cinnamon sugar; bloom the yeast; longer proof; pull on color, not temperature |
 
-**Findings:** the geometry (a long, thin sheet cut into 1" strips) produced clean coils with no plain outer flap. Color was the biggest miss: the centers hit temperature while the tops were still pale, so the bake ended on the wrong signal.
+**Findings:** the geometry (a long, thin sheet cut into 2.5cm strips) produced clean coils with no plain outer flap. Color was the biggest miss: the centers hit temperature while the tops were still pale, so the bake ended on the wrong signal.
 
-**Keep it honest:** attempt #1 drifted on four things (pan, milk instead of cream, sugar blend, schedule). Only one of those was chosen on purpose. Fix: shop for the recipe the day before and check the pan is in the kitchen before mixing the dough.
+**Keep it honest:** attempt #1 drifted on four things (tin, milk instead of cream, sugar blend, schedule). Only one of those was chosen on purpose. Fix: shop for the recipe the day before and check the tin is in the kitchen before mixing the dough.

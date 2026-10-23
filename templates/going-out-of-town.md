@@ -49,7 +49,7 @@ Check ALL refrigerator locations and categorize items:
 
 ## Step 3: Quick Rescue Recipes
 
-### Veggie Broth (uses almost anything)
+### Veggie Stock (uses almost anything)
 **Best for:** Carrots, celery, onions, peppers, tomatoes, wilting herbs, mushrooms
 - Chop veggies, simmer 1.5 hours, blend, add miso
 - Freezes for 3 months
@@ -67,16 +67,16 @@ Check ALL refrigerator locations and categorize items:
 
 ### Frittata / Egg Bake
 **Best for:** Eggs, cheese, vegetables, herbs
-- Combine everything, bake at 375°F for 25-30 min
+- Combine everything, bake at 190°C / 170°C fan / gas 5 for 25-30 min
 - Eat before leaving or refrigerate for quick meal when home
 
 ### Soup
 **Best for:** Proteins, beans, grains, vegetables
-- More substantial than broth
+- More substantial than stock
 - Freezes beautifully in portions
 
 ### Pesto / Herb Sauce
-**Best for:** Fresh herbs about to wilt (basil, parsley, cilantro)
+**Best for:** Fresh herbs about to wilt (basil, parsley, coriander)
 - Blend with oil, nuts, garlic
 - Freeze in ice cube trays
 
