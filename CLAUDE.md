@@ -206,8 +206,8 @@ A collaborative cooking mode where one person does all prep work and another han
 
 3. **Detailed Prep Instructions:**
    - Provide EXACT measurements and cutting specifications
-   - Example: "Cut 1 cucumber into matchsticks (1/4" x 1/4" x 4" strips)"
-   - Example: "Slice 1 red bell pepper into 1/4" wide strips"
+   - Example: "Cut 1 cucumber into matchsticks (5mm x 5mm x 10cm strips)"
+   - Example: "Slice 1 red pepper into 5mm wide strips"
    - Guide through each task, mark as in_progress, then completed
    - Organize tasks by phase (sauce first, veggies, cooking, toppings, station setup)
 
