@@ -8,20 +8,20 @@
 - **Source**: Personal recipe (December 2024)
 
 ### Ingredients
-- [ ] **Bucatini pasta** (12-16 oz) - *Location: pantry*
-- [ ] **Champignon mushrooms** (16 oz, sliced thin) - *Location: refrigerator*
+- [ ] **Bucatini pasta** (340-450g) - *Location: pantry*
+- [ ] **Champignon mushrooms** (450g, sliced thin) - *Location: refrigerator*
 - [ ] **Red onion** (½, chopped) - *Location: refrigerator*
 - [ ] **Shallot** (1 medium, chopped) - *Location: refrigerator*
 - [ ] **Garlic** (3 cloves, chopped) - *Location: pantry or counter*
-- [ ] **Heavy cream** (1-1.5 cups) - *Location: refrigerator*
-- [ ] **Pecorino Romano cheese** (3 cups total, grated) - *Location: refrigerator*
+- [ ] **Double cream** (240-360ml) - *Location: refrigerator*
+- [ ] **Pecorino Romano cheese** (300g total, grated [3 cups total]) - *Location: refrigerator* <!-- CHECK -->
 - [ ] **Fresh parsley** (handful, chopped) - *Location: refrigerator*
 - [ ] **Salt and black pepper** (to taste) - *Location: pantry*
 - [ ] **Butter or olive oil** (for sautéing) - *Location: pantry or refrigerator*
 
 ### Equipment
 - [ ] **Large pot** - *for pasta water*
-- [ ] **Large sauté pan or skillet** - *for sauce*
+- [ ] **Large sauté pan or frying pan** - *for sauce*
 - [ ] **Colander** - *for draining pasta*
 - [ ] **Wooden spoon or spatula** - *for stirring*
 
@@ -31,7 +31,7 @@
 1. Fill large pot with water and bring to boil
 2. Salt generously (pasta water should taste like the sea)
 3. Add bucatini and cook according to package directions (usually 9-11 minutes)
-4. **SAVE 1-2 CUPS PASTA WATER** before draining
+4. **SAVE 240-480ML PASTA WATER** before draining
 
 #### Step 2: Cook Aromatics (5-6 minutes)
 5. While pasta water heats, start sauce in large sauté pan over medium heat
@@ -47,14 +47,14 @@
 13. Season with salt and pepper
 
 #### Step 4: Build Cream Sauce (2-3 minutes)
-14. Add 1 cup heavy cream to mushroom mixture
+14. Add 240ml double cream to mushroom mixture
 15. Let simmer and reduce slightly for 2-3 minutes
 16. Taste and adjust seasoning
 
 #### Step 5: Finish Sauce (3-4 minutes)
 17. Lower heat to low
 18. Add grated pecorino romano gradually, stirring constantly
-19. Reserve about ½ cup cheese for topping
+19. Reserve about 50g cheese for topping
 20. If sauce is too thick, add pasta water 2-3 tablespoons at a time to loosen
 21. Taste and adjust salt and pepper
 

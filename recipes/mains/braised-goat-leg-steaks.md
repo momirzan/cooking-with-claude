@@ -12,9 +12,9 @@ Rich, tender, pull-apart goat with a clean herbal jus. Savory, not heavy — bri
 ## Ingredients
 
 ### Meat
-- 2 goat leg steaks, bone-in (~1 lb each)
+- 2 goat leg steaks, bone-in (~450g each)
 - Salt + freshly ground black pepper
-- 1–2 Tbsp high-heat oil (for searing)
+- 1–2 tbsp high-heat oil (for searing)
 
 ### Aromatics
 - 1 onion, sliced or chunked
@@ -23,8 +23,8 @@ Rich, tender, pull-apart goat with a clean herbal jus. Savory, not heavy — bri
 - 1 celery stalk, chunked (optional)
 
 ### Liquid
-- ~1 cup red wine
-- ~1 cup water, stock, or vegetable broth (combined should come ½–⅔ up the meat)
+- ~240ml red wine
+- ~240ml water, stock, or vegetable stock (combined should come ½–⅔ up the meat)
 
 ### Herbs
 - 1–2 bay leaves
@@ -41,7 +41,7 @@ Rich, tender, pull-apart goat with a clean herbal jus. Savory, not heavy — bri
 
 ### 1. Sear
 - Pat meat completely dry, season generously on all sides with salt and pepper
-- Heat oil in a Dutch oven over high heat until shimmering
+- Heat oil in a Dutch oven (lidded casserole) over high heat until shimmering
 - Sear on all sides until deeply browned, 3–4 min per side
 - Remove and set aside
 
@@ -55,7 +55,7 @@ Rich, tender, pull-apart goat with a clean herbal jus. Savory, not heavy — bri
 - Bring to a gentle simmer
 
 ### 3. Braise
-- Cover and transfer to oven at **300–325°F**
+- Cover and transfer to oven at **150–160°C / 130–140°C fan / gas 2–3**
 - Cook **2.5–3.5 hours** until meat is fork-tender and pulling away from the bone
 - Check once midway — liquid should be at a lazy simmer, not boiling
 
@@ -76,4 +76,4 @@ Rich, tender, pull-apart goat with a clean herbal jus. Savory, not heavy — bri
 
 **Serving:** Spoon over mashed potatoes and let the jus soak in. Works beautifully as a topping bar component alongside caramelized onions, sautéed mushrooms, caviar, crème fraîche, and fresh herbs.
 
-**Quantity note:** 2 bone-in steaks (~2 lbs) yields roughly 1–1.5 lbs of meat after braising — enough for 4–6 as a topping, 2–3 as a plated main.
+**Quantity note:** 2 bone-in steaks (~900g) yields roughly 450–680g of meat after braising — enough for 4–6 as a topping, 2–3 as a plated main.

@@ -1,6 +1,6 @@
-# Vegan Dan Dan Noodles with Eggplant
+# Vegan Dan Dan Noodles with Aubergine
 
-**Rich, savory Sichuan-inspired noodles with caramelized eggplant and tahini-chile sauce**
+**Rich, savory Sichuan-inspired noodles with caramelized aubergine and tahini-chile sauce**
 
 - **Prep Time**: 10 minutes
 - **Cook Time**: 20 minutes
@@ -17,26 +17,26 @@
 ### For the Sauce
 - 3 tablespoons soy sauce
 - 3 tablespoons black vinegar or rice vinegar
-- 1/4 cup tahini (or Chinese/Japanese sesame paste)
+- 60g tahini (or Chinese/Japanese sesame paste)
 - 2 garlic cloves, peeled and finely grated or chopped
-- 1 (1-inch) piece of ginger, peeled and finely grated or chopped (about 1 tablespoon)
+- 1 (2.5cm) piece of ginger, peeled and finely grated or chopped (about 1 tablespoon)
 - 2 to 3 tablespoons chile oil, chile crisp, or doubanjiang
-- 2 teaspoons granulated sugar
+- 2 teaspoons caster sugar
 
-### For the Eggplant & Noodles
-- 1 large eggplant (about 1 1/4 pounds), trimmed
-- Kosher salt (such as Diamond Crystal)
-- 12 ounces dried thin wheat noodles (lo mein or Shanghai-style)
-- Neutral oil, such as canola or vegetable (2+ tablespoons)
+### For the Aubergine & Noodles
+- 1 large aubergine (about 565g), trimmed
+- Kosher salt (such as Diamond Crystal) <!-- CHECK -->
+- 340g dried thin wheat noodles (lo mein or Shanghai-style)
+- Neutral oil, such as rapeseed or vegetable (2+ tablespoons)
 - 1 tablespoon soy sauce
 - Black pepper
 - 1/2 teaspoon ground Sichuan peppercorns (optional)
-- 2 scallions, white and green parts separated and finely sliced
-- A generous pinch of granulated sugar
+- 2 spring onions, white and green parts separated and finely sliced
+- A generous pinch of caster sugar
 
 ### For Serving
-- Handful of cilantro leaves
-- 1 cup dry, unsalted roasted peanuts, roughly chopped
+- Handful of coriander leaves
+- 145g dry, unsalted roasted peanuts, roughly chopped
 - Chile oil or chile crisp, for serving
 
 ## Instructions
@@ -46,26 +46,26 @@
 2. Whisk to combine - it will be thick
 3. Set aside (will thin with pasta water later)
 
-### Prep the Eggplant
-1. Slice the eggplant crosswise into 3/4-inch-thick circles
-2. Cut each circle into 1 1/2 to 2-inch pieces
+### Prep the Aubergine
+1. Slice the aubergine crosswise into 2cm-thick circles
+2. Cut each circle into 4-5cm pieces
 3. They should be quite chunky (don't cut too small)
 
 ### Cook the Noodles
 1. Bring a large pot of salted water to boil
 2. Add the noodles and cook according to package instructions until al dente
-3. **Reserve 1/2 cup of the cooking water** before draining
+3. **Reserve 120ml of the cooking water** before draining
 4. Drain the noodles, rinse just for a few seconds to remove some starchy water (they should still be hot)
 5. Allow them to drain
 
-### Cook the Eggplant
-1. Heat a wok or large, deep-sided skillet over medium-high
-2. When hot, add 2 tablespoons neutral oil along with the eggplant, 1 tablespoon soy sauce, 1 teaspoon salt, and a pinch of black pepper
+### Cook the Aubergine
+1. Heat a wok or large, deep-sided frying pan over medium-high
+2. When hot, add 2 tablespoons neutral oil along with the aubergine, 1 tablespoon soy sauce, 1 teaspoon salt, and a pinch of black pepper
 3. Toss well to combine
 4. **Cover with a lid** and cook for 6-7 minutes, tossing every 60 seconds
 5. If it starts to burn, reduce heat to medium
-6. The eggplant is ready when caramelized and cooked through but still intact - **don't let it get mushy**
-7. Remove the lid, sprinkle with Sichuan peppercorns (if using), scallion whites, and a pinch of sugar
+6. The aubergine is ready when caramelized and cooked through but still intact - **don't let it get mushy**
+7. Remove the lid, sprinkle with Sichuan peppercorns (if using), spring onion whites, and a pinch of sugar
 8. Season with 1/2 teaspoon salt and a pinch of black pepper
 9. Toss for 30 seconds, then turn off heat
 
@@ -73,16 +73,16 @@
 1. Add the reserved noodle cooking water to the sauce bowl and whisk to combine (thins it out)
 2. Divide the sauce among four serving bowls
 3. Divide noodles among the bowls, on top of the sauce
-4. Top each bowl with eggplant, scallion greens, cilantro leaves, and chopped peanuts
+4. Top each bowl with aubergine, spring onion greens, coriander leaves, and chopped peanuts
 
 ### Serve
-To eat, toss everything together so the noodles and eggplant are well coated in sauce. Serve topped with additional chile oil or crisp.
+To eat, toss everything together so the noodles and aubergine are well coated in sauce. Serve topped with additional chile oil or crisp.
 
 ## Notes & Tips
 
 ### Key Techniques
-- **Don't overcook the eggplant**: You want caramelized and tender but not mushy
-- **Keep eggplant chunky**: Larger pieces hold up better to the tossing
+- **Don't overcook the aubergine**: You want caramelized and tender but not mushy
+- **Keep aubergine chunky**: Larger pieces hold up better to the tossing
 - **Toss every 60 seconds**: Keeps it from sticking and ensures even cooking
 - **Reserve pasta water**: Essential for thinning the thick tahini sauce
 
@@ -94,7 +94,7 @@ To eat, toss everything together so the noodles and eggplant are well coated in 
 ### Prep-Ahead
 - Sauce can be made up to 3 days ahead (refrigerate, bring to room temp before using)
 - Peanuts can be chopped ahead
-- Scallions and cilantro can be prepped and stored in damp paper towel
+- Spring onions and coriander can be prepped and stored in damp kitchen paper
 
 ## Serving Suggestions
 - **Pair with**: Smashed cucumber salad, edamame appetizer
@@ -112,7 +112,7 @@ To eat, toss everything together so the noodles and eggplant are well coated in 
 ## Tasting Notes & Recipe Evolution
 
 ### First Make (Feb 2026)
-- Scaled 1.95x to use 3 eggplants (1108g untrimmed)
-- Cooked eggplant in 2 batches for proper caramelization
-- Served 2, packed remaining ~6 servings as leftovers (noodles, eggplant, sauce stored separately)
+- Scaled 1.95x to use 3 aubergines (1108g untrimmed)
+- Cooked aubergine in 2 batches for proper caramelization
+- Served 2, packed remaining ~6 servings as leftovers (noodles, aubergine, sauce stored separately)
 - Verdict: Tasty!

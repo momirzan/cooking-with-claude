@@ -1,4 +1,4 @@
-# Green Linguine with Kale, Arugula, Miso & Edamame
+# Green Linguine with Kale, Rocket, Miso & Edamame
 
 Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light and nutritious.
 
@@ -10,9 +10,9 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 | Item | Amount |
 |------|--------|
 | Lacinato kale, stems removed | 175 g |
-| Arugula | 1 packed cup |
+| Rocket | 25g, packed [1 packed cup] <!-- CHECK --> |
 | Fresh parsley, chopped | 2-3 tbsp |
-| Frozen shelled edamame | ½ cup |
+| Frozen shelled edamame | 75g [½ cup] <!-- CHECK --> |
 
 ### Aromatics & Savory Base
 | Item | Amount |
@@ -30,7 +30,7 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 | Item | Amount |
 |------|--------|
 | Bucatini or linguine | 175-200 g |
-| Pasta water | reserve ¾ cup |
+| Pasta water | reserve 180ml |
 
 ### Optional Toppings
 - Parmesan cheese
@@ -44,7 +44,7 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 
 2. **Blanch kale**: Bring salted water to boil, add kale for 45-60 seconds, transfer immediately to ice bath. Don't squeeze completely dry - some moisture helps blending
 
-3. **Cook pasta**: Use same water. Cook until just al dente (add 1-2 min for altitude). Reserve ¾ cup pasta water before draining
+3. **Cook pasta**: Use same water. Cook until just al dente (add 1-2 min for altitude). Reserve 180ml pasta water before draining
 
 4. **Cook edamame**: Boil or microwave 3-4 minutes, drain
 
@@ -53,7 +53,7 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 6. **Blend sauce**: Add to blender:
    - Blanched kale
    - Cooked edamame
-   - Arugula
+   - Rocket
    - Parsley
    - Sautéed shallot
    - Garlic
@@ -74,7 +74,7 @@ Silky, peppery, bright high-protein pasta with blended green sauce - dairy-light
 
 ## Notes
 
-- **Flavor profile**: Peppery from arugula, deeply savory from miso + shallot + nutritional yeast, silky from yolk and pasta water
+- **Flavor profile**: Peppery from rocket, deeply savory from miso + shallot + nutritional yeast, silky from yolk and pasta water
 - **High protein**: Edamame adds plant protein while blending seamlessly into the sauce
 - **Dairy-light**: No dairy in the sauce itself, only optional parmesan topping
 - **Gentle heat is key**: Keep heat low when warming sauce and emulsifying to prevent yolk from cooking

@@ -9,27 +9,27 @@ A hearty, deeply flavored ragu with roasted mushrooms and a long simmer. Develop
 
 ## Protein Notes
 
-**Tested with bison (2 lbs ground):** Not ideal. Bison is too lean for long braises - the meat dried out despite added fat, and the gamey flavor intensified. The added fat stayed in the sauce but didn't penetrate the meat.
+**Tested with bison (1kg mince):** Not ideal. Bison is too lean for long braises - the meat dried out despite added fat, and the gamey flavor intensified. The added fat stayed in the sauce but didn't penetrate the meat.
 
 **Recommended proteins to try:**
-- Beef chuck (ground or cubed) - fatty, collagen-rich, falls apart beautifully
+- Beef chuck (minced or cubed) - fatty, collagen-rich, falls apart beautifully
 - Pork shoulder or beef/pork mix
 - Short rib (incredible for ragu)
-- Ground beef (80/20 for fat content)
+- Beef mince (80/20 for fat content)
 
 ## Ingredients
 
 ### For the Ragu
-- 2 lbs ground meat (see protein notes)
-- 1 lb mixed mushrooms, roughly chopped
+- 1kg mince (see protein notes)
+- 450g mixed mushrooms, roughly chopped
 - 1 large onion, small dice
 - 2-3 shallots, small dice
 - 3-4 celery stalks, small dice
 - 3-4 carrots, small dice
 - 4-6 cloves garlic, minced
-- 2-3 Tbsp tomato paste
-- 1 cup red wine (plus more for deglazing)
-- 1 can (28 oz) strained tomatoes (or crushed)
+- 2-3 tbsp tomato purée
+- 240ml red wine (plus more for deglazing)
+- 800g passata [1 can (28 oz) strained tomatoes] (or 2 × 400g tins crushed/chopped tomatoes) <!-- CHECK -->
 - 4-6 Roma tomatoes, large chop
 - Olive oil
 - Salt and pepper
@@ -47,13 +47,13 @@ A hearty, deeply flavored ragu with roasted mushrooms and a long simmer. Develop
 
 ## Method
 
-### 1. Roast the Mushrooms (400°F, 20-25 min)
-- Spread mushrooms on sheet pans in single layer
-- Roast at 400°F for 20-25 minutes, tossing halfway
+### 1. Roast the Mushrooms (200°C / 180°C fan / gas 6, 20-25 min)
+- Spread mushrooms on baking trays in single layer
+- Roast at 200°C / 180°C fan / gas 6 for 20-25 minutes, tossing halfway
 - Goal: concentrated, slightly crispy, deep umami flavor
 
 ### 2. Brown the Meat in Batches
-- Add oil to hot Dutch oven
+- Add oil to hot Dutch oven (lidded casserole)
 - Brown meat in batches, getting good color on outside (doesn't need to cook through)
 - Transfer to bowl, leave fond in pot
 - **Note:** For lean meats, add extra fat and don't overcrowd
@@ -64,16 +64,16 @@ A hearty, deeply flavored ragu with roasted mushrooms and a long simmer. Develop
 - Scrape up fond as vegetables release moisture
 - Sweat 20-30 minutes until soft and golden (longer = better)
 
-### 4. Add Tomato Paste and Garlic
-- Push veggies aside, add tomato paste to clear spot
-- Cook paste 1-2 minutes until darkened
+### 4. Add Tomato Purée and Garlic
+- Push veggies aside, add tomato purée to clear spot
+- Cook purée 1-2 minutes until darkened
 - Add garlic, stir 30 seconds
 - Mix into vegetables
 
 ### 5. Deglaze and Add Tomatoes
 - Add wine, let bubble and reduce by half
 - Add Roma tomatoes, cover briefly to soften, then crush
-- Add strained tomatoes
+- Add passata
 - Add more wine if desired (will mellow during simmer)
 
 ### 6. Simmer

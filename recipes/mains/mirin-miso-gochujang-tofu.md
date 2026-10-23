@@ -12,7 +12,7 @@
 ## Ingredients
 
 ### For the Marinade
-- 1 block (14-16 oz) extra-firm tofu, pressed and cubed
+- 1 block (400-450g) extra-firm tofu, pressed and cubed
 - 2 tbsp soy sauce
 - 1 tbsp mirin
 - 1 tbsp miso paste
@@ -20,28 +20,28 @@
 - 1 tsp fish sauce
 - 1 tbsp sesame oil
 - 1 tsp rice vinegar
-- ½ tsp ground ginger (or 1 inch fresh, grated)
+- ½ tsp ground ginger (or 2.5cm fresh, grated)
 - 2-3 cloves garlic, minced
 
 ## Instructions
 
 1. **Press tofu**: Wrap in clean towels, place heavy object on top for 15+ minutes
-2. **Cut into 1-inch cubes**
+2. **Cut into 2.5cm cubes**
 3. **Make marinade**: Whisk together soy sauce, mirin, miso, gochujang, fish sauce, sesame oil, rice vinegar, ginger, and garlic
 4. **Marinate**: Coat tofu with marinade, let sit at least 15-30 minutes (longer is better)
-5. **Preheat oven** to 400-425°F, line sheet pan with parchment
+5. **Preheat oven** to 200-220°C / 180-200°C fan / gas 6-7, line baking tray with baking paper
 6. **Arrange tofu**: Single layer, space between pieces, drain excess marinade
 7. **Roast**: 25-30 minutes, flip halfway through
-8. **Optional crisp**: Broil last 2-3 minutes for extra crispy edges
+8. **Optional crisp**: Grill last 2-3 minutes for extra crispy edges
 
 ## Serving Suggestion (Tested)
 
-Roast alongside on a separate sheet pan:
-- 1 can chickpeas (drained)
+Roast alongside on a separate baking tray:
+- 1 × 400g tin chickpeas (drained)
 - Butternut squash, cubed
 - Broccoli florets
 - Cauliflower florets
-- Bell peppers, chopped
+- Peppers, chopped
 - Toss in leftover marinara sauce + olive oil + turmeric
 - Same oven temp, same timing
 

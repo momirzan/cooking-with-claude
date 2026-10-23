@@ -3,13 +3,13 @@
 - **Cook Time**: 6-8 hours sous vide
 - **Chill Time**: Overnight
 - **Total Time**: 6-8 hours + overnight
-- **Yield**: 1.5-2 lb roast (8-10 servings)
+- **Yield**: 680-900g roast (8-10 servings)
 - **Difficulty**: Medium (requires sous vide equipment)
 - **Type**: Make-Ahead Protein
 - **Source**: Christmas 2025 Menu - 12/22 Prep
 
 ### Ingredients
-- [ ] **Top sirloin roast** (1.5-2 lb) - *Location: order from Whole Foods*
+- [ ] **Beef rump joint [top sirloin roast]** (680-900g) <!-- CHECK --> - *Location: order from Whole Foods*
 - [ ] **Kosher salt** (generous) - *Location: upstairs pantry*
 - [ ] **Black pepper** (generous) - *Location: upstairs pantry*
 - [ ] **Garlic powder** (1 tsp) - *Location: upstairs pantry*
@@ -20,7 +20,7 @@
 - [ ] **Sous vide immersion circulator**
 - [ ] **Large pot or container** (for water bath)
 - [ ] **Vacuum sealer or freezer bags**
-- [ ] **Cast iron skillet** (for searing)
+- [ ] **Cast iron frying pan** (for searing)
 - [ ] **Tongs**
 - [ ] **Ice bath** (large bowl + ice)
 
@@ -28,7 +28,7 @@
 
 #### 1. Sear the Roast
 1. Season roast generously with salt, pepper, and garlic powder
-2. Heat cast iron skillet over high heat until smoking
+2. Heat cast iron frying pan over high heat until smoking
 3. Sear roast on all sides until deeply browned (2-3 minutes per side)
 4. **Goal:** Dark crust on all surfaces
 5. Let cool briefly (5-10 minutes)
@@ -36,9 +36,9 @@
 #### 2. Sous Vide
 1. Place roast in vacuum bag with fresh herbs
 2. Seal bag (vacuum seal or water displacement method)
-3. Set sous vide to **129-131°F** for medium-rare
+3. Set sous vide to **54-55°C** for medium-rare
 4. Cook **6-8 hours** (longer = more tender)
-5. **Temperature is key:** 129°F = rare, 131°F = medium-rare
+5. **Temperature is key:** 54°C = rare, 55°C = medium-rare
 
 #### 3. Ice Bath and Chill
 1. Remove bag from water bath
@@ -63,9 +63,9 @@
 - **Refrigerate overnight:** Allows texture to set, makes slicing easier
 
 **Temperature Guide:**
-- 129°F = Rare (cool red center)
-- 131°F = Medium-rare (warm pink center) ← **Recommended**
-- 135°F = Medium (warm pink throughout)
+- 54°C = Rare (cool red center)
+- 55°C = Medium-rare (warm pink center) ← **Recommended**
+- 57°C = Medium (warm pink throughout)
 
 **Slicing:**
 - Cold meat slices cleaner than warm

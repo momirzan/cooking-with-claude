@@ -9,18 +9,18 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 ### Crab Salad
 | Item | Amount |
 |------|--------|
-| Cooked Dungeness crabs | 2 whole (yields 15-16 oz meat) |
-| Mayonnaise (high quality) | 3 Tbsp |
+| Cooked Dungeness crabs | 2 whole (yields 425-450g meat) <!-- CHECK --> |
+| Mayonnaise (high quality) | 3 tbsp |
 | Fresh lemon juice | 1-2 tsp |
 | Salt and black pepper | to taste |
 
 ### Garlic Bread
 | Item | Amount |
 |------|--------|
-| Sourdough bread | 6 slices, ½-¾" thick |
-| Unsalted butter, softened | 6-8 Tbsp |
+| Sourdough bread | 6 slices, 1-2cm thick |
+| Unsalted butter, softened | 90-115g |
 | Fresh garlic, minced | 4-5 cloves |
-| Extra-virgin olive oil | 1 Tbsp |
+| Extra-virgin olive oil | 1 tbsp |
 | Kosher salt | ½ tsp |
 | Red pepper flakes (optional) | pinch |
 
@@ -28,7 +28,7 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 | Item | Amount |
 |------|--------|
 | Ripe tomato | 3 slices |
-| Flat-leaf parsley, chopped | 3 Tbsp |
+| Flat-leaf parsley, chopped | 3 tbsp |
 | Lemon wedges | for serving |
 | Black pepper | freshly ground |
 
@@ -37,9 +37,9 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 - Crab pick or chopstick
 - Kitchen shears (optional)
 - Small saucepan
-- Large skillet
+- Large frying pan
 - Rubber spatula
-- Paper towels
+- Kitchen paper
 
 ## Instructions
 
@@ -53,10 +53,10 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
    - **Knuckle meat**: Don't miss this - it's the sweetest part!
    - **Legs & claws**: Crack gently to keep meat in large chunks
 6. Keep meat in large, beautiful chunks
-7. Expected yield: 15-16 oz picked crabmeat
+7. Expected yield: 425-450g picked crabmeat
 
 ### Step 2: Prepare Crab Mixture (5 minutes)
-8. Pat crabmeat gently with paper towels to remove excess moisture
+8. Pat crabmeat gently with kitchen paper to remove excess moisture
 9. In medium bowl, whisk together: mayo, lemon juice, salt, pepper
 10. Add crabmeat and fold gently with rubber spatula
 11. Don't overmix - preserve those beautiful lumps!
@@ -69,16 +69,16 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 16. Remove from heat and stir in olive oil
 
 ### Step 4: Grill the Sourdough (5-7 minutes)
-17. Heat large skillet over medium heat
+17. Heat large frying pan over medium heat
 18. Brush garlic butter generously on one side of each slice
-19. Place bread butter-side down in skillet
+19. Place bread butter-side down in frying pan
 20. Cook 2-3 minutes until deep golden brown with crispy edges
 21. No need to toast both sides
 
 ### Step 5: Assemble Sandwiches
 22. Place one slice grilled sourdough on each plate, grilled side up
 23. Add tomato slice
-24. Heap 5-6 oz crab mixture generously on each
+24. Heap 140-170g crab mixture generously on each
 25. Sprinkle with fresh chopped parsley
 26. Add crack of fresh black pepper
 27. Top with second slice, grilled side facing crab
@@ -90,7 +90,7 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 
 ## Notes
 
-- **Expected crab yield**: A 1.75-2 lb cooked crab yields 7.5-8 oz meat. Two crabs = 15-16 oz total
+- **Expected crab yield**: A 800-900g cooked crab yields 210-225g meat. Two crabs = 425-450g total
 - **Handle crab gently**: Use rubber spatula, don't overmix or break up lumps
 - **Pat dry**: Remove excess moisture to avoid watery filling
 - **Don't brown garlic**: Burnt garlic is bitter

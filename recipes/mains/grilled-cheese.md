@@ -9,19 +9,19 @@ Two premium cheddars with roasted heirloom tomatoes on crispy sourdough.
 | Item | Amount |
 |------|--------|
 | Sourdough bread | 4 thick slices |
-| Aged sharp cheddar | 2-3 oz, sliced or shredded |
-| Smoked cheddar | 2-3 oz, sliced or shredded |
-| Heirloom tomatoes | 1-2 medium, sliced ¼" thick |
-| Butter | 2-3 Tbsp |
+| Aged sharp cheddar | 55-85g, sliced or shredded |
+| Smoked cheddar | 55-85g, sliced or shredded |
+| Heirloom tomatoes | 1-2 medium, sliced 5mm thick |
+| Butter | 30-45g |
 | Olive oil | drizzle |
 | Salt and pepper | to taste |
 
 ## Instructions
 
 ### Step 1: Roast Tomatoes (10 minutes)
-1. Preheat oven to 425°F
-2. Slice tomatoes into ¼" thick rounds
-3. Arrange on parchment-lined baking sheet
+1. Preheat oven to 220°C / 200°C fan / gas 7
+2. Slice tomatoes into 5mm thick rounds
+3. Arrange on baking-paper-lined baking sheet
 4. Drizzle with olive oil, sprinkle with salt and pepper
 5. Roast 8-10 minutes until slightly softened and edges caramelize
 
@@ -34,7 +34,7 @@ Two premium cheddars with roasted heirloom tomatoes on crispy sourdough.
 8. Close sandwiches with remaining bread slices
 
 ### Step 3: Grill (8-10 minutes)
-9. Heat large skillet over medium heat
+9. Heat large frying pan over medium heat
 10. Butter outside of each sandwich generously
 11. Place sandwiches in pan and cook 4-5 minutes per side
 12. Press gently with spatula for even browning
@@ -47,5 +47,5 @@ Two premium cheddars with roasted heirloom tomatoes on crispy sourdough.
 - **Bread thickness**: Thick-cut sourdough provides sturdy base and great texture contrast
 - **Temperature control**: Medium heat prevents burning while allowing cheese to melt fully
 - **Make-ahead**: Roast tomatoes in advance; assemble and grill when ready to serve
-- **Variations**: Add fresh basil leaves or arugula for extra flavor
+- **Variations**: Add fresh basil leaves or rocket for extra flavor
 - **Perfect pairing**: Serve with homemade tomato soup

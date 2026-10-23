@@ -17,31 +17,31 @@
 
 ## Ingredients
 
-- [ ] **Chickpeas** (2 cans, 15 oz each, drained and rinsed)
-- [ ] **Full-fat coconut milk** (1 can, 13.5 oz)
-- [ ] **Fire-roasted diced tomatoes** (1 can, 14.5 oz)
+- [ ] **Chickpeas** (2 × 400g tins, drained and rinsed)
+- [ ] **Full-fat coconut milk** (1 × 400ml tin)
+- [ ] **Fire-roasted chopped tomatoes** (1 × 400g tin) <!-- CHECK -->
 - [ ] **Yellow onion** (1 large, diced)
 - [ ] **Garlic** (4 cloves, minced)
-- [ ] **Fresh ginger** (1-inch piece, grated)
+- [ ] **Fresh ginger** (2.5cm piece, grated)
 - [ ] **Cumin** (1½ tsp)
-- [ ] **Coriander** (1 tsp)
+- [ ] **Ground coriander** (1 tsp)
 - [ ] **Turmeric** (½ tsp)
 - [ ] **Smoked paprika** (½ tsp)
 - [ ] **Cayenne** (¼ tsp, optional)
-- [ ] **Baby spinach or lacinato kale** (5 oz, roughly chopped)
+- [ ] **Baby spinach or cavolo nero (lacinato kale)** (140g, roughly chopped)
 - [ ] **Olive oil** (2 tbsp)
 - [ ] **Lemon juice** (2 tbsp)
 - [ ] **Salt and pepper** (to taste)
 
 ### Garnish
-- [ ] **Fresh cilantro**
+- [ ] **Fresh coriander**
 - [ ] **Crushed red pepper flakes**
 - [ ] **Warm naan or crusty bread**
 
 ## Instructions
 
 ### Phase 1: Sauté (5 minutes)
-1. Heat olive oil in a large Dutch oven over medium heat
+1. Heat olive oil in a large Dutch oven (lidded casserole) over medium heat
 2. Add onion, cook 4 minutes until soft
 3. Add garlic, ginger, cumin, coriander, turmeric, smoked paprika, and cayenne
 4. Stir 30 seconds until fragrant
@@ -57,10 +57,10 @@
 2. Add lemon juice, salt, and pepper to taste
 
 ### To Serve
-Ladle into bowls, top with cilantro and red pepper flakes. Serve with warm naan or over rice.
+Ladle into bowls, top with coriander and red pepper flakes. Serve with warm naan or over rice.
 
 ## Notes
 - One of the fastest "feels fancy" dinners — under 40 minutes
 - Freezes well for 3 months (add greens after thawing/reheating)
-- Swap greens for whatever you have: Swiss chard, collards, or arugula
+- Swap greens for whatever you have: Swiss chard, collards, or rocket
 - Add sweet potato cubes with the chickpeas for a heartier version

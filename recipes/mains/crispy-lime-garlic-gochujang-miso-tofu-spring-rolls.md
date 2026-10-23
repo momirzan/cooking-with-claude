@@ -21,7 +21,7 @@ Oven-roasted tofu (for moisture control and structure) finished with a miso-goch
 - [ ] **Algae oil** (neutral, high-heat) for roasting
 
 ### Gochujang-Miso Glaze
-- [ ] **Soy sauce or tamari** (1.5 Tbsp)
+- [ ] **Soy sauce or tamari** (1.5 tbsp)
 - [ ] **White miso** (1 tsp)
 - [ ] **Gochujang** (1 tsp)
 - [ ] **Maple syrup or sugar** (1 tsp)
@@ -32,7 +32,7 @@ Oven-roasted tofu (for moisture control and structure) finished with a miso-goch
 
 ### Vegetables
 - [ ] **Carrot** (1, julienned)
-- [ ] **Bell pepper** (1, thinly sliced)
+- [ ] **Sweet pepper** (1, thinly sliced)
 - [ ] **Cucumber** (0.5-1, cut into thin sticks)
 
 ### Other
@@ -40,7 +40,7 @@ Oven-roasted tofu (for moisture control and structure) finished with a miso-goch
 - [ ] **Toasted sesame oil** (finish only)
 
 ### Dipping Sauce
-- [ ] **Soy sauce or tamari** (1.5 Tbsp)
+- [ ] **Soy sauce or tamari** (1.5 tbsp)
 - [ ] **Lime juice** (from 0.5-1 lime)
 - [ ] **Maple syrup** (1 tsp)
 - [ ] **White miso** (0.5 tsp)
@@ -53,7 +53,7 @@ Oven-roasted tofu (for moisture control and structure) finished with a miso-goch
 | Time | Task |
 |------|------|
 | 4:00-4:05 | Prep tofu, make glaze, start marinating |
-| 4:05-4:20 | Prep vegetables, preheat oven to 425°F, mix dipping sauce |
+| 4:05-4:20 | Prep vegetables, preheat oven to 220°C / 200°C fan / gas 7, mix dipping sauce |
 | 4:20-4:40 | Oven-roast tofu |
 | 4:40-4:50 | Finish tofu with glaze, assemble rolls, rest rolls |
 | 4:50-5:00 | Pan-sear rolls |
@@ -83,13 +83,13 @@ Reserve half for finishing.
 ### Step 3: Prep Vegetables
 - **Carrot**: Julienne, toss with pinch of salt + tiny squeeze lime, rest 5 min
 - **Cucumber**: Toss with pinch of salt, let release moisture, pat dry
-- **Bell pepper**: Slice thin, leave raw
+- **Sweet pepper**: Slice thin, leave raw
 
 Keep all filling components dry.
 
 ### Step 4: Oven-Roast Tofu
-1. Heat oven to **425°F (220°C)**
-2. Line sheet pan with parchment
+1. Heat oven to **220°C / 200°C fan / gas 7**
+2. Line baking tray with baking paper
 3. Spread tofu in a single layer
 4. Drizzle with **1 tsp algae oil**, toss lightly
 5. Bake **20 minutes**, flipping once halfway
