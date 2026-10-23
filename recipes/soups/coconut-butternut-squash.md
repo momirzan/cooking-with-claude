@@ -12,7 +12,7 @@ Creamy vegan soup with curry, ginger, and coconut milk, topped with sautéed kal
 | Item | Amount |
 |------|--------|
 | Butternut squash | 1360g |
-| Olive oil | 4 tbsp |
+| Olive oil | 60ml |
 | Large yellow onions, chopped | 2 |
 | Medium apples, peeled and diced | 2 |
 | Vegetable stock | 960ml |

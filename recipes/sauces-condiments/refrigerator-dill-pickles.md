@@ -12,7 +12,7 @@ Crisp, garlicky-dill fridge pickles. No canning — they live in the fridge and 
   - 240ml **apple cider vinegar** *(or distilled white for a cleaner/classic taste)*
   - 1 tbsp salt
   - 1 tsp sugar (optional, rounds the tang)
-- Optional spices: 1 tsp black peppercorns · ½ tsp coriander seeds · pinch red pepper flakes · mustard seed if you have it
+- Optional spices: 1 tsp black peppercorns · ½ tsp coriander seeds · pinch dried chilli flakes · mustard seed if you have it
 
 ## Method
 1. **Pack** the cut cucumbers tightly into a clean 1-litre jar with the dill, garlic, and any whole spices.

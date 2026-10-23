@@ -22,7 +22,7 @@ Iconic Oracle Park sandwich with Dungeness crab, garlic-grilled sourdough, and t
 | Fresh garlic, minced | 4-5 cloves |
 | Extra-virgin olive oil | 1 tbsp |
 | Kosher salt | ½ tsp |
-| Red pepper flakes (optional) | pinch |
+| Dried chilli flakes (optional) | pinch |
 
 ### Assembly
 | Item | Amount |

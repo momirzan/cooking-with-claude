@@ -29,7 +29,7 @@ This feast includes 5 main components that can be mixed and matched all week:
 - **1,080ml vegetable stock** (840ml for white rice)
 - **1 tsp ground cumin**
 - **1/2 tsp smoked paprika**
-- **1/2 tsp chili powder**
+- **1/2 tsp mild chilli powder (US-style blend) [chili powder]** <!-- CHECK -->
 - **1 tsp salt** (less if using salted stock)
 - **1/4 tsp black pepper**
 - **Juice from 1 lime** (at end)
@@ -57,7 +57,7 @@ This feast includes 5 main components that can be mixed and matched all week:
 - **1.75 tbsp soy sauce**
 
 **Spice Mix:**
-- **3.5 tbsp chili powder**
+- **3.5 tbsp mild chilli powder (US-style blend) [chili powder]** <!-- CHECK -->
 - **1.75 tbsp smoked paprika**
 - **3.5 tsp ground cumin**
 - **1.75 tsp ground coriander**

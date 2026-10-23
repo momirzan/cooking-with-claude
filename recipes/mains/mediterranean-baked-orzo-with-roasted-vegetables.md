@@ -29,7 +29,7 @@
 - [ ] **Olive oil** (3 tbsp)
 - [ ] **Dried oregano** (1½ tsp)
 - [ ] **Smoked paprika** (½ tsp)
-- [ ] **Crushed red pepper flakes** (¼ tsp)
+- [ ] **Dried chilli flakes** (¼ tsp)
 - [ ] **Lemon zest and juice** (1 lemon)
 - [ ] **Salt and pepper** (to taste)
 
@@ -50,7 +50,7 @@
 1. Heat 1 tbsp olive oil in a large ovenproof frying pan or Dutch oven (lidded casserole) over medium heat
 2. Add garlic, cook 30 seconds
 3. Add orzo, stir to coat in oil, toast 1 minute
-4. Pour in vegetable stock, oregano, smoked paprika, and red pepper flakes
+4. Pour in vegetable stock, oregano, smoked paprika, and dried chilli flakes
 5. Bring to a boil, then reduce heat, cover, and simmer 8-9 minutes until orzo is al dente and stock is mostly absorbed
 
 ### Phase 3: Combine & Bake (15 minutes)

@@ -1,4 +1,4 @@
-# Miso-Gochujang Tofu Sheet Pan
+# Miso-Gochujang Tofu Traybake
 
 Easy weeknight vegan meal with crispy tofu and roasted vegetables.
 

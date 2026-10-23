@@ -126,7 +126,7 @@ Components, condiments, and staples to prepare in advance for easier meal assemb
 - Garlic
 - Olive oil
 - Red wine vinegar
-- Red pepper flakes
+- Dried chilli flakes
 - Salt
 
 ### For Spring Onion Ginger

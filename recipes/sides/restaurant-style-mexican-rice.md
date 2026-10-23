@@ -20,7 +20,7 @@
 **Seasonings:**
 - [ ] **Ground cumin** (1 tsp)
 - [ ] **Smoked paprika** (1/2 tsp)
-- [ ] **Chili powder** (1/2 tsp)
+- [ ] **Mild chilli powder (US-style blend) [chili powder]** (1/2 tsp) <!-- CHECK -->
 - [ ] **Salt** (1 tsp, less if using salted stock)
 - [ ] **Black pepper** (1/4 tsp)
 

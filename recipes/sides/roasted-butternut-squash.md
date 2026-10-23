@@ -34,7 +34,7 @@ Simple roasted cubes with olive oil and spices - perfect side dish for any seaso
 - Add cinnamon and a drizzle of maple syrup
 
 **Spicy:**
-- Add cumin and chili powder
+- Add cumin and mild chilli powder [chili powder] <!-- CHECK -->
 
 ## Notes
 

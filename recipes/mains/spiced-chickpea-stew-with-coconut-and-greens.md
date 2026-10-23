@@ -35,7 +35,7 @@
 
 ### Garnish
 - [ ] **Fresh coriander**
-- [ ] **Crushed red pepper flakes**
+- [ ] **Dried chilli flakes**
 - [ ] **Warm naan or crusty bread**
 
 ## Instructions
@@ -57,7 +57,7 @@
 2. Add lemon juice, salt, and pepper to taste
 
 ### To Serve
-Ladle into bowls, top with coriander and red pepper flakes. Serve with warm naan or over rice.
+Ladle into bowls, top with coriander and dried chilli flakes. Serve with warm naan or over rice.
 
 ## Notes
 - One of the fastest "feels fancy" dinners — under 40 minutes

@@ -18,7 +18,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Autumn Pear Royale (Martini-Style)](cocktails/autumn-pear-royale.md) - Elegant fall cocktail with pear brandy, Sauternes, and sparkling hard cider
 
 ### 🥗 Appetizers
-- [Beetroot + Goat Cheese Phyllo Tartlets](appetizers/beet-goat-cheese-phyllo-tartlets.md) - Elegant individual tartlets perfect for parties
+- [Beetroot + Goat Cheese Filo Tartlets](appetizers/beet-goat-cheese-phyllo-tartlets.md) - Elegant individual tartlets perfect for parties
 - [Silky Restaurant-Quality Hummus](appetizers/silky-hummus.md) - Overcooked, skinned chickpeas + whipped tahini base for ultra-smooth hummus
 - [Smoky Christmas Lima Dip](appetizers/christmas-lima-dip.md) - Cold, buttery heirloom-bean dip with miso and smoked paprika
 
@@ -36,7 +36,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Mediterranean Baked Orzo with Roasted Vegetables](mains/mediterranean-baked-orzo-with-roasted-vegetables.md) - One-pan baked orzo
 - [MEGA Mexican Bowl Feast](mains/mega-mexican-bowl-feast.md) - Build-your-own bowls with soyrizo rice and toppings
 - [Mirin-Miso-Gochujang Roasted Tofu](mains/mirin-miso-gochujang-tofu.md) - Umami-bomb roasted tofu with a five-sauce marinade
-- [Miso-Gochujang Tofu Sheet Pan](mains/miso-gochujang-tofu.md) - Easy weeknight vegan meal with crispy tofu
+- [Miso-Gochujang Tofu Traybake](mains/miso-gochujang-tofu.md) - Easy weeknight vegan meal with crispy tofu
 - [Mushroom-Enhanced Soyrizo](mains/mushroom-enhanced-soyrizo.md) - Plant-based chorizo for meal prep
 - [Rustic Meat Ragu with Roasted Mushrooms](mains/rustic-meat-ragu-with-roasted-mushrooms.md) - Hearty long-simmered ragu (try with beef or pork, not bison)
 - [SF Giants Crazy Crab Sandwich](mains/crazy-crab-sandwich.md) - Iconic Oracle Park Dungeness crab sandwich
@@ -62,7 +62,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - [Roasted Cauliflower Tahini Soup](soups/roasted-cauliflower-tahini-soup.md) - Creamy dairy-free cauliflower soup
 - [Smoky Red Lentil Soup with Za'atar](soups/smoky-red-lentil-soup-with-za-atar.md) - Fast pantry lentil soup
 - [Vegan Tomato–Bean Stew](soups/vegan-tomatobean-stew.md) - Hearty and nutritious one-pot meal
-- [Vegetable Broth 2.0](soups/vegetable-broth-2.md) - Homemade base broth
+- [Vegetable Stock 2.0](soups/vegetable-broth-2.md) - Homemade base broth
 
 ### 🥫 Sauces & Condiments
 - [Au Jus (For Roast Beef Sandwiches)](sauces-condiments/au-jus-for-roast-beef-sandwiches.md) - Rich beef drippings sauce
@@ -122,7 +122,7 @@ A collection of tested and loved recipes, organized by category for easy browsin
 - Gourmet Grilled Cheese with Roasted Tomatoes
 - Creamy Bucatini with Mushrooms
 - Herby Olive Oil Croutons
-- Miso-Gochujang Tofu Sheet Pan
+- Miso-Gochujang Tofu Traybake
 
 ### 31-45 Minutes
 - Eleven Madison Park Granola (35-40 min bake)

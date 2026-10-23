@@ -24,7 +24,7 @@
 - [ ] **Smoked paprika** (1½ tsp)
 - [ ] **Cumin** (1 tsp)
 - [ ] **Turmeric** (½ tsp)
-- [ ] **Crushed red pepper flakes** (¼ tsp, or to taste)
+- [ ] **Dried chilli flakes** (¼ tsp, or to taste)
 - [ ] **Fire-roasted chopped tomatoes** (1 × 400g tin) <!-- CHECK -->
 - [ ] **Vegetable stock** (1.2 litres)
 - [ ] **Olive oil** (2 tbsp)
@@ -41,7 +41,7 @@
 ### Phase 1: Sauté Aromatics (5 minutes)
 1. Heat olive oil in a large Dutch oven (lidded casserole) over medium heat
 2. Add onion and carrots, cook 4-5 minutes until softened
-3. Add garlic, smoked paprika, cumin, turmeric, and red pepper flakes
+3. Add garlic, smoked paprika, cumin, turmeric, and dried chilli flakes
 4. Stir 30 seconds until fragrant
 
 ### Phase 2: Simmer (30 minutes)

@@ -18,7 +18,7 @@
 - [ ] **Soy sauce** (1 tbsp)
 
 **Spice Mix:**
-- [ ] **Chili powder** (2 tbsp)
+- [ ] **Mild chilli powder (US-style blend) [chili powder]** (2 tbsp) <!-- CHECK -->
 - [ ] **Smoked paprika** (1 tbsp)
 - [ ] **Ground cumin** (2 tsp)
 - [ ] **Ground coriander** (1 tsp)

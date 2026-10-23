@@ -94,7 +94,7 @@
 
 ### Variations
 - **Smoky version**: Add 1 tsp smoked paprika with the garlic
-- **Spicy**: Add a chopped jalapeño or red pepper flakes during caramelization
+- **Spicy**: Add a chopped jalapeño or dried chilli flakes during caramelization
 - **Creamy**: Stir in a splash of coconut cream or cashew cream before serving
 - **Heartier**: Serve over rice or with grilled cheese
 
