@@ -24,7 +24,7 @@
 ## Instructions
 
 ### Step 1: Prep
-1. Preheat oven to **300°F**
+1. Preheat oven to **150°C / 130°C fan / gas 2**
 2. Wash kale thoroughly
 3. Dry VERY well - use a salad spinner or pat with towels (moisture = soggy chips)
 4. Remove tough stems
@@ -38,17 +38,17 @@
 
 ### Step 3: Bake
 1. Spread in a **single layer** on baking sheet(s) - don't overlap!
-2. Bake 20-25 minutes, rotating pan halfway
+2. Bake 20-25 minutes, rotating tray halfway
 3. Watch carefully at the end - they go from perfect to burnt quickly
 4. Done when crispy but still green (not brown)
 
 ### Step 4: Cool
-Let cool on pan for 5 minutes - they crisp up more as they cool.
+Let cool on tray for 5 minutes - they crisp up more as they cool.
 
 ## Notes & Tips
 
 - **Dry kale is essential** - any moisture will steam instead of crisp
-- **Don't overcrowd** - use multiple pans if needed
+- **Don't overcrowd** - use multiple trays if needed
 - **Low and slow** - higher temps burn before crisping
 - **Season after if using nutritional yeast** - it can burn
 

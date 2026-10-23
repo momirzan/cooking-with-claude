@@ -1,6 +1,6 @@
 # Green Romesco and Couscous Salad with Beans
 
-Nutritious main course salad with herb-based romesco, roasted zucchini, and beans cooked in their own broth.
+Nutritious main course salad with herb-based romesco, roasted courgette, and beans cooked in their own broth.
 
 **Prep Time:** 20 min | **Cook Time:** 25-30 min | **Servings:** 4-6
 
@@ -16,16 +16,16 @@ Nutritious main course salad with herb-based romesco, roasted zucchini, and bean
 
 | Item | Amount |
 |------|--------|
-| Zucchini | 2 medium |
-| Mini eggplants | 1 quart (or as desired) |
-| Cooked beans (any red or white bean) | 1 lb |
-| Bean cooking broth | 2.5 cups |
-| Pearl couscous | ¾ cup |
-| Quinoa (optional for dual-grain) | ¾ cup |
-| Raw walnuts or almonds | ½ cup total |
+| Courgettes | 2 medium |
+| Mini aubergines | about 450g [1 quart] (or as desired) <!-- CHECK --> |
+| Cooked beans (any red or white bean) | 450g |
+| Bean cooking broth | 600ml |
+| Pearl couscous | 130g [¾ cup] <!-- CHECK --> |
+| Quinoa (optional for dual-grain) | 130g |
+| Raw walnuts or almonds | 50g walnuts or 70g almonds total |
 | Curly parsley | 1 bunch |
 | Flat-leaf parsley | 1 bunch |
-| Cilantro | 1 bunch |
+| Fresh coriander | 1 bunch |
 | Radish greens (optional) | as available |
 | Fresh garlic | 3-4 cloves |
 | Fresh lemons | 2 |
@@ -35,21 +35,21 @@ Nutritious main course salad with herb-based romesco, roasted zucchini, and bean
 ## Instructions
 
 ### Phase 1: Roast Vegetables (20 minutes)
-1. Preheat oven to 425°F
-2. Wash and slice zucchini into half-moons
-3. Wash and halve or quarter mini eggplants (keep skin on)
+1. Preheat oven to 220°C / 200°C fan / gas 7
+2. Wash and slice courgettes into half-moons
+3. Wash and halve or quarter mini aubergines (keep skin on)
 4. Toss vegetables with olive oil, salt, and pepper
-5. Spread on sheet pan in single layer and roast 18-20 minutes until golden and tender
+5. Spread on a baking tray in single layer and roast 18-20 minutes until golden and tender
 
 ### Phase 2: Cook Grains (15 minutes)
 
 **Option A - Couscous Only:**
-1. Heat 2 cups bean broth in saucepan until simmering
+1. Heat 480ml bean broth in saucepan until simmering
 2. Add pearl couscous and cook 10-12 minutes until tender
 3. Fluff with fork
 
 **Option B - Couscous + Quinoa Combo:**
-1. Heat 2.5 cups bean broth in saucepan until simmering
+1. Heat 600ml bean broth in saucepan until simmering
 2. Add quinoa first, simmer 10 minutes
 3. Add pearl couscous, cook additional 8-10 minutes
 4. Check both grains for doneness, drain excess liquid if needed
@@ -64,7 +64,7 @@ Nutritious main course salad with herb-based romesco, roasted zucchini, and bean
 
 ### Phase 4: Assemble Salad (5 minutes)
 1. Combine warm grains and beans in large bowl
-2. Add roasted zucchini and eggplant
+2. Add roasted courgette and aubergine
 3. Fold in green romesco
 4. Toss gently to combine
 5. Taste for seasoning
@@ -76,5 +76,5 @@ Nutritious main course salad with herb-based romesco, roasted zucchini, and bean
 - **Storage**: Keeps 3 days refrigerated; serve at room temperature or slightly warm
 - **Grain choice**: Dual-grain version adds protein and texture variety
 - **Health optimization**: Raw nuts reduce AGE (Advanced Glycation End-product) formation
-- **Vegetables**: Mini eggplants add meaty texture
+- **Vegetables**: Mini aubergines add meaty texture
 - **Serving**: Great as main course or side dish; pairs with crusty bread

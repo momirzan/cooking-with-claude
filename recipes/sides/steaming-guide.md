@@ -24,7 +24,7 @@ Reference guide for steaming vegetables at 5,000+ feet elevation.
 
 ## Pro Tips for Altitude Steaming
 
-1. **Cut uniformly**: 1-1.5 inch pieces for even cooking
+1. **Cut uniformly**: 2.5-4cm pieces for even cooking
 2. **Start checking at 7 minutes** to avoid overcooking
 3. **Thick stems**: Slice lengthwise so they cook as fast as florets
 4. **Use tight-fitting lid** to maintain steam pressure

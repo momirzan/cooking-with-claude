@@ -1,4 +1,4 @@
-# Spiced Black Beans with Roasted Delicata & Sungold Tomato Puree
+# Spiced Black Beans with Roasted Delicata & Sungold Tomato Passata
 - **Prep Time**: 20 minutes (beans pre-soaked)
 - **Cook Time**: 30-40 minutes active (6-8 hours slow cooker for beans)
 - **Total Time**: 40 minutes active (plus slow cooker time)
@@ -11,8 +11,8 @@
 
 #### 1. Slow-Cooked Spiced Black Beans
 **Ingredients:**
-- [ ] **Black beans** (1 lb dried, soaked 12-24 hours)
-- [ ] **Vegetable broth** (enough to cover by 2-3 inches)
+- [ ] **Black beans** (450g dried, soaked 12-24 hours)
+- [ ] **Vegetable stock** (enough to cover by 5-7.5cm)
 - [ ] **Bay leaves** (2-3)
 - [ ] **Smoked paprika** (1 tsp)
 - [ ] **Ground coriander** (1/2 tsp)
@@ -20,12 +20,12 @@
 - [ ] **Cinnamon stick** (1)
 - [ ] **Dried chipotle pepper** (1, optional)
 - [ ] **Salt** (1-2 tsp, to taste - add last 30 min)
-- [ ] **Maple syrup or honey** (1 Tbsp - add last 30 min)
+- [ ] **Maple syrup or honey** (1 tbsp - add last 30 min)
 - [ ] **Lime juice** (from 1 lime - add last 30 min)
 
 **Method:**
 1. Drain and rinse soaked beans
-2. Add to slow cooker with broth covering by 2-3 inches
+2. Add to slow cooker with stock covering by 5-7.5cm
 3. Add all spices and aromatics (except salt, maple syrup, lime)
 4. Cook on LOW for 6-8 hours
 5. Check at 6 hours for tenderness
@@ -35,36 +35,36 @@
 #### 2. Roasted Delicata Squash
 **Ingredients:**
 - [ ] **Delicata squash** (1-2 medium)
-- [ ] **Olive oil** (2 Tbsp)
+- [ ] **Olive oil** (2 tbsp)
 - [ ] **Salt and pepper** (to taste)
 
 **Method:**
-1. Preheat oven to 425°F
-2. Slice squash into 1/2-inch half-moons (no peeling needed)
+1. Preheat oven to 220°C / 200°C fan / gas 7
+2. Slice squash into 1cm half-moons (no peeling needed)
 3. Remove seeds
 4. Toss with olive oil, salt, pepper
 5. Roast 25-30 minutes, flipping once, until caramelized
 
 #### 3. Assembly & Garnish
 **Ingredients:**
-- [ ] **Sungold tomato puree** (1 cup) - *Homemade, frozen from summer*
-- [ ] **Queso fresco** (4-6 oz, crumbled)
+- [ ] **Sungold tomato passata** (240ml) - *Homemade, frozen from summer*
+- [ ] **Queso fresco** (115-170g [4-6 oz], crumbled) <!-- CHECK -->
 - [ ] **Fresh marjoram** (small handful)
-- [ ] **Pepitas** (1/4 cup, toasted)
+- [ ] **Pepitas (pumpkin seeds)** (30g, toasted)
 - [ ] **Lime** (for zest and wedges)
 
 ### Timeline for Dinner (5pm Service)
 
 **Morning (8am):**
-- Start beans in slow cooker with broth and spices
+- Start beans in slow cooker with stock and spices
 
 **4:00pm:**
-- Preheat oven to 425°F
+- Preheat oven to 220°C / 200°C fan / gas 7
 - Prep delicata squash
 
 **4:15pm:**
 - Squash into oven
-- Warm sungold tomato puree gently
+- Warm sungold tomato passata gently
 - Toast pepitas
 - Crumble queso fresco
 - Pick marjoram leaves
@@ -81,7 +81,7 @@
 - Final assembly and serve
 
 ### Plating (Bottom to Top)
-1. Warm sungold tomato puree spread as base
+1. Warm sungold tomato passata spread as base
 2. Ladle of spiced black beans with cooking liquid
 3. Fan roasted delicata squash on top
 4. Generous crumble of queso fresco
@@ -90,7 +90,7 @@
 7. Lime zest and final drizzle of bean liquid
 
 ### Notes
-- **Vegetable broth advantage**: Adds incredible depth vs. plain water
+- **Vegetable stock advantage**: Adds incredible depth vs. plain water
 - **Don't skip the cinnamon stick**: Subtle warmth that bridges sweet squash and earthy beans
 - **Queso fresco**: Be generous - its mildness lets other flavors shine
 - **Marjoram vs. oregano**: Marjoram is sweeter and more delicate, perfect here
